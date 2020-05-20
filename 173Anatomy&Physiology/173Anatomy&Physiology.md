@@ -8,7 +8,10 @@ J. G. B., Young, K., Wise, J., Johnson, E., Poe, B.,
 	Kruse, D. H. ... Elf, P.(2017). Anatomy and Physiology.
 	Houston Tx: Open Stax
 
-1. "Though you may approach a course in anatomy and physiology strictly 
-		as a requirement for your field of study, the knowledge you 
-		gain in this course will serve you well in many aspects of your 
-		life"
+1. As witten in Anatomy and Physiology
+	>"Though you may approach a course in anatomy and physiology 
+		strictly  as a requirement for your field of study, the 
+		knowledge you gain in this course will serve you well in many 
+		aspects of your life"
+######	Numeric Translation:
+	¿208152178 ...
