@@ -16,4 +16,4 @@ J. G. B., Young, K., Wise, J., Johnson, E., Poe, B.,
 		knowledge you gain in this course will serve you well in many 
 		aspects of your life"
 ######	Numeric Translation:
-	¿208152178 251521 13125
+	¿208152178 251521 13125 
