@@ -10,7 +10,7 @@ Capture the sun with my eyes
 Leave the world with all its deceit
 
 I want gravity to defy me 
-As I define life within  us
+As I define life within us
 I want the right to choose freely
 Free from the fear of mistrust
 
@@ -33,7 +33,7 @@ It's ever changing
 Never boring
 This I chant every time I write
 Demand life's finest for
-These words are part of me like water
+These words are a part of me like water
 They flow through my body like air
 Tempest of doubt never
 As long as I breathe the words will always be here
