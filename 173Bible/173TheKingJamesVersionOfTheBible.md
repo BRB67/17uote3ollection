@@ -10,6 +10,9 @@
 ### The Book of Psalms
 	27:1 The LORD is my light and my salvation; whom shall I fear? the LORD 
 		is the strength of my life; of whom shall I be afraid?
+		
+		Translation:
+			2085 1215184 
 	
 	27:2 When the wicked, even my enemies and my foes, came upon me to 
 		to eat up my flesh, they stumbled and they fell.
