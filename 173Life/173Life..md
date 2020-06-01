@@ -6,6 +6,8 @@ Openstax.org https://openstax.org/details/anatomy-and-physiology
 J. G. B., Young, K., Wise, J., Johnson, E., Poe, B., 
 	Kruse, D. H. ... Elf, P.(2017). Anatomy and Physiology.
 	Houston Tx: Open Stax
+	
+Pal Young (1982). The Botany Coloring Book
 
 ##### Quote 1. 
 
@@ -20,3 +22,11 @@ J. G. B., Young, K., Wise, J., Johnson, E., Poe, B.,
 		61518 25152118 695124 156 192021425, 2085 11141523125475 251521
 		71914 914 208919 3152118195 2391212 19518225 251521 2351212 914
 		1311425 11916532019 156 25152118 12965?
+
+##### Quote 2.
+	
+	As written in The Botany Coloring Book
+	>"The importance of plants to the survival of humans and other
+		animals cannot be overemphasized. Our basic needs of food,
+		shelter, clothing, and oxygen are provided, either directly or,
+		indirectly, by plants"
