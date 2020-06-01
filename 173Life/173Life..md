@@ -30,3 +30,15 @@ Pal Young (1982). The Botany Coloring Book
 		animals cannot be overemphasized. Our basic needs of food,
 		shelter, clothing, and oxygen are provided, either directly or,
 		indirectly, by plants"
+		
+##### Quote 3.
+
+	As written in The Botany Coloring Book
+	>"Plants provide strong yet lightweight materials used in 
+		construction. Many cultures rely upon plants to provide all or
+		part of the materials used in shelter construction. In some 
+		types of shelters, such as yurts and teepees, poles obtained 
+		from plants are used as a basic framework, which are covered
+		by animal skins or plant materials such as palm leaves. In other
+		types of shelters, such as wood frame houses, wood is the major
+		construction material.
