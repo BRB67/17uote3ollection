@@ -12,7 +12,9 @@
 		is the strength of my life; of whom shall I be afraid?
 		
 		Translation:
-			2085 1215184 919 1325 1297820 1144 191122212091514;
+			2085 1215184 919 1325 1297820 1144 191122212091514; 2381513
+			1981212 9 65118? 2085 1215184 919 2085 1920185147208 156 
+			1325 12965; 156 1325 12965; 156 2381513 1981212 9 25 1618194?
 	
 	27:2 When the wicked, even my enemies and my foes, came upon me to 
 		to eat up my flesh, they stumbled and they fell.
