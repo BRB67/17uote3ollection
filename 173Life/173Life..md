@@ -42,3 +42,8 @@ Pal Young (1982). The Botany Coloring Book
 		by animal skins or plant materials such as palm leaves. In other
 		types of shelters, such as wood frame houses, wood is the major
 		construction material.
+		
+##### Quote 4
+	
+	As written in The Botany Coloring Bool
+	>"Light from the sun is the major source of energy for the earth
