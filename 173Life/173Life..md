@@ -46,4 +46,6 @@ Pal Young (1982). The Botany Coloring Book
 ##### Quote 4
 	
 	As written in The Botany Coloring Bool
-	>"Light from the sun is the major source of energy for the earth
+	>"Light from the sun is the major source of energy for the earth. 
+		Through photosynthesis, plants capture light energy and store it
+		as organic chemical energy. 
