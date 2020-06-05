@@ -17,11 +17,12 @@
 			1325 12965; 156 1325 12965; 156 2381513 1981212 9 25 1618194?
 	
 	27:2 When the wicked, even my enemies and my foes, came upon me to 
-		to eat up my flesh, they stumbled and they fell.
+		 eat up my flesh, they stumbled and they fell.
 		
 		Translation:
 			238514 2085 23931154, 522514 1325 5145139519 1144 1325 
-			615519, 31135 21161514 135 2015
+			615519, 31135 21161514 135 2015 5120 2116 1325 6125198, 
+			208525 1920211321254 1144 208525 651212.
 			
 	27:3 Though an host should encamp against me, my heart shall not 
 		fear: though war shall rise against me, in this shall I be 

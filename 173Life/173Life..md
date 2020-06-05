@@ -48,4 +48,7 @@ Pal Young (1982). The Botany Coloring Book
 	As written in The Botany Coloring Bool
 	>"Light from the sun is the major source of energy for the earth. 
 		Through photosynthesis, plants capture light energy and store it
-		as organic chemical energy. 
+		as organic chemical energy. We utilize this stored energy 
+		internally through the combustion of food as an internal energy
+		source and externally through the combustion of organic 
+		materials, such as wood, as a heat or light energy source."
