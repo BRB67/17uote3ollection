@@ -45,10 +45,24 @@ Pal Young (1982). The Botany Coloring Book
 		
 ##### Quote 4
 	
-	As written in The Botany Coloring Bool
+	As written in The Botany Coloring Book
 	>"Light from the sun is the major source of energy for the earth. 
 		Through photosynthesis, plants capture light energy and store it
 		as organic chemical energy. We utilize this stored energy 
 		internally through the combustion of food as an internal energy
 		source and externally through the combustion of organic 
 		materials, such as wood, as a heat or light energy source."
+		
+##### Quote 5
+
+	As written in The Botany Coloring Book
+	>"All animals including hunans are heterotrophic. That is, they 
+		cannot manufactor their own food from inorganic substances. 
+		Instead, they must rely on organic materials as their food, or
+		internal energy, source. Most plants are autotrophic. That is 
+		they utilize an external energy source, such as the sun, to 
+		manufacture energy-rich organic compounds from inorganic
+		substances. We grow and harvest plants for direct consumption as
+		food, such as cereals, fruits, and vegetables, or indirectly 
+		as in the fodder and grains fed to livestock which are consumed
+		as food.

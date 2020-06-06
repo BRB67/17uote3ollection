@@ -1,6 +1,46 @@
 # Quotes Collection (173)
 ## The King James Version of the Bible
 ## ¿2085 119147 10113519 225181991514 156 2085 292125?
+
+
+							Braille Patterns
+        0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
+ ---------------------------------------------------------------
+U+280x  ⠀  | ⠁ | ⠂ | ⠃
+U+281x
+U+282x
+U+283x
+
+## Translation Chart
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+
+
 ### [Book Source](http://www.gutenberg.org/ebooks/10)
 
 ### The old Testament of the King James Version of the Bible
@@ -27,6 +67,12 @@
 	27:3 Though an host should encamp against me, my heart shall not 
 		fear: though war shall rise against me, in this shall I be 
 		confident.
+		
+		Translation:
+			208152178 114 8151920 1981521124 514311316 1719141920 135, 
+			1325 8511820 19811212 141520 65118: 208152178 23118 19811212
+			189195 1719141920 135, 914 208919 19811212 9 25 
+			3151469451420.
 		
 	27:4 One thing have I desired of the LORD, that will I seek after;
 		that I may dwell in the house of the LORD all the days of my 
