@@ -66,3 +66,10 @@ Pal Young (1982). The Botany Coloring Book
 		food, such as cereals, fruits, and vegetables, or indirectly 
 		as in the fodder and grains fed to livestock which are consumed
 		as food.
+		
+##### Quote 6
+
+	As written in The Botany Coloring Book
+	>"During the energy-capturing, food producing process of 
+		photosynthesis, green plants split water and release oxygen into
+		the atmosphere.

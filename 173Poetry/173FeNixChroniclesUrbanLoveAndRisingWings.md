@@ -37,3 +37,6 @@ These words are a part of me like water
 They flow through my body like air
 Tempest of doubt never
 As long as I breathe the words will always be here
+
+#### Translation:
+	9 2411420 2015 21851208 2085 19119519
