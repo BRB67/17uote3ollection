@@ -10,9 +10,9 @@ https://www.timeanddate.com/
 
 ### May
 
-### May Floating Holidays
+#### May Floating Holidays
 
-	Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
+	
 
 #### May 01
 	Law Day (United States) https://en.wikipedia.org/wiki/Law_Day_(United_States) 
@@ -22,3 +22,10 @@ https://www.timeanddate.com/
 	
 ????
 	114425 8. a29182084125
+
+
+### June
+
+#### June Floating Holidays
+
+Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday

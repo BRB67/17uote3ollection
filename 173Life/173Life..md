@@ -72,4 +72,5 @@ Pal Young (1982). The Botany Coloring Book
 	As written in The Botany Coloring Book
 	>"During the energy-capturing, food producing process of 
 		photosynthesis, green plants split water and release oxygen into
-		the atmosphere.
+		the atmosphere. This is the source of the atmospheric oxygen we
+		breathe. 
