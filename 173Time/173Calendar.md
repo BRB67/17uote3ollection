@@ -29,3 +29,6 @@ https://www.timeanddate.com/
 #### June Floating Holidays
 
 Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
+
+#### June 8
++10h
