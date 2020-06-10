@@ -73,4 +73,10 @@ Pal Young (1982). The Botany Coloring Book
 	>"During the energy-capturing, food producing process of 
 		photosynthesis, green plants split water and release oxygen into
 		the atmosphere. This is the source of the atmospheric oxygen we
-		breathe. 
+		breathe. Without the continual release of large quantities of 
+		oxygen by green plants through photosynthesis, the free oxygen
+		in the atmosphere would be depleted by the energy-releasing 
+		processes, called respiration, of living organisms and by 
+		combining with inorganic and dead organic materials through
+		chemical oxidation (as in the rusting of iron and burning of 
+		wood).

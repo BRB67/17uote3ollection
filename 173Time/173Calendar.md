@@ -31,4 +31,8 @@ https://www.timeanddate.com/
 Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
 
 #### June 8
-+10h
++10 wh
+
+
+#### June 9
++ 8 wh
