@@ -1,39 +1,39 @@
 # Quotes Collection (173)
 ## Life
 
-### Souces:
+## Souces:
 Openstax.org https://openstax.org/details/anatomy-and-physiology  
 J. G. B., Young, K., Wise, J., Johnson, E., Poe, B., 
 	Kruse, D. H. ... Elf, P.(2017). Anatomy and Physiology.
 	Houston Tx: Open Stax
 	
-Pal Young (1982). The Botany Coloring Book
+Paul Young (1982). The Botany Coloring Book
 
-##### Quote 1. 
+#### Quote 1. 
 
 	As witten in Anatomy and Physiology
 	>"Though you may approach a course in anatomy and physiology 
 		strictly  as a requirement for your field of study, the 
 		knowledge you gain in this course will serve you well in many 
 		aspects of your life"
-######	Numeric Translation:
+#####	Numeric Translation:
 	¿208152178 251521 13125 116161815138 1 3152118195 914 1141201325 
 		1144 16825199151215725 19201893201225 119 1 185172191851351420
 		61518 25152118 695124 156 192021425, 2085 11141523125475 251521
 		71914 914 208919 3152118195 2391212 19518225 251521 2351212 914
 		1311425 11916532019 156 25152118 12965?
 
-##### Quote 2.
+### Quote 2.
 	
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"The importance of plants to the survival of humans and other
 		animals cannot be overemphasized. Our basic needs of food,
 		shelter, clothing, and oxygen are provided, either directly or,
 		indirectly, by plants"
 		
-##### Quote 3.
+### Quote 3.
 
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"Plants provide strong yet lightweight materials used in 
 		construction. Many cultures rely upon plants to provide all or
 		part of the materials used in shelter construction. In some 
@@ -43,9 +43,9 @@ Pal Young (1982). The Botany Coloring Book
 		types of shelters, such as wood frame houses, wood is the major
 		construction material.
 		
-##### Quote 4
+### Quote 4
 	
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"Light from the sun is the major source of energy for the earth. 
 		Through photosynthesis, plants capture light energy and store it
 		as organic chemical energy. We utilize this stored energy 
@@ -53,9 +53,9 @@ Pal Young (1982). The Botany Coloring Book
 		source and externally through the combustion of organic 
 		materials, such as wood, as a heat or light energy source."
 		
-##### Quote 5
+### Quote 5
 
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"All animals including hunans are heterotrophic. That is, they 
 		cannot manufactor their own food from inorganic substances. 
 		Instead, they must rely on organic materials as their food, or
@@ -67,9 +67,9 @@ Pal Young (1982). The Botany Coloring Book
 		as in the fodder and grains fed to livestock which are consumed
 		as food.
 		
-##### Quote 6
+### Quote 6
 
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"During the energy-capturing, food producing process of 
 		photosynthesis, green plants split water and release oxygen into
 		the atmosphere. This is the source of the atmospheric oxygen we
@@ -79,4 +79,19 @@ Pal Young (1982). The Botany Coloring Book
 		processes, called respiration, of living organisms and by 
 		combining with inorganic and dead organic materials through
 		chemical oxidation (as in the rusting of iron and burning of 
-		wood).
+		wood)."
+		
+### Quote 7
+
+	As written in The Botany Coloring Book
+	>"Some plants are very important in certain types of food processing.
+		Yeast, a microscopic fungus, is important to us for baking and
+		producing alcoholic beverages. For example, wine yeast utilize
+		the natural sugar in grapes as an energy source (yeast are 
+		heterotrophic). In doing so carbon dioxide gas, CO2, the fizz
+		in champagne and beer, is released and alcohol is produced as
+		a by-poduct. The increasing alcohol eventually kills the yeast
+		and preserves the beverage from spoilage. In yeast bread baking,
+		the CO2, released by the yeast during fermentation of sugar in
+		the dough creates a dough filled with minute gas bubbles that
+		expand during baking to produce a light, airy product.

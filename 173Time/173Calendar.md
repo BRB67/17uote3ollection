@@ -28,11 +28,19 @@ https://www.timeanddate.com/
 
 #### June Floating Holidays
 
+
 Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
 
+Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi 
 #### June 8
 +10 wh
 
 
 #### June 9
 + 8 wh
+
+#### June 10
++ 7.5 wh
+
+#### June 11
+
