@@ -7,7 +7,7 @@
 
 1. Low, S. (2016) Overcoming Gravity: A Systematic Approach to 
 	Gymnastics and Bodyweight Strength. Battle Ground Creative
-	Overcoming Gravity https://stevenlow.org/overcoming-gravity/
+	https://stevenlow.org/overcoming-gravity/
 
 ### Quote 1
 

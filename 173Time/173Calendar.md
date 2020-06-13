@@ -43,4 +43,10 @@ Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi
 + 7.5 wh
 
 #### June 11
++ 7.5 wh
+
+### June 12
+Time
+
+
 

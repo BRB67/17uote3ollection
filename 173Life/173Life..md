@@ -83,7 +83,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 7
 
-	As written in The Botany Coloring Book
+	As written in The Botany Coloring Book (Young, 1982)
 	>"Some plants are very important in certain types of food processing.
 		Yeast, a microscopic fungus, is important to us for baking and
 		producing alcoholic beverages. For example, wine yeast utilize
