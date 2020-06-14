@@ -11,7 +11,7 @@ U+281x  ⠐  | ⠑ | ⠒ | ⠓  | ⠔  | ⠕ | ⠖  | ⠗ | ⠘  | ⠙ | ⠚  | 
 U+282x  ⠠  | ⠡ | ⠢ | ⠣  | ⠤  | ⠥ | ⠦  | ⠧ | ⠨  | ⠩ | ⠪  | ⠫ | ⠬  | ⠭  | ⠮ | ⠯
 U+283x  ⠰  | ⠱ | ⠲ | ⠳  | ⠴  | ⠵ | ⠶  | ⠷ | ⠸  | ⠹ | ⠺  | ⠻ | ⠼  | ⠽  | ⠾ | ⠿
 
-## Translation Chart
+## 
 
 a = ⠁ = U+2801
 b = ⠃ = U+2803
@@ -29,16 +29,16 @@ m = ⠍ = U+280d
 n = ⠝ = U+281d
 o = ⠕ = U+2815
 p = ⠏ = U+280f
-q
-r
-s
-t
-u
-v
-w
-x
-y
-z
+q = ⠟ = U+281f
+r = ⠗ = U+2817
+s = ⠎ = U+280e
+t = ⠞ = U+281e
+u = ⠥ = U+2825
+v = ⠧ = U+2827
+w = ⠺ = U+283a 
+x = ⠭ = U+282d
+y = ⠽ = U+283d
+z = ⠵ = U+2835
 
 
 ### [Book Source](http://www.gutenberg.org/ebooks/10)
@@ -51,7 +51,7 @@ z
 	27:1 The LORD is my light and my salvation; whom shall I fear? the LORD 
 		is the strength of my life; of whom shall I be afraid?
 		
-		Translation:
+		Numeric Translation:
 			2085 1215184 919 1325 1297820 1144 191122212091514; 2381513
 			1981212 9 65118? 2085 1215184 919 2085 1920185147208 156 
 			1325 12965; 156 1325 12965; 156 2381513 1981212 9 25 1618194?
@@ -59,7 +59,7 @@ z
 	27:2 When the wicked, even my enemies and my foes, came upon me to 
 		 eat up my flesh, they stumbled and they fell.
 		
-		Translation:
+		Numeric Translation:
 			238514 2085 23931154, 522514 1325 5145139519 1144 1325 
 			615519, 31135 21161514 135 2015 5120 2116 1325 6125198, 
 			208525 1920211321254 1144 208525 651212.
@@ -68,7 +68,7 @@ z
 		fear: though war shall rise against me, in this shall I be 
 		confident.
 		
-		Translation:
+		Numeric Translation:
 			208152178 114 8151920 1981521124 514311316 1719141920 135, 
 			1325 8511820 19811212 141520 65118: 208152178 23118 19811212
 			189195 1719141920 135, 914 208919 19811212 9 25 

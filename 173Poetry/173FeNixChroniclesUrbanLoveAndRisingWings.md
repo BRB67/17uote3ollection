@@ -38,7 +38,7 @@ They flow through my body like air
 Tempest of doubt never
 As long as I breathe the words will always be here
 
-#### Translation:
+#### Numeric Translation:
 	9 2411420 2015 21851208 2085 19119519
 	718916 2085 5118208 251451208 1325 65520
 	31162021185 2085 192114 239208 1325 525519

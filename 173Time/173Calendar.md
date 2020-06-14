@@ -37,7 +37,7 @@ Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi
 
 
 #### June 9
-+ 8 wh
++ 8.0 wh
 
 #### June 10
 + 7.5 wh
@@ -48,5 +48,12 @@ Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi
 ### June 12
 Time
 
++ 8.0 wh
 
+### June 13
+Time
+
+
+### June 14
+Time
 
