@@ -6,8 +6,14 @@
 ## Sources:
 
 1. Low, S. (2016) Overcoming Gravity: A Systematic Approach to 
-	Gymnastics and Bodyweight Strength. Battle Ground Creative
-	https://stevenlow.org/overcoming-gravity/
+		Gymnastics and Bodyweight Strength. Battle Ground Creative
+		https://stevenlow.org/overcoming-gravity/
+
+2. Herring, S., Bergfeld, J., Boyd, J., Brolinson, P., Chang, C., Glover
+		D. ... Tanji, J. (2001) The Team Physician and Conditioning of
+		Athletes for Sports: A Consensus Statement. Medicine & Science
+		in Sports & Exercise.
+		https://journals.lww.com/acsm-msse/Fulltext/2001/10000/The_Team_Physician_and_Conditioning_of_Athletes.27.aspx 
 
 ### Quote 1
 
@@ -47,5 +53,13 @@
 	
 ### Quote 4
 
+	As written in The Team Physician and Conditioning of Athletes for 
+	Sports (Herring 2001):
+	>"Conditioning is a process in which stimuli are created by an 
+	exercise program performed by the athlete to produce a higher
+	level of function
+	
+	The goal of conditioning is to optimize the performance of the 
+	athlete and minimize the risk of injury and illness."
 	
 

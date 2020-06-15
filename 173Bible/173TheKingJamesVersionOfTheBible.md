@@ -90,6 +90,9 @@ z = ⠵ = U+2835
 		in the secret of his tabernacle shall he hide me, he shall set
 		me up upon a rock.
 		
+		Numeric Translation: 
+			61518 
+		
 	27:6 And now shall mine head be lifted up above mine enemies round
 		about me: therefore will I offer up in his tabernacle 
 		sacrifices of joy; I will sing, yea, I will sing praises
