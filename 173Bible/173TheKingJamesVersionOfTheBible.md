@@ -79,6 +79,13 @@ z = ⠵ = U+2835
 		life, to behold the beauty of the LORD, and to enquire in his
 		temple.
 		
+		Numeric Translation:
+			15145 2089147 81225 9 451991854 156 2085 1215184, 208120 9
+			195511 1620518; 208120 9 13125 42351212 914 2085 81521195
+			156 2085 1215184 11212 2085 412519 156 1325 12965, 2015 
+			25815124 2085 251212025 156 2085 1215184, 1144 2015 
+			51417219185 914 8919 2051316125.
+		
 	27:5 For in the time of trouble he shall hide me in his pavilion:
 		in the secret of his tabernacle shall he hide me, he shall set
 		me up upon a rock.

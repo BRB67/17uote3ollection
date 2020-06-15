@@ -95,3 +95,13 @@ Paul Young (1982). The Botany Coloring Book
 		the CO2, released by the yeast during fermentation of sugar in
 		the dough creates a dough filled with minute gas bubbles that
 		expand during baking to produce a light, airy product.
+		
+		Some bacteria are also important in food processing. The 
+		manufacture of many dairy products including, cheeses, yogurt,
+		and sour cream, is based upon the activities of bacteria that 
+		utilize milk as their food source. Enzymes secreted by the 
+		bacteria alter the milk and by-products toxic to the bacteria
+		eventually kill them and produce a storable preserved food.
+		
+### Quote 8
+

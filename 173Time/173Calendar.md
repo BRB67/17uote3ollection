@@ -53,7 +53,12 @@ Time
 ### June 13
 Time
 
+International Albinism Awareness Day https://en.wikipedia.org/wiki/International_Albinism_Awareness_Day
+
 
 ### June 14
 Time
 
+Flag Day (U.S.) https://en.wikipedia.org/wiki/Flag_Day_(United_States) 
+
+World Blood Donor Day https://en.wikipedia.org/wiki/World_Blood_Donor_Day
