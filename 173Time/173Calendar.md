@@ -71,4 +71,13 @@ Time
 ### June 16
 T9me
 
++10.0 wh
+
+### June 17
+Time
+
+World Day to Combat Desertification and Drought
+https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought 
+
+
 

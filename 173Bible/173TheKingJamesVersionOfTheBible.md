@@ -91,7 +91,8 @@ z = ⠵ = U+2835
 		me up upon a rock.
 		
 		Numeric Translation: 
-			61518 914 2085 209135
+			61518 914 2085 209135 156 201815212125 85 19811212 8945 1345
+			914 8919 1612291291514:
 		
 	27:6 And now shall mine head be lifted up above mine enemies round
 		about me: therefore will I offer up in his tabernacle 

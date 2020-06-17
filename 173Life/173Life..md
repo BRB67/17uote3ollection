@@ -11,7 +11,7 @@ Paul Young (1982). The Botany Coloring Book
 
 #### Quote 1. 
 
-	As witten in Anatomy and Physiology
+	As witten in Anatomy and Physiology:
 	>"Though you may approach a course in anatomy and physiology 
 		strictly  as a requirement for your field of study, the 
 		knowledge you gain in this course will serve you well in many 
@@ -25,7 +25,7 @@ Paul Young (1982). The Botany Coloring Book
 
 ### Quote 2.
 	
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"The importance of plants to the survival of humans and other
 		animals cannot be overemphasized. Our basic needs of food,
 		shelter, clothing, and oxygen are provided, either directly or,
@@ -33,7 +33,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 3.
 
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"Plants provide strong yet lightweight materials used in 
 		construction. Many cultures rely upon plants to provide all or
 		part of the materials used in shelter construction. In some 
@@ -45,7 +45,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 4
 	
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"Light from the sun is the major source of energy for the earth. 
 		Through photosynthesis, plants capture light energy and store it
 		as organic chemical energy. We utilize this stored energy 
@@ -55,7 +55,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 5
 
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"All animals including hunans are heterotrophic. That is, they 
 		cannot manufactor their own food from inorganic substances. 
 		Instead, they must rely on organic materials as their food, or
@@ -69,7 +69,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 6
 
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"During the energy-capturing, food producing process of 
 		photosynthesis, green plants split water and release oxygen into
 		the atmosphere. This is the source of the atmospheric oxygen we
@@ -83,7 +83,7 @@ Paul Young (1982). The Botany Coloring Book
 		
 ### Quote 7
 
-	As written in The Botany Coloring Book (Young, 1982)
+	As written in The Botany Coloring Book (Young, 1982):
 	>"Some plants are very important in certain types of food processing.
 		Yeast, a microscopic fungus, is important to us for baking and
 		producing alcoholic beverages. For example, wine yeast utilize
@@ -104,4 +104,14 @@ Paul Young (1982). The Botany Coloring Book
 		eventually kill them and produce a storable preserved food.
 		
 ### Quote 8
+	
+	As written in The Botany Coloring Book (Young, 1982):
+	>"Some plants produce abundant amounts of long, thin cells called
+	fibers that, because of their length and strength, are useful for 
+	weaving. In much of the world, the cotton plant, Gossypium, is the 
+	major source of plant fibers used to manufacture clothing. Other 
+	plants, such as flax (Linnum) and hemp (Cannabis), provide coarse 
+	fibers." 
+	
+	
 
