@@ -14,6 +14,44 @@
 		Athletes for Sports: A Consensus Statement. Medicine & Science
 		in Sports & Exercise.
 		https://journals.lww.com/acsm-msse/Fulltext/2001/10000/The_Team_Physician_and_Conditioning_of_Athletes.27.aspx 
+		
+		
+##							Braille Patterns
+        0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
+ ----------------------------------------------------------------------
+U+280x  ⠀  | ⠁ | ⠂ | ⠃  | ⠄  | ⠅ | ⠆  | ⠇ | ⠈  | ⠉ | ⠊  | ⠋ | ⠌  | ⠍  | ⠎ | ⠏  
+U+281x  ⠐  | ⠑ | ⠒ | ⠓  | ⠔  | ⠕ | ⠖  | ⠗ | ⠘  | ⠙ | ⠚  | ⠛ | ⠜  | ⠝  | ⠞ | ⠟ 
+U+282x  ⠠  | ⠡ | ⠢ | ⠣  | ⠤  | ⠥ | ⠦  | ⠧ | ⠨  | ⠩ | ⠪  | ⠫ | ⠬  | ⠭  | ⠮ | ⠯
+U+283x  ⠰  | ⠱ | ⠲ | ⠳  | ⠴  | ⠵ | ⠶  | ⠷ | ⠸  | ⠹ | ⠺  | ⠻ | ⠼  | ⠽  | ⠾ | ⠿
+
+## Braille Uniode
+
+a = ⠁ = U+2801
+b = ⠃ = U+2803
+c = ⠉ = U+2809
+d = ⠙ = U+2819
+e = ⠑ = U+2811
+f = ⠋ = U+280b
+g = ⠛ = U+281b
+h = ⠓ = U+2813
+i = ⠊ = U+280a
+j = ⠚ = U+281a
+k = ⠅ = U+2805
+l = ⠇ = U+2807
+m = ⠍ = U+280d
+n = ⠝ = U+281d
+o = ⠕ = U+2815
+p = ⠏ = U+280f
+q = ⠟ = U+281f
+r = ⠗ = U+2817
+s = ⠎ = U+280e
+t = ⠞ = U+281e
+u = ⠥ = U+2825
+v = ⠧ = U+2827
+w = ⠺ = U+283a 
+x = ⠭ = U+282d
+y = ⠽ = U+283d
+z = ⠵ = U+2835
 
 ### Quote 1
 
