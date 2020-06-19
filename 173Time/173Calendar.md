@@ -122,5 +122,10 @@ https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought
 ### June 18
 Time
 
++8.0 wh
+
+### June 19
+Time
+
 
 
