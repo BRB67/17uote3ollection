@@ -93,7 +93,8 @@ z = ⠵ = U+2835
 		Numeric Translation: 
 			61518 914 2085 209135 156 201815212125 85 19811212 8945 1345
 			914 8919 1612291291514: 914 2085 195318520 156 8919
-			20125181413125
+			20125181413125 19811212 85 8945 135, 85 1911212 19520 135
+			2116 21161514 1 1815311.
 		
 	27:6 And now shall mine head be lifted up above mine enemies round
 		about me: therefore will I offer up in his tabernacle 

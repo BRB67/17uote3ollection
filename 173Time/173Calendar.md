@@ -125,7 +125,12 @@ Time
 +8.0 wh
 
 ### June 19
-Time
+20i13e
+
++7.5 wh
+
+### June 20
+
 
 
 
