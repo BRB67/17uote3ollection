@@ -44,7 +44,9 @@ x = ⠭ = U+282d
 y = ⠽ = U+283d
 z = ⠵ = U+2835
 
-
+## Personal Records:
+	
+	20 June 2020 = Typed 34 additions
 
 ### May
 
