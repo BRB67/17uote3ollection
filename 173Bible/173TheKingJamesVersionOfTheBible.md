@@ -48,6 +48,13 @@ z = ⠵ = U+2835
 		156 2085 292125?
 
 ### The Book of Psalms
+	
+	1:1 Blessed is the man that walketh not in the counsel of the 
+		ungodly, nor standeth in the way of sinners, nor sitteth in the 
+		seat of the scornful.
+
+
+
 	27:1 The LORD is my light and my salvation; whom shall I fear? the LORD 
 		is the strength of my life; of whom shall I be afraid?
 		
