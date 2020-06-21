@@ -101,29 +101,76 @@ z = ⠵ = U+2835
 		sacrifices of joy; I will sing, yea, I will sing praises
 		unto the lord.
 		
+		Numeric Translation: 
+			1144 141523 1911212 139145 8514 25 12962054 2116 1215225 
+			139145 5145139519 181521144 12152120 135: 2085185615185
+			2391212 9 1566518 2116 914 8919 20125181413125 1913189693519
+			156 101525; 9 2391212 199147, 2551, 9 2391212 199147
+			16181919519 21142015 2085 1215184.
+		
 	27:7 Hear, O LORD, when I cry with my voice have mercy also upon me,
 		and answer me.
+		
+		Numeric Translation:
+		85118, 15 1215184, 238514 9 31825 239208 1325 2215935 81225 
+		13518325 21161514 135, 1144 1141923518 135.
 		
 	27:8 When thou saidst, Seek ye my face; my heart said unto thee,
 		Thy face, LORD, will I seek.
 		
+		Numeric Translation:
+		238514 2081521 191941920, 195511 255 1325 6135; 1325 8511820
+		19194 21142015 20855, 20825 6135, 1215184, 2391212 9 195511.
+		
 	27:9 Hide not thy face far from me; put not thy servant away in
 		anger: thou hast been my help; leave me not, neither forsake me,
 		O God of my salvation.
+		
+		Numeric Translation:
+			8945 141520 20825 6135 6118 6181513 135; 162120 141520 20825
+			195182211420 123125 914 1147518: 2081521 811820 25514 1325
+			851216; 1251225 135 141520, 145920818 61518191115 135, 15
+			7154 156 1325 191122212091514.
 	
 	27:10 When my father and my mother forsake me, then the LORD will 
 		take me up.
 		
+		Numeric Translation:
+			23514 1325 61208518 1144 2325 1315208518 61518191115 135,
+			208514 2085 1215184 2391212 201115 135 2116.
+		
 	27:11 Teach me thy way, O LORD, and lead me in a plain path because,
 		of mine enemies.
+		
+			Numeric Translation:
+				205138 135 20825 23125, 15 1215184, 1144 12514 135 914 1 
+				16121914 161208 253121195, 156 139145 5145139519.
 		
 	27:12 Deliver me not over unto the will of mine enemies: for false
 		witnesses are risen up against me, and such as breathe out
 		cruelty.
 		
+			Numeric Translation:
+				4512922518 135 141520 1522518 2015 2085 2391212 156 
+				139145 5145139519: 61518 6112195 239201451919519
+				1185 18919514 2116 1719141920 135, 1144 192138 119 
+				218512085 152120 318215122025.
+		
 	27:13 I had fainted, unless I have believed to see the goodness of 
 		the lord in the land of the living.
 		
+			Numeric Translation:
+				9 814 619142054, 21141251919 9 81225 2512952294 2015 
+				1955 2085 7151541451919 156 2085 1215184 914 2085 121144
+				156 2085 129229147.
+		
 	27:14 Wait on the LORD, be of good courage, and he shall strengthen
 		thine heart: wait I say, on the LORD.
+		
+			Numeric Translation:
+				231920 1514 2085 1215184, 25 156 715154 3152118175, 1144
+				85 19811212 1920185147208514 2089145 8511820: 231920 9
+				19125, 1514 2085 1215184.
+			
+			
 		
