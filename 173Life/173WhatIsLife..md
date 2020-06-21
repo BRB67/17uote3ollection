@@ -151,5 +151,27 @@ z = ⠵ = U+2835
 	plants, such as flax (Linnum) and hemp (Cannabis), provide coarse 
 	fibers." 
 	
+### Quote 9
+	
+	As written in Anatomy & Physiology (J. G. B. et al 2017):
+	>"Human **anatomy** is the scientific study of the body's structures.
+	Some of these structures are very small and can only be observed and
+	analyzed with the assistance of a microscope. Other larger structures
+	can readily be seen, manipulated, measured, and weighed. The word
+	"anatomy" comes from a Greek root that means "to cut apart." Human
+	anatomy was first studied by observing the exterior of the body and
+	observing the wounds of soldiers and other injuries. Later, 
+	physicians were allowed to dissect bodies of the dead to augment 
+	their knowledge. When a body is dissected, its structures are cut 
+	apart in order to observe their physical attributes and their 
+	relationships to one another. Dissection is still used in medical
+	schools, anatomy courses, and in pathology labs. In order to observe
+	structures in living people, however a number of imaging techniques
+	have been developed. These techniques allow clinicians to visualize
+	structures inside the living body such as a cancerous tumor or a
+	fractured bone."
+	
+	
+	
 	
 

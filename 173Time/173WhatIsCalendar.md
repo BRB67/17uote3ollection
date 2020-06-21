@@ -70,6 +70,10 @@ z = ⠵ = U+2835
 Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
 
 Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi 
+
+Summer Solstice https://en.wikipedia.org/wiki/Summer_solstice
+
+World Refugee Day https://en.wikipedia.org/wiki/World_Refugee_Day 
 #### June 8
 +10 wh
 

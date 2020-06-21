@@ -80,3 +80,9 @@ z = ⠵ = U+2835
 		But measuring what? "A unit for measuring information," Shannon
 	wrote, as though there were such a thing, measurable and 
 	quantifiable, as information.
+	
+### Quote 4
+
+	As written in The Information (Gleick, 2011):
+	>"Shannon supposedly belonged to the Bell Labs mathematical 
+	research group, but he mostly kept to himself."
