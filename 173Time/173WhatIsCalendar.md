@@ -76,6 +76,8 @@ Corpus Christi https://en.wikipedia.org/wiki/Feast_of_Corpus_Christi
 Summer Solstice https://en.wikipedia.org/wiki/Summer_solstice
 
 World Refugee Day https://en.wikipedia.org/wiki/World_Refugee_Day 
+
+Father's Day https://en.wikipedia.org/wiki/Father%27s_Day 
 #### June 8
 +10 wh
 
@@ -137,6 +139,17 @@ Time
 
 ### June 20
 20913e
+
+### June 21
+time
+
+International Day of Yoga https://en.wikipedia.org/wiki/International_Day_of_Yoga
+
+Fete de la Musique (World Music Day) https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique
+
+### June 22
+time
+
 
 
 

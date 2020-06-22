@@ -52,6 +52,9 @@ z = ⠵ = U+2835
 	1:1 Blessed is the man that walketh not in the counsel of the 
 		ungodly, nor standeth in the way of sinners, nor sitteth in the 
 		seat of the scornful.
+		
+	1:2 But his delight is in the law of the LORD; and in his law doth 
+		he meditate day and night.
 
 
 
