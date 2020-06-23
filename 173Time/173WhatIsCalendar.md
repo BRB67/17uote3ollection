@@ -47,6 +47,7 @@ z = ⠵ = U+2835
 ## Personal Records:
 	
 	20 June 2020 = Typed 34 additions
+	23 June 2020 = Three days on Time
 
 ### May
 
@@ -141,14 +142,24 @@ Time
 20913e
 
 ### June 21
-time
+Time
 
 International Day of Yoga https://en.wikipedia.org/wiki/International_Day_of_Yoga
 
 Fete de la Musique (World Music Day) https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique
 
 ### June 22
-time
+Time
+
++9.0 wh
+
+### June 23
+Time
+
+International Widows Day https://en.wikipedia.org/wiki/International_Widows_Day
+
+United Nation Public Service Day https://en.wikipedia.org/wiki/UN_Public_Service_Day
+
 
 
 

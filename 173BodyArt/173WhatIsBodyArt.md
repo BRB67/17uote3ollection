@@ -100,4 +100,8 @@ z = ⠵ = U+2835
 	The goal of conditioning is to optimize the performance of the 
 	athlete and minimize the risk of injury and illness."
 	
+### Quote 5
+
+	As written in Overcoming Gravity(Low, 2016):
+	
 

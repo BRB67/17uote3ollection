@@ -1,12 +1,13 @@
 # Quote Collection (173)
-## IT
-## 920
+## What is IT?
+## 238120 919 920?
 
 ## Sources: 
 https://guides.github.com/features/mastering-markdown/ 
 
-https://www.penguinrandomhouse.com/books/60765/the-information-by-james-gleick/
+
 Gleick, J. (2011). The Information. Pantheon Books.
+	https://www.penguinrandomhouse.com/books/60765/the-information-by-james-gleick/
 
 ##							Braille Patterns
         0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
@@ -86,3 +87,12 @@ z = ⠵ = U+2835
 	As written in The Information (Gleick, 2011):
 	>"Shannon supposedly belonged to the Bell Labs mathematical 
 	research group, but he mostly kept to himself."
+	
+### Quote 5
+
+	As written in The Information (Gleick, 2011):
+	>"AT&T at midcentury did not demand instant gratification from its
+	research division. It allowed detours into mathematics or 
+	astrophysics with no apparent commercial purposes."
+	
+	 

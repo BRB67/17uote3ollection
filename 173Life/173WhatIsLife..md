@@ -2,12 +2,13 @@
 ## Life
 
 ## Souces:
-Openstax.org https://openstax.org/details/anatomy-and-physiology  
 J. G. B., Young, K., Wise, J., Johnson, E., Poe, B., 
 	Kruse, D. H. ... Elf, P.(2017). Anatomy and Physiology.
 	Houston Tx: Open Stax
+	Openstax.org https://openstax.org/details/anatomy-and-physiology  
 	
 Paul Young (1982). The Botany Coloring Book
+	https://www.harpercollins.com/9780064603027/botany-coloring-book/
 
 ##							Braille Patterns
         0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
@@ -171,6 +172,22 @@ z = ⠵ = U+2835
 	structures inside the living body such as a cancerous tumor or a
 	fractured bone."
 	
+### Quote 10
+
+	As written in Anatomy & Physiology (J. G. B. et al 2017):
+	>"Like most scientific disciplines, anatomy has areas of
+	specialization. **Gross anatomy** is the study of the larger 
+	structures of the body, those visible without the aid of 
+	magnification. Macro-means "large," thus, gross anatomy is also 
+	referred to as macroscopic anatomy. In contrast, micro-means 
+	"small," and **microscopic anatomy** is the study of structures
+	that can be observed only with use of a microscope or other 
+	magnification devices. Microscopic anatomy includes cytology, the
+	study of cells and histology, the study of tissues. As the 
+	technology of microscopes has advanced, anatomists have been able to
+	observe smaller and smaller structures of the body, from slices of 
+	large structures like the heart, to the three-dimensional structures
+	of large molecules in the body."
 	
 	
 	
