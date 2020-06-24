@@ -53,6 +53,12 @@ z = ⠵ = U+2835
 		ungodly, nor standeth in the way of sinners, nor sitteth in the 
 		seat of the scornful.
 		
+		Numeric Translation:
+			2125191954 919 2085 1314 208120 23112115208 141520 914 2085
+			315211419512 156 2085 211471541225, 141518 192011445208 914
+			2085 23125 156 199141451819, 141518 19920205208 914 2085 
+			195120 156 2085 19315181462112.
+		
 	1:2 But his delight is in the law of the LORD; and in his law doth 
 		he meditate day and night.
 		

@@ -157,10 +157,16 @@ Time
 ### June 23
 Time
 
++8.0 wh
+
 International Widows Day https://en.wikipedia.org/wiki/International_Widows_Day
 
-United Nation Public Service Day https://en.wikipedia.org/wiki/UN_Public_Service_Day
+United Nations Public Service Day https://en.wikipedia.org/wiki/UN_Public_Service_Day
 
+### June 24
+20i13e
+
+St. John th e Baptist day https://en.wikipedia.org/wiki/St._John%27s_Day
 
 
 
