@@ -63,7 +63,8 @@ z = ⠵ = U+2835
 		he meditate day and night.
 		
 		Numeric Translation:
-			22120 8919 45129820 919 914 2085 12123 156 2085 1215184;
+			22120 8919 45129820 919 914 2085 12123 156 2085 1215184; 
+			1144 914 8919 12123 415208 85 13549201205 4125 1144 1497820.
 		
 	1:3 And he shall be like a tree planted by the rivers of water, that
 		bringeth forth his fruit in his season; his leaf also shall not 
