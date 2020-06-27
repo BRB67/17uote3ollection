@@ -179,7 +179,10 @@ Time
 ### June 26
 Time
 
++8.0 wh
 
+### June 27
+Time
 
 
 
