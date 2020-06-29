@@ -72,7 +72,7 @@ z = ⠵ = U+2835
 		
 		Numeric Translation:
 			1144 85 19811212 25 129115 1 201855 1612114204 225 
-			1892251819 156 23120518,
+			1892251819 156 23120518, 208120
 		
 	1:4 The ungodly are not so; but are like the chaff which the wind
 		driveth away.

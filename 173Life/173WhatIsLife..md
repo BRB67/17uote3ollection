@@ -104,7 +104,7 @@ z = ⠵ = U+2835
 		substances. We grow and harvest plants for direct consumption as
 		food, such as cereals, fruits, and vegetables, or indirectly 
 		as in the fodder and grains fed to livestock which are consumed
-		as food.
+		as food."
 		
 ### Quote 6
 

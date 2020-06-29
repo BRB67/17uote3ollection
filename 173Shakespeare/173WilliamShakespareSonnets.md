@@ -53,7 +53,7 @@ Let me excuse thee, ah my love well knows
 Her pretty looks have been mine enemies;
 And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries:
-Yet do no so; but since I am near slain,
+Yet do not so; but since I am near slain,
 Kill me outright with looks and rid my pain.
 
 Numeric Translation:
