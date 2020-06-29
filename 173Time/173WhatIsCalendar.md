@@ -7,6 +7,20 @@ https://en.wikipedia.org/wiki/Main_Page
 https://www.wincalendar.com/Holiday-Calendar-with-Today
 https://www.timeanddate.com/ 
 
+### Daily Journal Resources
+
+Exercise:
+	https://www.youtube.com/user/FitnessFAQs
+	https://www.youtube.com/user/Calisthenicmovement/featured
+Bible:
+	https://www.gutenberg.org/ebooks/10
+Yoga:
+	https://www.youtube.com/c/yogawithadriene/featured 
+	https://www.youtube.com/user/doyogawithme 
+	https://www.youtube.com/c/SaturnoMovement/featured 
+Trust:
+	https://blog.jostle.me/blog/ways-to-build-trust-at-work
+	
 ## Braille Patterns
         0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
  ----------------------------------------------------------------------
@@ -50,6 +64,69 @@ z = ⠵ = U+2835
 	23 June 2020 = Three days on Time
 	23 June 2020 = Typed 67 additions
 	24 June 2020 = Typed and Copied 75 additions
+	
+	
+	
+## Daily Journal Checklist:
+1 = Nutrition
+
+2 = Exercise
+
+3 = Water
+
+4 = Prayer
+
+5 = Meditation
+
+6 = Charity
+
+7 = Yoga
+
+8 = Read Bible
+
+9 = Clean
+
+10 = Eat
+
+11 = Calisthenics:
+
+12 = Learn to Play:
+
+13 = Core Moves:
+
+14 = Creative Code:
+
+15 = Foot Work:
+
+16 = Art:
+
+17 = Hand Thread:
+
+18 = Card Creation:
+
+19 = Dance:
+
+20 = Play F. Cards:
+
+21 = Old School Review :
+
+22 = Organize Space:
+
+23 = Organization Resources
+
+24 = Massage Body:
+
+25 = Sunlight:
+
+26 = Temperance:
+
+27 = Air:
+
+28 = Rest: 
+
+29 = Trust:
+
+30 = ???
 
 ### May
 
@@ -81,6 +158,8 @@ Summer Solstice https://en.wikipedia.org/wiki/Summer_solstice
 World Refugee Day https://en.wikipedia.org/wiki/World_Refugee_Day 
 
 Father's Day https://en.wikipedia.org/wiki/Father%27s_Day 
+
+BET Awards https://en.wikipedia.org/wiki/BET_Awards
 #### June 8
 +10 wh
 
@@ -186,6 +265,8 @@ Time
 
 ### June 28
 20i13e
+
+DJ 7 = 17+23 minutes
 
 
 
