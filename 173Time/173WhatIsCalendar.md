@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Main_Page
 https://www.wincalendar.com/Holiday-Calendar-with-Today
 https://www.timeanddate.com/ 
 
-### Daily Journal Resources
+### Daily Journal (DJ) Resources
 
 Exercise:
 	https://www.youtube.com/user/FitnessFAQs
@@ -67,7 +67,7 @@ z = ⠵ = U+2835
 	
 	
 	
-## Daily Journal Checklist:
+## Daily Journal (DJ) Checklist:
 1 = Nutrition
 
 2 = Exercise
@@ -267,6 +267,14 @@ Time
 20i13e
 
 DJ 7 = 17+23 minutes
+
+### June 29
+Time
+
++11 wh
+
+### June 30
+Time
 
 
 
