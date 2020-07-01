@@ -128,9 +128,9 @@ z = ⠵ = U+2835
 
 30 = ???
 
-### May
+## May
 
-#### May Floating Holidays
+### May Floating Holidays
 
 	
 
@@ -144,9 +144,9 @@ z = ⠵ = U+2835
 	114425 8. a29182084125
 
 
-### June
+## June
 
-#### June Floating Holidays
+### June Floating Holidays
 
 
 Trinity Sunday https://en.wikipedia.org/wiki/Trinity_Sunday
@@ -275,6 +275,19 @@ Time
 
 ### June 30
 Time
+
+DJ 7 = 23 min
+
++ 10.5 wh
+
+
+## July
+
+### July Floating Holiday's
+
+### July 01
+20i135
+
 
 
 

@@ -79,6 +79,10 @@ z = ⠵ = U+2835
 	1:4 The ungodly are not so; but are like the chaff which the wind
 		driveth away.
 		
+		Numeric Translation:
+			2085 211471541225 1185 141520 1915; 22120 1185 129115 2085
+			38166 238938 2085 239144 4189225208 123125.
+		
 	1:5 Therefore the ungodly shall not stand in the judgment, nor 
 		sinners in the congregation of the righteous.
 		
