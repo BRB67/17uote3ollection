@@ -86,6 +86,9 @@ z = ⠵ = U+2835
 	1:5 Therefore the ungodly shall not stand in the judgment, nor 
 		sinners in the congregation of the righteous.
 		
+		Numeric Translation:
+			2085185615185
+		
 	1:6 For the LORD knoweth the way of the righteous: but the way of 
 		the ungodly shall perish.
 

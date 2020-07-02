@@ -286,7 +286,14 @@ DJ 7 = 23 min
 ### July Floating Holiday's
 
 ### July 01
-20i135
+20i13e
+
+DJ 7 = 23 + 17 min
+
++9.5 wh
+
+### July 02
+20913e
 
 
 
