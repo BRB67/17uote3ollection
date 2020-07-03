@@ -87,7 +87,7 @@ z = ⠵ = U+2835
 		sinners in the congregation of the righteous.
 		
 		Numeric Translation:
-			2085185615185
+			2085185615185 2085
 		
 	1:6 For the LORD knoweth the way of the righteous: but the way of 
 		the ungodly shall perish.
