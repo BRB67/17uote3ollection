@@ -93,6 +93,11 @@ z = ⠵ = U+2835
 		
 	1:6 For the LORD knoweth the way of the righteous: but the way of 
 		the ungodly shall perish.
+		
+		Numeric Translation:
+			61518 2085 1215184 111415235208 2085 23125 156 2085 
+			18978205152119: 22120 2085 23125 156 2085 211471541225 
+			19811212 165189198.
 
 
 

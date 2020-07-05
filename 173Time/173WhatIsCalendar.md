@@ -307,5 +307,13 @@ DJ 7 = 17 + 23 min
 ### July 04
 Time
 
+Independence Day (USA) https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence
+
+DJ 4 = 1 min
+DJ 7 =  23 + 45
+
+### July 05
+Time
+
 
 
