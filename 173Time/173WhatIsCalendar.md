@@ -315,5 +315,12 @@ DJ 7 =  23 + 45
 ### July 05
 Time
 
+DJ 4 = 1 min
+DJ 7 = 50 +23 min
+
+### July 06
+Time
+
+DJ 4 = 1 min
 
 
