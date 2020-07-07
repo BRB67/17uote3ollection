@@ -64,6 +64,7 @@ z = ⠵ = U+2835
 	23 June 2020 = Three days on Time
 	23 June 2020 = Typed 67 additions
 	24 June 2020 = Typed and Copied 75 additions
+	06 July 2020 = Four days on Time
 	
 	
 	
@@ -320,6 +321,12 @@ DJ 7 = 50 +23 min
 
 ### July 06
 Time
+
+DJ 4 = 1 min
+DJ 7 = 1 min
+
+### July 07
+20i13e
 
 DJ 4 = 1 min
 
