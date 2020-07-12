@@ -12,12 +12,14 @@ https://www.timeanddate.com/
 Exercise:
 	https://www.youtube.com/user/FitnessFAQs
 	https://www.youtube.com/user/Calisthenicmovement/featured
+	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 Bible:
 	https://www.gutenberg.org/ebooks/10
 Yoga:
 	https://www.youtube.com/c/yogawithadriene/featured 
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
+	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 Trust:
 	https://blog.jostle.me/blog/ways-to-build-trust-at-work
 	
@@ -101,7 +103,7 @@ z = ⠵ = U+2835
 
 16 = Art:
 
-17 = Hand Thread:
+17 = Hand Dexterity:
 
 18 = Card Creation:
 
@@ -351,5 +353,13 @@ DJ 7 = 20 min
 ### July 11
 Time
 
-DJ 4 = 1 min
+Worl Population Day (UN) https://en.wikipedia.org/wiki/World_Population_Day
+
+DJ 4 = 2 min
+
+### July 12
+20913e
+
+DJ 4  = 1 min
+DJ 17 = 1 min
 
