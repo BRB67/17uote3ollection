@@ -59,7 +59,7 @@ z = ⠵ = U+2835
 			2085 23125 156 199141451819, 141518 19920205208 914 2085 
 			195120 156 2085 19315181462112.
 			
-		Brail Translation ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞:
+		Brail Translation ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞⢊:
 			
 		
 	1:2 But his delight is in the law of the LORD; and in his law doth 

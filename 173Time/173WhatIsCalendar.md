@@ -93,7 +93,7 @@ z = ⠵ = U+2835
 
 11 = Calisthenics:
 
-12 = Learn to Play:
+12 = Learn to Play: ???
 
 13 = Core Moves:
 
@@ -111,25 +111,37 @@ z = ⠵ = U+2835
 
 20 = Play F. Cards:
 
-21 = Old School Review :
+21 = Body Art : ???
 
 22 = Organize Space:
 
-23 = Organization Resources
+23 = Massage Body:
 
-24 = Massage Body:
+24 = Grammar:
 
-25 = Sunlight:
+25 = Logic:
 
-26 = Temperance:
+26 = Rhetoric:
 
-27 = Air:
+27 = Arithmetic
 
-28 = Rest: 
+28 = Geometry
 
-29 = Trust:
+29 = Music
 
-30 = ???
+30 = Astronomy
+
+31 = Sunlight:
+
+32 = Temperance:
+
+33 = Air:
+
+34 = Rest: 
+
+35 = Trust:
+
+36 = ???
 
 ## May
 
@@ -338,6 +350,7 @@ Time
 
 DJ 4 = 1 min
 
+
 ### July 9
 20913e
 
@@ -353,7 +366,7 @@ DJ 7 = 20 min
 ### July 11
 Time
 
-Worl Population Day (UN) https://en.wikipedia.org/wiki/World_Population_Day
+World Population Day (UN) https://en.wikipedia.org/wiki/World_Population_Day
 
 DJ 4 = 2 min
 
@@ -361,5 +374,12 @@ DJ 4 = 2 min
 20913e
 
 DJ 4  = 1 min
-DJ 17 = 1 min
+DJ 17 = 1 + 6 min
+DJ 12 = 10 min
+DJ 7 = 17 + 40 min
+
+### July 13
+20ime
+
+DJ 4 = 1 min
 
