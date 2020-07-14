@@ -107,7 +107,7 @@ z = ⠵ = U+2835
 
 18 = Card Creation:
 
-19 = Dance:
+19 = Dance Choreography:
 
 20 = Play F. Cards:
 
@@ -380,6 +380,14 @@ DJ 7 = 17 + 40 min
 
 ### July 13
 20ime
+
+DJ 4 = 2 min
+DJ 13 = 7 min
+DJ 17 = 12 min
+DJ 7 = 31 + 43 min
+
+### July 14
+20i13e
 
 DJ 4 = 1 min
 
