@@ -389,5 +389,7 @@ DJ 7 = 31 + 43 min
 ### July 14
 20i13e
 
+Bastille Day / Le Quatorze Juillet  https://en.wikipedia.org/wiki/Bastille_Day
+
 DJ 4 = 1 min
 

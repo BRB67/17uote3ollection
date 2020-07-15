@@ -47,6 +47,65 @@ z = ⠵ = U+2835
 ### ¿2084 15124 205192011351420 156 2085 119147 10113519 225181991514
 		156 2085 292125?
 
+# The King James Version of the Bible
+
+## The Old Testament of the King James Version of the Bible
+
+### The First Book of Moses: Called Genesis
+### The Second Book of Moses: Called Exodus
+### The Third Book of Moses: Called Leviticus
+### The Fourth Book of Moses: Called Numbers
+### The Fifth Book of Moses: Called Deuteronomy
+### The Book of Joshua
+### The Book of Judges
+### The Book of Ruth
+### The First Book of Samuel
+### The second Book of Samuel
+### The First Book of the Kings
+### The Second Book of the Kings
+### The First Book of the Chronicles
+### The Second Book of the Chronicles
+### Ezra
+### The Book of Nehemiah
+### The Book of Esther
+### The Book of Job
+### The Book of Psalms
+### The Proverbs
+### Ecclesiates
+### The Song of Solomon
+### The Book of the Prophet Isaiah
+### The Book of the Prophet Jeremiah
+### The Lamentations of Jeremiah
+### The Book of the Prophet Ezekiel
+### The Book of Daniel
+### Hosea
+### Joel
+### Obadiah
+### Jonah
+### Micah
+### Nahum
+### Habakkuk
+### Zephaniah
+### Haggai
+### Zechariah
+### Malachi
+
+## The New Testament of the King James Bible
+
+### The Gospel According to Saint Matthew
+### The Gospel According to Saint Mark
+### The Gospel According to Saint Luke
+### The Gospel According to Saint John
+### The Acts of the Apostles
+### The First Epistle of Paul the Apostle to the Corinthians
+### The Second Epistle of Paul the Apostle to the Corinthians
+### The Epistle of Paul the Apostle to the Galatians
+### The Epistle of Paul the Apostle to the Ephesians
+### The Epistle of Paul the Apostle to the Phillippians
+### The Epistle of Paul the Apostle to the Colossians
+### The First Epistle of Paul the Apostle to the Thessalonians
+###
+
 ### The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
