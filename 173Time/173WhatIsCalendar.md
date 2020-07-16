@@ -398,3 +398,13 @@ DJ 17 = 20 min
 
 ### July 15
 Time
+
+DJ 4 = 1 min
+DJ 7 = 5 min
+DJ 17 = 3 min
+
+### July 16
+Time
+
+DJ 4 = 1 min
+DJ 17 = 10 min
