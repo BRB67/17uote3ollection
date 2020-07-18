@@ -408,3 +408,24 @@ Time
 
 DJ 4 = 1 min
 DJ 17 = 10 min
+DJ 7 = 34 + 47 min
+
+### July 17
+Time 
+
+World Emoji Day https://en.wikipedia.org/wiki/World_Emoji_Day
+
+DJ 4 = 2 min
+DJ 8 = 10 min
+DJ 17 = 10 mim
+
+### July 18
+20i13e
+
+Mandela Day https://en.wikipedia.org/wiki/Mandela_Day 
+
+DJ 4 = 1 min
+DJ 2, 13 = 10 min
+DJ 12, 29 = 10 min
+DJ 8 = 10 min
+DJ 17 = 10 min
