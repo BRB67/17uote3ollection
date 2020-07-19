@@ -226,7 +226,7 @@ which is the fruit of a tree yielding seed; to you it shall be for meat.
 			195120 156 2085 19315181462112.
 			
 		Brail Translation ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞⠊⠕⠝ :
-			⠃  
+			⠃⠇⠑⠎
 			
 		
 	1:2 But his delight is in the law of the LORD; and in his law doth 

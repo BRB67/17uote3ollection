@@ -429,3 +429,11 @@ DJ 2, 13 = 10 min
 DJ 12, 29 = 10 min
 DJ 8 = 10 min
 DJ 17 = 10 min
+DJ 7 = 15 + 27 min
+
+### July 19
+Time
+
+DJ 4 = 1 min
+DJ 2, 13 = 10 min
+DJ 12, 29 = 20 min
