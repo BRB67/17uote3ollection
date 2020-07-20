@@ -250,7 +250,40 @@ soul.
 there he put the man whom he had formed.
 
 2:9 And out of the ground made the LORD God to grow every tree
-that is pleasant to the sight, and good
+that is pleasant to the sight, and good for food; the tree of life also
+in the midst of the garden, and the tree of knowledge of good and evil.
+
+2:10 And a river went out of Eden to water the garden;
+and from thence it was parted, and became into four heads.
+
+2:11 The name of the first is Pison: that is it which
+compasseth the whole land of Havilah, where there is
+gold; 2:12 And the gold of that land is good: there is
+bdellium and the onyx stone.
+
+2:13 And the name of the second river is Gihon: the
+same is it that comppasseth the whole land of Ethiopia.
+
+2:14 And the name of the third river is Hiddekel: that is
+it which goweth toward the east of Assyria. And the fourth
+river is Euphrates.
+
+2:15 And the LORD God took the man, and put him
+into the garden of Eden to dress it and to keep it.
+
+2:16 And the LORD God commanded the man, saying,
+Of every tree of the garden thou mayest freely eat: 2:17
+But of the tree of the knowledge of good and evil, thou
+shall not eat of it: for in the day that thou eatest thereof
+thou shalt surely die.
+
+2:18 And the LORD God said, It is not good that the 
+man should be alone; I will make him an help meet for
+him.
+
+2:19 And out of the ground the LORD God formed
+every beast of the field, and every fowl of the air; and
+21
 
 ## The Book of Psalms
 	
@@ -265,7 +298,7 @@ that is pleasant to the sight, and good
 			195120 156 2085 19315181462112.
 			
 		Brail Translation ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞⠊⠕⠝ :
-			⠃⠇⠑⠎
+			⠃⠇⠑⠎  ⠊⠎ 
 			
 		
 	1:2 But his delight is in the law of the LORD; and in his law doth 

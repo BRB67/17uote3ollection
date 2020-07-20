@@ -9,18 +9,31 @@ https://www.timeanddate.com/
 
 ### Daily Journal (DJ) Resources
 
-Exercise:
+02 Exercise:
 	https://www.youtube.com/user/FitnessFAQs
 	https://www.youtube.com/user/Calisthenicmovement/featured
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
-Bible:
+	
+08 Read Bible:
 	https://www.gutenberg.org/ebooks/10
-Yoga:
+	
+07 Yoga:
 	https://www.youtube.com/c/yogawithadriene/featured 
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
-Trust:
+	
+13 Core Moves:
+	https://tonygentilcore.com/2016/11/you-dont-need-core-stability-or-core-strength/
+		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
+		https://www.functionalmovement.com/exercises/33/rolling_lower_body
+		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953329/ 
+		
+	
+17 Hand Dexterity 
+	https://www.youtube.com/user/billvicars
+	
+35 Trust:
 	https://blog.jostle.me/blog/ways-to-build-trust-at-work
 	
 ## Braille Patterns
@@ -300,6 +313,8 @@ DJ 7 = 23 min
 
 ### July Floating Holiday's
 
+National Ice Cream Day (United States) https://en.wikipedia.org/wiki/National_Ice_Cream_Month
+
 ### July 01
 20i13e
 
@@ -434,6 +449,24 @@ DJ 7 = 15 + 27 min
 ### July 19
 Time
 
+International Day for the Elimination of Sexual Violence in Conflict https://www.un.org/en/observances/end-sexual-violence-in-conflict-day
+
 DJ 4 = 1 min
-DJ 2, 13 = 10 min
-DJ 12, 29 = 20 min
+DJ 2 = 10 + 40 min
+DJ 13 = 10 min
+DJ 12 = 20 min
+DJ 29 = 20 min
+DJ 8 = 10 min
+DJ 17 = 10 + 3 min
+DJ 7 = 15 + 27 + 22 min
+
+### July 20
+Time
+
+DJ 4 = 1 min
+DJ 2 = 10 min
+DJ 13 = 10 min
+DJ 12 = 10 min
+DJ 29 = 10 min
+DJ 8 = 10 min
+DJ 17 = 10 min
