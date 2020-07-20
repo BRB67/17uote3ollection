@@ -213,6 +213,45 @@ over every living thing that moveth upon the earth.
 seed, which is upon the face of all the earth, and every tree, in the
 which is the fruit of a tree yielding seed; to you it shall be for meat.
 
+1:30 Amd to every beast of the earth, and to every fowl of the air,
+and to every thing that creepeth upon the earth, wherein there is life,
+I have given every green herb for meat: and it was so.
+
+1:31 And God saw every thing that he had made, and, behold, it
+was very good. And the evening and the morning were the sixth
+day.
+
+2:1 Thus the heavens and the earth were finished, and all the host
+of them.
+
+2:2 And on the seventh day God ended his work which he had
+made; and he rested on the seventh day from all his work which he
+had made.
+
+2:3 And God blessed the seventh day, and sanctified it: because
+that in it he had rested from all his work which God created and
+made.
+
+2:4 These are the generations of the heavens and of the earth when
+they were created, in the day that the LORD God made the earth
+and the heavens, 2:5 And every plant of the field before it was in the
+earth, and every herb of the field befgore it grew: for the LORD God
+had not caused it to rain upon the earth, and there was not a man to
+till the ground.
+
+2:6 But there went up a mist from the earth, and watered the whole 
+face of the ground.
+
+2:7 And the LORD God formed man of the dust of the ground, and
+breathed into his nostrils the breath of life; and man became a living
+soul.
+
+2:8 And the LORD God planted a garden eastward in Eden; and
+there he put the man whom he had formed.
+
+2:9 And out of the ground made the LORD God to grow every tree
+that is pleasant to the sight, and good
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
