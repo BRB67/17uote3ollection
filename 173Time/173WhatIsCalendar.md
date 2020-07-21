@@ -25,6 +25,7 @@ https://www.timeanddate.com/
 	
 07 Yoga:
 	https://www.youtube.com/c/yogawithadriene/featured 
+		https://www.youtube.com/c/yogawithadriene/playlists?view=1&sort=dd&shelf_id=0
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
@@ -94,7 +95,7 @@ z = ⠵ = U+2835
 
 2 = Exercise
 
-3 = Water
+3 = W⠁⠞⠑r
 
 4 = Prayer
 
@@ -128,7 +129,7 @@ z = ⠵ = U+2835
 
 19 = Dance Choreography:
 
-20 = Review F. Cards:
+20 = Play F. Cards:
 
 21 = Indoor Gardening: ???
 
@@ -472,10 +473,22 @@ Time
 Columbian Declaration of Independence https://en.wikipedia.org/wiki/Colombian_Declaration_of_Independence
 
 
-DJ 4 = 1 min
+DJ 4 = 2 min
 DJ 2 = 10 min
 DJ 13 = 10 min
 DJ 12 = 10 min
 DJ 29 = 10 min
 DJ 8 = 10 min
 DJ 17 = 10 min
+DJ 7 = 1min
+
+### July 21
+Time
+
+DJ 4 = 1 min
+DJ 20 = 30 min
+DJ 2 = 45 min
+DJ 12 = 30 min
+DJ 29 = 30 min
+DJ 8 = 10 min
+DJ 17 = 10 + 30 min
