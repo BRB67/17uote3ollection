@@ -9,6 +9,12 @@ https://www.timeanddate.com/
 
 ### Daily Journal (DJ) Resources
 
+01 Nutrition:
+	https://www.nutrition.gov/
+	https://nutritionfacts.org/
+	https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label
+	https://www.cdc.gov/nutrition/index.html 
+
 02 Exercise:
 	https://www.youtube.com/user/FitnessFAQs
 	https://www.youtube.com/user/Calisthenicmovement/featured
@@ -106,7 +112,7 @@ z = ⠵ = U+2835
 
 11 = Calisthenics:
 
-12 = Learn to Play: ???
+12 = Practice Play: ???
 
 13 = Core Moves:
 
@@ -122,9 +128,9 @@ z = ⠵ = U+2835
 
 19 = Dance Choreography:
 
-20 = Play F. Cards:
+20 = Review F. Cards:
 
-21 = Body Art : ???
+21 = Indoor Gardening: ???
 
 22 = Organize Space:
 
@@ -397,7 +403,7 @@ DJ 7 = 17 + 40 min
 20ime
 
 DJ 4 = 2 min
-DJ 13 = 7 min
+DJ 13 = 7 minhttps://www.nutrition.gov/
 DJ 17 = 12 min
 DJ 7 = 31 + 43 min
 
@@ -462,6 +468,9 @@ DJ 7 = 15 + 27 + 22 min
 
 ### July 20
 Time
+
+Columbian Declaration of Independence https://en.wikipedia.org/wiki/Colombian_Declaration_of_Independence
+
 
 DJ 4 = 1 min
 DJ 2 = 10 min
