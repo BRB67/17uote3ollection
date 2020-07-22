@@ -322,7 +322,11 @@ surely die: 3:5 For God doth know that in the day ye eat
 thereof, then your eyes shall be opened, and ue shall be
 as gods, knowing good and evil.
 
-3:6 And when the woman saw that the tree was good
+3:6 And when the woman saw that the tree was good 
+for food, and that it was pleasant to the eyes, and a tree
+to be desired to make one wise, she took of the fruit
+thereof, and did eat, and gave also unto her husband with
+her; and he did eat.
 
 
 ## The Book of Psalms
