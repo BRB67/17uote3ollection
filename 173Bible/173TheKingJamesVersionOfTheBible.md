@@ -328,6 +328,40 @@ to be desired to make one wise, she took of the fruit
 thereof, and did eat, and gave also unto her husband with
 her; and he did eat.
 
+3:7 And the eyes of them both were, opened, and they 
+knew that they were naked; and they sewed fig leaves
+together, and made themselves aprons.
+
+3:8 And they heard the voice of the LORD God 
+walking in the garden in the cool of the day: and Adam
+and his wife hid themselves from the presence of the
+LORD God amongst the trees of the garden.
+
+3:9 And the LORD God called unto Adam, and said
+unto him, Where art thou? 3:10 And he said, I heard thy
+voice in the garden, and I was afraid, because I was
+naked; and I hid myself.
+
+3:11 And he said, Who told thee that thou wast naked?
+Hast thou eaten of the tree, whereof I commanded thee
+that thpi shouldest not eat? 3:12 And the man said, The
+woman whom thou gavest to be with me, she gave me of
+the tree, and I did eat.
+
+3:13 And the LORD God said unto the woman, What is
+this that thou hast done? And the woman said, The
+serpent beguiled me, and I did eat.
+
+3:14 And the LORD God said unto the serpent,
+Because thou hast done this, thou art cursed above all
+cattle, and above every beast of the field; upon thy belly
+shalt thou go, and dust shalt thou eat all the days of thy
+life: 3:15 And I will put enmity between thee and the
+woman, and between thy seed and her seed; it shall
+buise thy head, and thou shalt bruise his heel.
+
+3
+
 
 ## The Book of Psalms
 	

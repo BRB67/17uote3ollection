@@ -16,9 +16,14 @@ https://www.timeanddate.com/
 	https://www.cdc.gov/nutrition/index.html 
 
 02 Exercise:
+	https://www.youtube.com/user/PaulChekLive/about
+		https://www.youtube.com/watch?v=Jdn8gK2LDYQ
 	https://www.youtube.com/user/FitnessFAQs
 	https://www.youtube.com/user/Calisthenicmovement/featured
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
+	
+03 W⠁t⠑r:
+	https://www.youtube.com/watch?v=vkbn499wsWc&list=RDQMO2yPfc9Ab_M&index=2
 	
 08 Read Bible:
 	https://www.gutenberg.org/ebooks/10
@@ -35,6 +40,7 @@ https://www.timeanddate.com/
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
 		https://www.functionalmovement.com/exercises/33/rolling_lower_body
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953329/ 
+	https://www.youtube.com/channel/UC2hs0Q-Zwhn_kb06neNSvTA
 		
 	
 17 Hand Dexterity 
@@ -322,6 +328,8 @@ DJ 7 = 23 min
 
 National Ice Cream Day (United States) https://en.wikipedia.org/wiki/National_Ice_Cream_Month
 
+National Hot Dog Day (https://en.wikipedia.org/wiki/Hot_Dog_days)
+
 ### July 01
 20i13e
 
@@ -485,7 +493,7 @@ DJ 7 = 1min
 ### July 21
 Time
 
-DJ 4 = 1 min
+DJ 4 = 2 min
 DJ 20 = 30 min
 DJ 2 = 45 min
 DJ 12 = 30 min
@@ -498,3 +506,19 @@ DJ 7 = 15 min
 Time
 
 1212118512 3. 21182084125
+
+DJ 4 = 1 min
+DJ 2 = 40 min
+
+### July 23
+20i13e
+
+DJ 4  = 1 min
+DJ 20 = 40 min
+DJ 2 = 20 min
+DJ 12 = 30 min
+DJ 19 = 30 min
+DJ 8 = 10 min
+DJ 17 = 30 + 10 min
+
+
