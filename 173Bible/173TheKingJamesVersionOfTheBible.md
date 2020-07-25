@@ -360,7 +360,18 @@ life: 3:15 And I will put enmity between thee and the
 woman, and between thy seed and her seed; it shall
 buise thy head, and thou shalt bruise his heel.
 
-3
+3:16 Unto the woman he said, I will greatly multiply
+thy sorrow and thy conception; in sorrow thou shalt
+bring forth children; and thy desire shall be to thy
+husband, and he shall rule over thee.
+
+3:17 And unto Adam he said, Because thou hast
+hearkened unto the voice of thy wife, and hast eaten of
+the tree, of which I commanded thee, saying, Thou shalt
+not eat of it: cursed is the ground for thy sake; in sorrow
+shalt thou eat of it all the days of thy life; 3:18 Thorns
+also and thistles shall it bring forth to thee; and thou
+shalt eat the herb of the field; 3:19
 
 
 ## The Book of Psalms

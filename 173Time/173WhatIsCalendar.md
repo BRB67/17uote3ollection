@@ -513,12 +513,18 @@ DJ 2 = 40 min
 ### July 23
 20i13e
 
-DJ 4  = 1 min
+DJ 4  = 2 min
 DJ 20 = 40 min
-DJ 2 = 20 min
+DJ 2 = 20 + 7 + 28 min
 DJ 12 = 30 min
 DJ 19 = 30 min
 DJ 8 = 10 min
 DJ 17 = 30 + 10 min
+FJ 7 = 43 min
+
+### July 24
+Time
+
+DJ 4 = 1 min
 
 
