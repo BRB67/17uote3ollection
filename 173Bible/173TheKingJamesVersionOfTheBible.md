@@ -371,7 +371,10 @@ the tree, of which I commanded thee, saying, Thou shalt
 not eat of it: cursed is the ground for thy sake; in sorrow
 shalt thou eat of it all the days of thy life; 3:18 Thorns
 also and thistles shall it bring forth to thee; and thou
-shalt eat the herb of the field; 3:19
+shalt eat the herb of the field; 3:19 In the sweat of thy
+face shalt thou eat bread, till thou return unto the
+ground; for out of it wast thou taken: for dust thou art,
+and unto dust shalt thou return.
 
 
 ## The Book of Psalms

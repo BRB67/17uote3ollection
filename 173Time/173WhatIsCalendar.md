@@ -31,6 +31,9 @@ https://www.timeanddate.com/
 07 Yoga:
 	https://www.youtube.com/c/yogawithadriene/featured 
 		https://www.youtube.com/c/yogawithadriene/playlists?view=1&sort=dd&shelf_id=0
+			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
+			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
+			Yogha For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
@@ -526,5 +529,22 @@ FJ 7 = 43 min
 Time
 
 DJ 4 = 1 min
+DJ 20 = 20 min
+DJ 2 = 60 min 
+DJ 8 = 2 min
+DJ 17 = 2 min
+DJ 7 = 38 min
+
+### July 25
+Feast Day of St. James https://en.wikipedia.org/wiki/James_the_Great
+
+20i13e
+
+DJ 4 = 1 min
+DJ 20 = 20 min
+DJ 2 = 60 min
+DJ 8 = 10 min
+DJ 17 = 2 min
+
 
 
