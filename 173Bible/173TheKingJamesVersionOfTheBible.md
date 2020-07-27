@@ -394,6 +394,10 @@ of the garden of Eden Cherubims, and a flaming sword
 which turned every way, to keep the way of the tree of
 life.
 
+4:1 And adam knew Eve his wife; and she conceived,
+and bare Cain, and said, I have gotten a man from the
+LORD.
+
 
 ## The Book of Psalms
 	

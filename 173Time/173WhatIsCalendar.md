@@ -16,6 +16,7 @@ https://www.timeanddate.com/
 	https://www.cdc.gov/nutrition/index.html 
 
 02 Exercise:
+	https://www.youtube.com/user/TBLwithRobinLong
 	https://www.youtube.com/user/PaulChekLive/about
 		https://www.youtube.com/watch?v=Jdn8gK2LDYQ
 	https://www.youtube.com/user/FitnessFAQs
@@ -31,6 +32,7 @@ https://www.timeanddate.com/
 07 Yoga:
 	https://www.youtube.com/c/yogawithadriene/featured 
 		https://www.youtube.com/c/yogawithadriene/playlists?view=1&sort=dd&shelf_id=0
+			Foundations of Yoga https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
 			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
 			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
 			Yogha For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
@@ -39,6 +41,7 @@ https://www.timeanddate.com/
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 	
 13 Core Moves:
+	https://www.youtube.com/user/TBLwithRobinLong
 	https://tonygentilcore.com/2016/11/you-dont-need-core-stability-or-core-strength/
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
 		https://www.functionalmovement.com/exercises/33/rolling_lower_body
@@ -329,9 +332,11 @@ DJ 7 = 23 min
 
 ### July Floating Holiday's
 
-National Ice Cream Day (United States) https://en.wikipedia.org/wiki/National_Ice_Cream_Month
+National Ice Cream Day (United States of America) https://en.wikipedia.org/wiki/National_Ice_Cream_Month
 
-National Hot Dog Day (https://en.wikipedia.org/wiki/Hot_Dog_days)
+National Hot Dog Day (United States of America) (https://en.wikipedia.org/wiki/Hot_Dog_days)
+
+Parents' Day (United States of America) https://en.wikipedia.org/wiki/Parents%27_Day
 
 ### July 01
 20i13e
@@ -551,7 +556,7 @@ DJ 7 = 36 min
 ### July 26
 Time
 
-DJ 4 = 1 min
+DJ 4 = 2 min
 DJ 20 = 10 min
 DJ 2 = 1 + 60 min
 DJ 8 = 30 min
@@ -566,6 +571,12 @@ DJ 35 = 5 min
 DJ 12 = 40 min
 DJ 27 = 3 min
 DJ 29 = 40 min
+DJ 7 = 8 + 29 min
+
+### July 27
+Time
+
+DJ 4 = 1 min
 
 
 
