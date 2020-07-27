@@ -376,6 +376,24 @@ face shalt thou eat bread, till thou return unto the
 ground; for out of it wast thou taken: for dust thou art,
 and unto dust shalt thou return.
 
+3:20 And Adam called his wife's name Eve; because
+she was the mother of all living.
+
+3:21 Unto Adam also and to his wife did the LORD
+God make coats of skins, and clothed them.
+
+3:22 And the LORD God said, Behold, the man is
+become as one of us, to know good and evil: and now,
+lest he put forth his hand, and take also of the tree of
+life, and eat, and live for ever: 3:23 Therefore the LORD
+God sent him forth from the garden of Eden, to till the 
+ground from whence he was taken.
+
+3:24 So he drove out the man; and he placed at the east
+of the garden of Eden Cherubims, and a flaming sword
+which turned every way, to keep the way of the tree of
+life.
+
 
 ## The Book of Psalms
 	

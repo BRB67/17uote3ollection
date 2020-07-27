@@ -540,11 +540,33 @@ Feast Day of St. James https://en.wikipedia.org/wiki/James_the_Great
 
 20i13e
 
-DJ 4 = 1 min
+DJ 4 = 2 min
 DJ 20 = 20 min
 DJ 2 = 60 min
 DJ 8 = 10 min
+DJ 9 = 120 min
 DJ 17 = 2 min
+DJ 7 = 36 min 
+
+### July 26
+Time
+
+DJ 4 = 1 min
+DJ 20 = 10 min
+DJ 2 = 1 + 60 min
+DJ 8 = 30 min
+DJ 9 = 40 min
+DJ 21 = 60 min
+DJ 17 = 5 min
+DJ 31 = 60 min
+DJ 32 = 30 + 40 + 3 min
+DJ 33 = 80 min
+DJ 34 = 480 + min
+DJ 35 = 5 min
+DJ 12 = 40 min
+DJ 27 = 3 min
+DJ 29 = 40 min
+
 
 
 
