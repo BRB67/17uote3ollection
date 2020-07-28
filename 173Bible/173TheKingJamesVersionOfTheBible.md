@@ -394,9 +394,13 @@ of the garden of Eden Cherubims, and a flaming sword
 which turned every way, to keep the way of the tree of
 life.
 
-4:1 And adam knew Eve his wife; and she conceived,
+4:1 And Adam knew Eve his wife; and she conceived,
 and bare Cain, and said, I have gotten a man from the
 LORD.
+
+4:2 And she again bare his brother
+Abel. And Abel was a keeper of sheep,
+but Cain was a tiller of the ground.
 
 
 ## The Book of Psalms

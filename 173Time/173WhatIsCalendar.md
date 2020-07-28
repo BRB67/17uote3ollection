@@ -173,7 +173,7 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = ???
+36 = FB ??? 
 
 ## May
 
@@ -577,6 +577,25 @@ DJ 7 = 8 + 29 min
 Time
 
 DJ 4 = 1 min
+DJ 20 = 40 min
+DJ 2 = 1 min
+DJ 8 = 60 min
+DJ 9 = 1 min
+DJ 21 = 20 min
+DJ 17 = 60 min
+DJ 31 = 1 min
+DJ 32 = 5 min
+DJ 33 = 20 min
+DJ 34 = 480 + min
+DJ 35 = 1 min
+DJ 27 = 5 min
+DJ 7 = 10 + 8 + 50 + 11 + 26 min
+
+### July 28 
+20i13e
+
+DJ 4 = 1 min
+
 
 
 
