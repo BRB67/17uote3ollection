@@ -338,6 +338,8 @@ National Hot Dog Day (United States of America) (https://en.wikipedia.org/wiki/H
 
 Parents' Day (United States of America) https://en.wikipedia.org/wiki/Parents%27_Day
 
+Hajj https://en.wikipedia.org/wiki/Hajj
+
 ### July 01
 20i13e
 
@@ -591,12 +593,29 @@ DJ 35 = 1 min
 DJ 27 = 5 min
 DJ 7 = 10 + 8 + 50 + 11 + 26 min
 
-### July 28 
+### July 28
+Peru Independence Day https://en.wikipedia.org/wiki/Fiestas_Patrias_(Peru)
+ 
 20i13e
 
+DJ 4 = 2 min
+DJ 20 = 70 min
+DJ 2 = 1 min
+DJ 8 = 130 min
+DJ 9 = 20 min
+DJ 29 = 20 min
+DJ 17 = 40 min
+DJ 31 = 1 min
+DJ 32 = 10 min
+DJ 33 = 5 min
+DJ 34 = 480 + min
+DJ 35 = 1 min
+DJ 27 = 10 min
+
+### July 29
+Time 
+
 DJ 4 = 1 min
-
-
 
 
 
