@@ -338,7 +338,9 @@ National Hot Dog Day (United States of America) (https://en.wikipedia.org/wiki/H
 
 Parents' Day (United States of America) https://en.wikipedia.org/wiki/Parents%27_Day
 
-Hajj https://en.wikipedia.org/wiki/Hajj
+Hajj (Islam) https://en.wikipedia.org/wiki/Hajj
+
+Day of Arafah (Islam) https://en.wikipedia.org/wiki/Day_of_Arafah
 
 ### July 01
 20i13e
@@ -615,7 +617,28 @@ DJ 27 = 10 min
 ### July 29
 Time 
 
+DJ 4 = 2 min
+DJ 20 = 70 min
+DJ 2 = 10 min
+DJ 13 = 10 min
+DJ 8 = 10 min
+DJ 12 = 10 min
+DJ 17 = 15 min
+DJ 29 = 10 min
+
+### July 30
+Day Against Trafficking In Persons
+
+Time
+
 DJ 4 = 1 min
+DJ 20 = 30 min
+DJ 2 = 30 min
+DJ 13 = 20 min
+DJ 8 = 20 min
+DJ 16 = 10 min
+DJ 28 = 10 min
+DJ 17 = 10 min
 
 
 
