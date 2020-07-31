@@ -627,7 +627,7 @@ DJ 17 = 15 min
 DJ 29 = 10 min
 
 ### July 30
-Day Against Trafficking In Persons
+Day Against Trafficking In Persons (United Nations) https://www.un.org/en/observances/end-human-trafficking-day
 
 Time
 
@@ -640,5 +640,18 @@ DJ 16 = 10 min
 DJ 28 = 10 min
 DJ 17 = 10 min
 
+### July 31
+Time
 
+DJ 4 = 1 min
+DJ 20 = 1 min
+DJ 2 = 10 min
+DJ 13 = 10 min
+DJ 8 = 2 min
+DJ 16 = 1 min
+DJ 28 = 1 min
+DJ 17 = 1 min
+DJ 12 = 1 min
+DJ 29 = 1 min
+DJ 21 = 1 min
 

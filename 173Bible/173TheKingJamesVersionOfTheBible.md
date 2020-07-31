@@ -443,7 +443,7 @@ shall be a fugitive and a vagabond in the earth; and it
 shall come to pass, that every one that findeth me shall
 slay me.
 
-4:15 And the LORD said unto him,
+4:15 And the LORD said unto him, Therefore
 
 
 ## The Book of Psalms
