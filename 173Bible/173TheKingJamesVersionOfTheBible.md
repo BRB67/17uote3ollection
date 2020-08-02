@@ -443,7 +443,56 @@ shall be a fugitive and a vagabond in the earth; and it
 shall come to pass, that every one that findeth me shall
 slay me.
 
-4:15 And the LORD said unto him, Therefore
+4:15 And the LORD said unto him, Therefore 
+whosoever slayeth Cain, vengeance shall be taken on 
+him sevenfold. And the LORD set a mark upon Cain,
+lest any finding him should kill him.
+
+4:16 And Cain went out from the presence of the 
+LORD, and dwelt in the land of Nod, on the east of
+Eden.
+
+4:17 And Cain knew his wife; and she conceived, and
+bare Enoch: and he builded a city, and called the name
+of the city, after the name of his son, Enoch.
+
+4:18 And unto Enoch was born Irad: and Irad begat
+Mehujael: and Mehajael begat Methusael: and 
+Methusael begat Lamech.
+
+4:19 And Lamech took unto him two wives: the name
+of the one was Adah, and the name of the other Zillah.
+
+4:20 Amd Adaj bare Jabal: he was the father of such as
+dwell in tents, and of such as have cattle.
+
+4:21 And his brother's name was Jubal: he was the
+father of all such as handle the harp and organ.
+
+4:22 And Zillah, she also bare Tubalcain, an instructer
+of every artificer in brass and iron: and the sister of
+Tubalcain was Naamah.
+
+4:23 And Lamech said unto his wives, Adah and Zillah,
+Hear my voice; ye wives of Lamech, hearken unto my 
+speech: for I have slain a man to my wounding, and a 
+young man to my hurt.
+
+4:24 If Cain shall be avenged sevenfold, truly Lamech
+seventy and sevenfold.
+
+4:25 And Adam knew his wife again; and she bare a
+son, and called his name Seth: For God, said she, hath
+appointed me another seed instead of Abel, whom Cain
+slew.
+
+4:26 And to Seth, to him also there was born a son; and
+he called his name Enos: then began men to call upon
+the name of the LORD.
+
+5:1 This is the book of the generations of Adam. In the
+day that God created man, in the likeness of God made
+he him; 5:2 Male and female created he them; and
 
 
 ## The Book of Psalms

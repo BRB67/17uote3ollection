@@ -3,9 +3,15 @@
 ## Calendar
 ## Sources:
 
-https://en.wikipedia.org/wiki/Main_Page 
-https://www.wincalendar.com/Holiday-Calendar-with-Today
-https://www.timeanddate.com/ 
+Online Encyclopedia
+	https://en.wikipedia.org/wiki/Main_Page 
+	Wikipedia Article on Gregorian Calendar
+	
+Calendar Websites 
+	https://www.wincalendar.com/Holiday-Calendar-with-Today
+	https://www.timeanddate.com/ 
+
+
 
 ### Daily Journal (DJ) Resources
 
