@@ -493,6 +493,31 @@ the name of the LORD.
 5:1 This is the book of the generations of Adam. In the
 day that God created man, in the likeness of God made
 he him; 5:2 Male and female created he them; and
+blessed them, and called their name Adam, in the day
+when they were created.
+
+5:3 And Adam lived an hundred and thirty years, and
+begat a son in his own likeness, and after his image; and
+called his name Seth: 5:4 And the days of Adam after he
+had begotten Seth were eight hundred years: and he
+begat sons and daughters: 5:5 And all the days that
+Adam lived were nine hundred and thirty years: and he
+died.
+
+5:6 And Seth lived an hundred and five years, and
+begat Enos: 5:7 And Seth lived after he begat Enos eight
+hundred and seven years, and begat sons and daughters:
+5:8 And all the days of Seth were nine hundred and 
+twelve years: and he died.
+
+5:9 And Enos lived ninety years, and begat Cainan:
+5:10 And Enos lived after he begat Cainan eight hundred
+and fifteen years, and begat sons and daughters: 5:11
+And all the days of Enos were nine hundred and five
+years: and he died.
+
+5:12 And Cainan lived seventy years and begat 
+Mahalaleel:
 
 
 ## The Book of Psalms
