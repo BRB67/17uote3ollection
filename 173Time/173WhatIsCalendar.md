@@ -123,7 +123,7 @@ z = ⠵ = U+2835
 
 7 = Yoga
 
-8 = Read Bible
+8 = Read Bible (and other writings)
 
 9 = Clean
 
@@ -680,3 +680,12 @@ DJ 4 = 2 min
 Time
 
 DJ 4 = 2 min
+
+### August 04
+Time
+
+DJ 4 = 1 min
+DJ 2 = 50 min
+DJ 8 = 70 min
+DJ 17 = 40 min
+DJ 21 = 10 min

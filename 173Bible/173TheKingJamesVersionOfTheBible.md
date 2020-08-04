@@ -517,7 +517,47 @@ And all the days of Enos were nine hundred and five
 years: and he died.
 
 5:12 And Cainan lived seventy years and begat 
-Mahalaleel:
+Mahalaleel: 5:13 And Cainan lived after he begat
+Mahalaleel eight hundred and forty years, and begat
+sons and daughters: 5:14 And all the days of Cainan
+were nine hundred and ten years: and he died.
+
+5:15 And Mahalaleel lived sixty and five years, and
+begat Jared: 5:16 And Mahalaleel lived after he begat
+Jared eight hundred and thirty years, and begat sons and
+daughters: 5:17 And all the days of Mahalaleel were 
+eight hundred ninety and five years: and he died.
+
+5:21 And Enoch lived sixty and five years, and begat
+Methuselah: 5:22 And Enoch walked with God after he
+begat Methuselah three hundred years, and begat sons
+and daughters: 5:23 And all the days of Enoch were
+three hundred sixty and five years: 5:24 And Enoch
+walked with God: and he was not; for God took him.
+
+5:25 And Methuselah lived an hundred eighty and
+seven years, and begat Lamech.
+
+5:26 And Methuselah lived after he begat Lamech
+seven hundred eighty and two years, and begat sons and
+daughters: 5:27 And all the days of Methuselah were 
+nine hundred sixty and nine years: and he died.
+
+5:28 And Lamech lived an hundred eighty and two
+years, and begat a son: 5:29 And he called his name
+Noah, saying, This same shall comfort us concerning our
+work and toil of our hands, because of the ground which
+the LORD hath cursed.
+
+5:30 And Noah was five hundred years old: and Noah
+begat Shem, Ham, and Japheth.
+
+6:1 And it came to pass, when men began to multiply
+on the face of the earth, and daughters were born unto
+them, 6:2 That the sons of God saw the daughters of 
+men that they were fair; and they took them wives of all
+which they chose.
+
 
 
 ## The Book of Psalms
