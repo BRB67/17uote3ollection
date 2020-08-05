@@ -121,7 +121,7 @@ z = ⠵ = U+2835
 
 6 = Charity
 
-7 = Yoga
+7 = Stretching (Inspired by various traditions including Yoga)
 
 8 = Read Bible (and other writings)
 
@@ -179,7 +179,7 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = FB ??? 
+36 = Treat people and creations with respect ??? 
 
 ## May
 
@@ -682,10 +682,25 @@ Time
 DJ 4 = 2 min
 
 ### August 04
+
+
 Time
 
-DJ 4 = 1 min
+DJ 4 = 2 min
 DJ 2 = 50 min
 DJ 8 = 70 min
 DJ 17 = 40 min
 DJ 21 = 10 min
+DJ 1 = 80 min
+DJ 3 = 80 min
+
+### August 05
+Time
+
+DJ 4 = 2 min
+DJ 2 = 1 min
+DJ 1 = 20 min
+DJ 3 = 20 min
+DJ 21 = 1 min
+DJ 8 = 20 min
+DJ 17 = 10 min

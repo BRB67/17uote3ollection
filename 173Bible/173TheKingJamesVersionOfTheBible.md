@@ -558,6 +558,39 @@ them, 6:2 That the sons of God saw the daughters of
 men that they were fair; and they took them wives of all
 which they chose.
 
+6:3 And the LORD said, My spirit shall not always
+strive with man, for that he also is flesh: yet his days
+shall be an hundred and twenty years.
+
+6:4 There were giants in the earth in those days; and
+also after that, when the sons of God came in unto the
+daughters of men, and they bare children to them, the
+same became mighty men which were of old, men of
+renown.
+
+6:5 And God saw that the wickedness of man was great
+in the earth, and that every imagination of the thoughts
+of his heart was only evil continually.
+
+6:6 And it repented the LORD that he had made man
+on the earth, and it grieved him at his heart.
+
+6:7 And the LORD said, I will destroy man whom I
+have created from the face of the earth; both man, and
+beast, and the creeping thing, and the fowls of the air;
+for it repenteth me that I have made them.
+
+6:8 But Noah found grace in the eyes of the LORD.
+
+6:9 These are the generations of Noah: Noah was a just
+man and perfect in his generations, and Noah walked
+with God.
+
+6:10 And Noah begat three sons, Shem, Ham, and 
+Japheth.
+
+6:11 The earth alsos was corrupt before God, and the
+earth was filled with violence.
 
 
 ## The Book of Psalms
