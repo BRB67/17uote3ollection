@@ -592,6 +592,14 @@ Japheth.
 6:11 The earth alsos was corrupt before God, and the
 earth was filled with violence.
 
+6:12 And God looked upon earth, and behold, it was corrupt; for
+all flesh had corrupted his way upon the earth.
+
+6:13 And God said unto Noah, The end of all flesh is come before me;
+for the earth is filled with violence through them; and, behold I 
+will destroy them with the earth.
+6:14 Make thee an ark of gopher wood; rooms shalt thou make in the
+ark, and shalt pitch it within and without with pitch.
 
 ## The Book of Psalms
 	
