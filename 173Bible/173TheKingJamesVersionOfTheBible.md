@@ -606,10 +606,17 @@ ark, and shalt pitch it within and without with pitch.
 of the ark shall be three hundred cubits, the breadth of it fifty
 cubits, and the height of it thirty cubits.
 
+6:16 A window shalt thou make to the ark, and in a cubit shalt thou
+finish it above; and the door of the ark shalt thou set in the side
+thereof; with lower, second, and third stories shalt thou make it.
+
+
+
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
-		ungodly, nor standeth in the way of sinners, nor sitteth in the 
+		ungodly, no		r standeth in the way of sinners, nor sitteth in the 
 		seat of the scornful.
 		
 		Numeric Translation:
