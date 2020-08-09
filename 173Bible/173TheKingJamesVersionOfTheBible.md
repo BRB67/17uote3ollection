@@ -598,8 +598,13 @@ all flesh had corrupted his way upon the earth.
 6:13 And God said unto Noah, The end of all flesh is come before me;
 for the earth is filled with violence through them; and, behold I 
 will destroy them with the earth.
+
 6:14 Make thee an ark of gopher wood; rooms shalt thou make in the
 ark, and shalt pitch it within and without with pitch.
+
+6:15 And this is the fashion which thou shalat make it of: The length
+of the ark shall be three hundred cubits, the breadth of it fifty
+cubits, and the height of it thirty cubits.
 
 ## The Book of Psalms
 	
