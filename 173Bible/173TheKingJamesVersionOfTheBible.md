@@ -610,6 +610,18 @@ cubits, and the height of it thirty cubits.
 finish it above; and the door of the ark shalt thou set in the side
 thereof; with lower, second, and third stories shalt thou make it.
 
+6:17 And, behold, I, even I, do bring a flood of waters upon the
+earth, to destroy all flesh, wherein is the breath of life, from under
+heaven; and ever thing that is in the earth shall die.
+
+6:18 But with thee will I establish my covenant; and thou shalt come
+into the ark , thou, and thy sons, and thy wife, and thy sons' wives
+with thee.
+
+6:19 And of every living thing of all flesh, two of every sort shalt
+thou bring into the ark, to keep them alive with thee; they shall be
+male and female.
+
 
 
 
