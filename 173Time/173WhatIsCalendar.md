@@ -1,5 +1,6 @@
 # Quotes Collection (173)
 
+
 ## Calendar
 ## Sources:
 
@@ -123,13 +124,13 @@ z = ⠵ = U+2835
 
 7 = Stretching (Inspired by various traditions including Yoga)
 
-8 = Read Bible (and other writings)
+8 = Read Bible (and other written works)
 
 9 = Clean
 
-10 = Eat
+10 = Meal Preparation ?
 
-11 = Calisthenics:
+11 = Calisthenics: ????
 
 12 = Practice Play: ???
 
@@ -727,5 +728,20 @@ DJ 4 = 1 min
 
 ### August 10
 Time
+
+DJ 4 = 1 min
+DJ 8 = 10 min
+DJ 17 = 10 min
+DJ 1 = 20 min
+DJ 3 = 20 min
+DJ 10 = 20 min
+DJ 2 = 360 min
+
+### August 11
+Time
+
+DJ 4 = 1 min
+DJ 8 = 10 min
+DJ 17 = 10 min
 
 DJ 4 = 1 min

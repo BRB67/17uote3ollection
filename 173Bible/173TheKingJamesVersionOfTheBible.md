@@ -622,6 +622,38 @@ with thee.
 thou bring into the ark, to keep them alive with thee; they shall be
 male and female.
 
+6:20 Of fowls after their kind, and of cattle after their kind, of
+every creeping thing of the earth after his kind, two of every sort
+shall come unto thee, to keep them alive.
+
+6:21 And take thou unto thee of all food that is eaten, and shalt
+gather it to thee; and it shall be for food for thee, and for them.
+
+6:22 Thus did Noah; according to all that God commanded him, so did
+he.
+
+7:1 And the LORD said unto Noah, Come thou and all thy house intop the
+ark; for thee have I seen righteous before me in this generation.
+
+7:2 Of every clean beast thou shalt take to thee by sevens, the male
+and his female: and of beasts that are not clean by two, the male and
+his female.
+
+7:3 Of fowls also of the air by sevens, the male and the female; to
+keep seed alive upon the face of all the earth.
+
+7:4 For yet seven days, and I will cause it to rain upon the earth
+forty days and forty nughts; and every living substance that I have
+made will I destroy fromm off the face of the earth.
+
+7:5 And Noah did according unto all that the LORD commanded him.
+
+7:6 And Noah was six hundred years old when the flood of waters was
+upon the earth.
+
+7:7 And Noah went in, and his sons, and his wife, and his sons' wives
+
+
 
 
 
