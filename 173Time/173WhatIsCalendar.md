@@ -36,7 +36,7 @@ Calendar Websites
 08 Read Bible:
 	https://www.gutenberg.org/ebooks/10
 	
-07 Yoga:
+07 Stretching:
 	https://www.youtube.com/c/yogawithadriene/featured 
 		https://www.youtube.com/c/yogawithadriene/playlists?view=1&sort=dd&shelf_id=0
 			Foundations of Yoga https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
@@ -130,7 +130,7 @@ z = ⠵ = U+2835
 
 10 = Meal Preparation ?
 
-11 = Calisthenics: ????
+11 = Body Movement: ????
 
 12 = Practice Play: ???
 
@@ -735,7 +735,7 @@ DJ 17 = 10 min
 DJ 1 = 20 min
 DJ 3 = 20 min
 DJ 10 = 20 min
-DJ 2 = 360 min
+DJ 11 = 360 min
 
 ### August 11
 Time
@@ -743,5 +743,13 @@ Time
 DJ 4 = 1 min
 DJ 8 = 10 min
 DJ 17 = 10 min
+DJ 10 = 10 min
+DJ = 30 + 390 + 30 min
+
+### August 12
+Time
 
 DJ 4 = 1 min
+DJ 7 = 1 min
+DJ 8 = 10 + 10 min
+DJ 17 = 10 + 10 + 10 + 10 + 10 min

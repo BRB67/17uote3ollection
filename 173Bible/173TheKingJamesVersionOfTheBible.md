@@ -652,6 +652,42 @@ made will I destroy fromm off the face of the earth.
 upon the earth.
 
 7:7 And Noah went in, and his sons, and his wife, and his sons' wives
+with him, into the ark, because of the waters of the flood.
+
+7:8 Of clean beasts, and of beasts that are not clean, and of fowls,
+and of every thing that creepeth upon the earth, 7:9 There went in two
+and two unto Noah into the ark, the male and the female, as God had
+commanded Noah.
+
+7:10 And it came to pass after seven days, that the waters of the
+flood were upon the earth.
+
+7:11 In the six hundredth year of Noah's life, in the second month,
+the seventeenth day of the month, the same day were all the fountains
+of the great deep broken up, and the windows of heaven were opened.
+
+7:12 And the rain was upon the earth forty days and forty nights.
+
+7:13 In the selfsame day enetered Noah, and Shem, and Ham, and Japheth,
+the sons of Noah, and Noah's wife, and the three wives of his sons
+with them, into the ark; 7:14 They, and every beast after his kind,
+and all the cattle after their kind, and every creeping thing that
+creepeth upon the earth after his kind, and every fowl after his kind,
+every bird of every sort.
+
+7:15 And they went in unto Noah into the ark, two and two of all
+flesh, wherein is the breath of life.
+
+7:16 And they that went in, went in male and female of all flesh, as
+God had commanded him: and the LORD shut him in.
+
+7:17 And the flood was forty days upon the earth; and the waters
+increased, and bare up the ark, and it was lift up above the earth.
+
+7:18 And the waters prevailed, and were increased greatly upon the
+earth; and the ark went upon the face of the waters.
+
+7:19 And the waters
 
 
 
