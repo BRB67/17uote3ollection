@@ -130,7 +130,7 @@ z = ⠵ = U+2835
 
 10 = Meal Preparation ?
 
-11 = Body Movement: ????
+11 = Body Movement: ?
 
 12 = Practice Play: ???
 
@@ -148,7 +148,7 @@ z = ⠵ = U+2835
 
 19 = Dance Choreography:
 
-20 = Play F. Cards:
+20 = Play Memory Cards:
 
 21 = Indoor Gardening: ???
 
@@ -745,6 +745,7 @@ DJ 8 = 10 min
 DJ 17 = 10 min
 DJ 10 = 10 min
 DJ = 30 + 390 + 30 min
+DJ 1 = 60 min
 
 ### August 12
 Time
@@ -753,3 +754,31 @@ DJ 4 = 1 min
 DJ 7 = 1 min
 DJ 8 = 10 + 10 min
 DJ 17 = 10 + 10 + 10 + 10 + 10 min
+DJ 1 = 10 + 10 + 10 min
+
+### August 13
+Time
+
+DJ 4 = 1 min
+
+### August 14
+Time
+
+DJ 4 = 1 min
+DJ 20 = 10 min
+DJ 8 = 10 min
+DJ 17 = 10 min
+
+### August 15
+Time
+
+DJ 4 = 1 min
+
+### August 16
+Time
+
+DJ 4 = 1 min
+DJ 7 = 1 min
+DJ 8 = 1 + 10 min
+DJ 17 = 10 min
+DJ 21 = 1 min
