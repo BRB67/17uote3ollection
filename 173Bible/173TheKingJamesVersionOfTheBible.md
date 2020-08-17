@@ -745,6 +745,8 @@ first month, the first day of the month, the waters were dried up from
 off the earth: and Noah removed the covering of the ark, and looked,
 and
 
+8:14 And in the second month, on the seven and twentieth day of the
+month, was the earth dried.
 
 
 

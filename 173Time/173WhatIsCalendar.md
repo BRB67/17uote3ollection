@@ -180,7 +180,7 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = Treat people and creations with respect ??? 
+36 = Try to Treat people and creations with respect ??? 
 
 ## May
 
@@ -757,6 +757,8 @@ DJ 17 = 10 + 10 + 10 + 10 + 10 min
 DJ 1 = 10 + 10 + 10 min
 
 ### August 13
+199125143952124 7 29182084125
+
 Time
 
 DJ 4 = 1 min
