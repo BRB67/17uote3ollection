@@ -748,6 +748,65 @@ and
 8:14 And in the second month, on the seven and twentieth day of the
 month, was the earth dried.
 
+8:15 And God spake unto Noah, saying, 8:16 Go forth of the ark, thou,
+and thy wife, and thy sons, and thy sons' wives with thee.
+
+8:17 Bring forth with thee every living thing that is with thee, of
+all flesh, both of fowl, and of cattle, and of every creeping thing
+that creepeth upon the earth; that they may breed abundantly in the 
+earth, and be fruitful, and multiply upon the earth.
+
+8:18 And Noah went forth, and his sons, and his wife, and his sons'
+wives with him: 8:19 Every breast, every creeping thing, and every
+fowl, and whatsoever creepeth upon the earth, after their kinds, went
+forth out of the ark.
+
+8:20 And Noah builded an altar unto the LORD; and took of every clean 
+beast, and of every clean fowl, and offered burnt offerings on the
+altar.
+
+8:21 And the LORD smelled a sweet savour; and the LORD said in his
+heart, I will not again curse the ground any more for man's sake; for
+the imagination of man's heart is evil from his youth; neither will I
+again smite any more every thing living, as I have done.
+
+8:22 While the earth remaineth, seedtime and harvest, and cold and
+heat, and summer ans winter, and day and night shall not cease.
+
+9:1 And God blessed Noah and his sons, and said unto them, Be
+fruitful, and multiply, and replenish the earth.
+
+9:2 And the fear of you and the dread of you shall be upon every beast
+of the earth, and upon every fowl of the air, upon all that moveth
+upon the earth, and upon all the fishes of the sea; into your hand are
+they delivered.
+
+9:3 Every moving thing that liveth shall be meat for you; even as the
+green herb have I given you all things.
+
+9:4 But flesh with the life thereof, which is the blood thereof, shall
+ye not eat.
+
+9:5 And surely your blood of your lives will I require; at the hand of
+every beast will I require it, and at the hand of man; at the hand of 
+every man's brother will I reuire the life of man.
+
+9:6 Whoso sheddeth man's blood, by man shall his blood be shed: for in
+the image of God mad he man.
+
+9:7 And you, be ye fruitful, and multiply; bring forth abundantly in
+the earth, and multiply therein.
+
+9:8 And God spake unto Noah, and to his sons with him, saying, 9:9 And
+I, behold, I establish my covenant with you, and with your seed after
+you; 9:10 And with every living creature that is with you, of the
+fowl, of the cattle, and of every beast of the earth with you; from
+all that go out of the ark, to every beast of the earth.
+
+9:11 And I will establish my covenant with you, neither shall all
+flesh be cut off any more by the waters of a flood;
+
+
 
 
 

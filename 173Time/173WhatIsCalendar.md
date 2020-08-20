@@ -784,3 +784,21 @@ DJ 7 = 1 min
 DJ 8 = 1 + 10 min
 DJ 17 = 10 min
 DJ 21 = 1 min
+
+
+### August 17
+Time
+
+### August 18
+Time
+
+### August 19
+Time
+
+### August 20
+Time
+
+DJ 4 = 1 min
+DJ 8 = 10 min
+DJ 17 = 10 min
+DJ 2 = 1 min
