@@ -804,7 +804,8 @@ fowl, of the cattle, and of every beast of the earth with you; from
 all that go out of the ark, to every beast of the earth.
 
 9:11 And I will establish my covenant with you, neither shall all
-flesh be cut off any more by the waters of a flood;
+flesh be cut off any more by the waters of a flood; neither shall
+there any more be a flood to destroy the earth.
 
 
 
