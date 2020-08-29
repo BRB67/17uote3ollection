@@ -812,6 +812,12 @@ between me and you and every living creature that is with you, for
 perpetual generations: 9:13 I do set my bow in the cloud, and it shall
 be for a token of a covenant between me and the earth.
 
+9:14 And it shall come to pass, when I bring a cloud over the earth,
+that the bow shall be seen in the cloud: 9:15 And I will remember my 
+covenant, which is between me and you and every living creature of all
+flesh; and the waters shall no more become a flood to destroy all
+flesh.
+
 
 
 
