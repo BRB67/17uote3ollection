@@ -818,6 +818,10 @@ covenant, which is between me and you and every living creature of all
 flesh; and the waters shall no more become a flood to destroy all
 flesh.
 
+9:16 And the bow shall be in the cloud; and I will look upon it, that 
+I may remember the everlasting covenant between God and every living
+creature of all flesh that is upon the earth.
+
 
 
 
