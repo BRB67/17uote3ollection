@@ -810,7 +810,7 @@ there any more be a flood to destroy the earth.
 9:12 And God said, This is the token of the covenant which I make
 between me and you and every living creature that is with you, for
 perpetual generations: 9:13 I do set my bow in the cloud, and it shall
-be for a token of a covenant between me and the earth.
+be for   a token of a covenant between me and the earth.
 
 9:14 And it shall come to pass, when I bring a cloud over the earth,
 that the bow shall be seen in the cloud: 9:15 And I will remember my 
@@ -821,6 +821,33 @@ flesh.
 9:16 And the bow shall be in the cloud; and I will look upon it, that 
 I may remember the everlasting covenant between God and every living
 creature of all flesh that is upon the earth.
+
+9:17 And God said unto Noah, This is the tokem of the covenant, which
+I have established between me and all flesh that is upon the earth.
+
+9:18 And the sons of Noah, that went forth of the ark, were Shem, and
+Ham, and Japheth: and Ham is the father of Canaan.
+
+9:19 These are the three sons of Noah: and of them was the whole earth
+overspread.
+
+9:20 And Noah began to be an husbandman, and he planted a vineyard:
+9:21 And he drank of the wine, and was drunken; and he was uncovered 
+within his tent.
+
+9:22 And Ham, the father of Canaan, saw the nakedness of his father,
+and told his two brethren without.
+
+9:23 And Shem and Japheth took a garment, and laid it upon their 
+shoulders, and went backward, and covered the nakedness of their
+father; and their faces were backward, and they saw not their father\s
+nakedness.
+
+9:24 And Noah awoke from his wine, and knew what his younger son had
+done unto him.
+
+9:25 And he said, Cursed be Canaan; a servant of servants shall he be
+unto his brethren.
 
 
 
