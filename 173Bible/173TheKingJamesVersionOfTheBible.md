@@ -849,7 +849,10 @@ done unto him.
 9:25 And he said, Cursed be Canaan; a servant of servants shall he be
 unto his brethren.
 
+9:26 And he said, Blessed be the LORD God of Shem; and Canaan shall be
+his servant.
 
+9:28 And Noah lived after the flood three hundred and fifty years.
 
 
 
