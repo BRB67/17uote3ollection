@@ -854,6 +854,11 @@ his servant.
 
 9:28 And Noah lived after the flood three hundred and fifty years.
 
+9:29 And all the days of Noah were nine hundred and fifty yrars: and
+he died.
+
+10:1 Now these are the generations of the sons of Noah, Shem, Ham, and
+Japheth: and unto them were sons born after the flood.
 
 
 
