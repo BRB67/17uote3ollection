@@ -873,7 +873,8 @@ every one after his tongue, after their families, in their nations.
 
 10:6 And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 
-
+10:7 And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah,
+and Sabtechah: and the sons of Raamah; Sheba, and Dedan.
 
 
 ## The Book of Psalms
