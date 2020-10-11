@@ -860,6 +860,19 @@ he died.
 10:1 Now these are the generations of the sons of Noah, Shem, Ham, and
 Japheth: and unto them were sons born after the flood.
 
+10:2 The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and
+Tubal, and Meshech, and Tiras.
+
+10:3 And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
+
+10:4 And the sons of Javan; Elishah, and Tarshish, Kittim, and
+Dodanim.
+
+10:5 By these were the isles of the Gentiles divided in their lands;
+every one after his tongue, after their families, in their nations.
+
+10:6 And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
+
 
 
 
