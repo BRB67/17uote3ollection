@@ -876,6 +876,21 @@ every one after his tongue, after their families, in their nations.
 10:7 And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah,
 and Sabtechah: and the sons of Raamah; Sheba, and Dedan.
 
+10:8 And Cush begat Nimrod: he began to be a mighty one in the earth.
+
+10:9 He was a mighty hunter before the LORD: wherefore it is said,
+Even as Nimrod the mighty hunter before the LORD.
+
+10:10 And the beginning of his kingdom was Babel, and Erech, and
+Accad, and Calneh, in the land of Shinar.
+
+10:11 Out of that land went forth Asshur, and builded Nineveh, and the
+city Rehoboth, and Calah, 10:12 And Resen between Nineveh and Calah:
+the same is a great city.
+
+10:13 And Mizraim begat Ludim, and Anamin, and Lehabim, and Naphtuhim,
+10:14 And Pathrusim, and Casluhim, (out of whom came Philistim,) and
+Caphtorim.
 
 ## The Book of Psalms
 	
