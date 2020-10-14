@@ -892,6 +892,37 @@ the same is a great city.
 10:14 And Pathrusim, and Casluhim, (out of whom came Philistim,) and
 Caphtorim.
 
+10:15 And Canaan begat Sidon his first born, and Heth, 10:16 And the
+Jebusite, and the Amorite, and the Girgasite, 10:17 And the Hivite,
+and the Arkite, and the Sinite, 10:18 And the Arvadite, and the
+Zemarite, and the Hamathite: and afterward were the families of the
+Canaanites spread abroad.
+
+10:19 And the border of the Canaanites was from Sidonn, as thou comest
+to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and
+Admah, and Zeboim, even unto Lasha.
+
+10:20 These are the sons of Ham, after their families, after their
+tongues, in their countries, and in their nations.
+
+10:21 Unto Shem also, the father of all the children of Eber, the
+brother of Japheth the elder, even to him were children born.
+
+10:22 The children of Shem; Elam, and Asshur, and Arphaxad, and Lud,
+and Aram.
+
+10:23 And the children of Aram; Uz, and Hul, and Gether, and Mash.
+
+10:24 And Arphaxad begat Salah; and Salah begat Eber.
+
+10:25 And unto Eber were born two sons: the name of one was Peleg; for
+in his days was the earth divided; and his brother's name was Joktan.
+
+10:26 And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and
+Jerah, 10:27 And Hadoram, and Uzal, and Diklah, 10:28 And Obal, and
+Abimael, and Sheba, 10:29 And Ophir, and Havilah, and Jobab: all these
+were the sons of Joktan,
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
