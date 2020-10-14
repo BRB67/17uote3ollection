@@ -921,7 +921,37 @@ in his days was the earth divided; and his brother's name was Joktan.
 10:26 And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and
 Jerah, 10:27 And Hadoram, and Uzal, and Diklah, 10:28 And Obal, and
 Abimael, and Sheba, 10:29 And Ophir, and Havilah, and Jobab: all these
-were the sons of Joktan,
+were the sons of Joktan.
+
+10:30 And their dwelling was from Mesha, as thou goest unto Sephar a
+mount of the east.
+
+10:31 These are the sons of Shem, after their families, after their
+tongues, in their lands, after their nations.
+
+10:32 These are the families of the sons of Noah, after their
+generations, in their nations: and by these were the nations divided
+in the earth after the flood.
+
+11:1 And the whole earth was of one language,and of one speech.
+
+11:2 And it came to pass, as they journeyed from the east. that they
+found a plain in the land of Shinar; and they dwelt there.
+
+11:3 And they said one to another, Go to, let us make brick, and burn
+them thoroughly. And they had brick  for stone, and slime had they for
+morter.
+
+11:4 And they said, Go to, let us build us a city and a tower, whose
+top may reach unto heaven; and let us make us a name, lest we be 
+scattered abroad upon the face of the whole earth.
+
+11:5 And the LORD came down to see the city and the tower, which the
+children of men builded.
+
+11:6 And the LORD said, Behold, the people is ome, and they have all
+one language; and this they begin to do: and now nothing will be
+restrained from them, which they have imagined to do. 
 
 ## The Book of Psalms
 	
