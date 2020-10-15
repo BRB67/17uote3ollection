@@ -953,6 +953,43 @@ children of men builded.
 one language; and this they begin to do: and now nothing will be
 restrained from them, which they have imagined to do. 
 
+11:7 Go to, let us go down, and there confound their language, that
+they may not understand one another's speech.
+
+11:8 So the LORD scattered them abroad from thence upon the face of
+all the earth: and they left off to build the city.
+
+11:10 These are the generations of Shem: Shem was an hundred years
+old, and begat Arphaxad two years after the flood: 11:11 And Shem
+lived after he begat Arphaxad five hundred years, and begat sons and
+daughters.
+
+11:12 And Arphaxad lived five and thirty years, and begat Salah: 11:13
+And Arphaxad lived after he begat Salah four hundred and three years,
+and begat sons and daughters.
+
+11:14 And Saalah lived thirty years, and begat Eber: 11:15 And Salah
+lived after he begat Eber four hundred and three years, and begat sons
+and daughters.
+
+11:16 And Eber lived four and thirty years, and begat Peleg: 11:17 And
+Eber lived after he begat Peleg four hundred and thirty years, and
+begat sons and daughters.
+
+11:18 And Peleg lived thirty years, and begat Reu: 11:19 And Peleg
+lived after he begat Reu two hundred and nine years, and begat sons
+and daughters.
+
+11:22 And Serug lived thirty years, and begat Nahor: 11:23 And serug
+lived after he begat Nahor two hundred years. and begat sons and
+daughters.
+
+11:24 And Nahor lived nine and twenty years, and begat Terah: 11:25
+And Nahor lived after he begat Terah an hundred and nineteen years,
+and begat sons and daughters.
+
+
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
@@ -1008,6 +1045,51 @@ restrained from them, which they have imagined to do.
 			61518 2085 1215184 111415235208 2085 23125 156 2085 
 			18978205152119: 22120 2085 23125 156 2085 211471541225 
 			19811212 165189198.
+			
+	2:1 Why do the heathen rage, and the people imagine a vain thing?
+	2:2 The Kings of earth set themselves, and the rulers take counsel 
+	together, against the LORD, and against his anointed, saying,
+	2:3 Let us break their bands asunder, and cast away their cords from
+	us.
+	2:4 He tread.hat sitteth in the heavens shall laigh: the LORD shall have 
+	them in derision.
+	2:5 Then shall he speak unto them in his wrath, and vex them in his 
+	sore displeasure.
+	2:6 Yet have I set my king upoon my holy hill of Zion.
+	2:7 I will declare the decree:the LORD hath said unto me, Thou art
+	my Son; this day have I begotten thee.
+	2:8 Ask of me, and I shall give thee the heathen for thine inheritance,
+	and the uttermost  parts of the earth for thy possession.
+	2:9 Thou shalt break them with a rod of iron; thou shalt dash them
+	in pieces like a potter's vessel.
+	2:10 Be wise now therefore, O ye kings: be instructed, ye judges of
+	the earth.
+	2:11 Serve the LORD with fear, and rejoice with trembling.
+	2:12 Kiss the Son, lest he be angry, and ye perissh from the way, when
+	his wrath is kindled but a little. Blessed are all they that put
+	their trust in him.
+	3:1 Lord, how are they increased that trouble me! many are they that
+	rise up against me.
+	3:2 Many there be which say of my soul, There is no help for him in
+	God. 
+	Selah.
+	3:3 But thou, O LORD, art a shield for me; my glory; and the lifter 
+	up of mine head.
+	3:4 I cried unto the LORD with my voice, and he heard me out of his 
+	holy hill. Selah.
+	3:5 I laid me down and slept; I awaked; for the LORD sustained me.
+	3:6 I will not be afraid of ten thousands of people, that have set
+	themselves against me round about.
+	3:7 Arise, O LORD; save me, O my God: for thou hast smitten all mine
+	enemies upon the cheek bone; thou hast broken the teeth of the 
+	ungodly.
+	3:8 Salvation belongeth unto the LORD: thy blessing is uhy people.
+	Selah.
+	4:1 Hear me when I call, O God of my righteousness: thou hast 
+	enlarged me when I was in distress; have mercy upon me, and hear
+	my prayer.
+	4:2 O 
+	
 
 
 
