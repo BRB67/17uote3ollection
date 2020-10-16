@@ -996,6 +996,13 @@ Nahor, and Haran; and Haran begat Lot.
 11:27 Now these are the generations of Terah: Terah begat Abram,
 Nahor, and Haran; and Haran begat Lot.
 
+11:28 And Haran died before his father Terah in the land of his nativity,
+in Ur of the Chaldees.
+
+11:29 And Abram and Nahor took them wives: the name of Abram's wife
+was Sarai; and the name of Nahor's wife, Milcah, the daughter of
+Haran, the father of Milcah, and the father of Iscah.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
