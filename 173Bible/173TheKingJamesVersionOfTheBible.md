@@ -988,7 +988,13 @@ daughters.
 And Nahor lived after he begat Terah an hundred and nineteen years,
 and begat sons and daughters.
 
+11:26 And Teraah lived seventy years, and begat Abram, Nahor, and Haran.
 
+11:27 Now these are the generations of Terah: Terah begat Abram,
+Nahor, and Haran; and Haran begat Lot.
+
+11:27 Now these are the generations of Terah: Terah begat Abram,
+Nahor, and Haran; and Haran begat Lot.
 
 ## The Book of Psalms
 	
@@ -1088,8 +1094,14 @@ and begat sons and daughters.
 	4:1 Hear me when I call, O God of my righteousness: thou hast 
 	enlarged me when I was in distress; have mercy upon me, and hear
 	my prayer.
-	4:2 O 
-	
+	4:2 O ye sons of men, how long will ye turn my glory into sham? how
+	long will ye love vanity, and seek after leasing? Selah.
+	4:3 But know that the LORD hath set apart him that is godly for 
+	himself: the LORD will hear when I call unto him.
+	4:4 Stand in awe, and sin not: commune with your own heart upon your
+	bed, and be still. Selah.
+	4:5 Offer the sacrifices of righteousness, and put your trust in the
+	LORD.
 
 
 
