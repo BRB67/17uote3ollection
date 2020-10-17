@@ -1003,6 +1003,23 @@ in Ur of the Chaldees.
 was Sarai; and the name of Nahor's wife, Milcah, the daughter of
 Haran, the father of Milcah, and the father of Iscah.
 
+11:30 But Sarai was barren; she had no child.
+
+11:31 And Terah took Abram his son, and Lot the son of Haran his son's
+son, and Sarai his daughter in law, his son Abram's wife; and they
+went forth with them from Ur of the Chaldees, to go into the land of
+Canaan; and they came unto HAran, and dwelt there.
+
+11:32 And the days of Terah were two hundred and five years: and Terah
+died in Haran.
+
+12:1 Now the LORD had said unto Abram, Get thee out of thy country,
+and from thy kindred, and from thy father's house, unto a land that I
+will shew thee: 12:2 And I will make of thee a great nation, and I 
+will bless thee, and make thy name great; and thou shalt be a blessing:
+12:3 And I will bless them that bless thee, and curse him
+that curseth thee: and in the shall all families of the earth be blessed.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
