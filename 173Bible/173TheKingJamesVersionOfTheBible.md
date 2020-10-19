@@ -1076,6 +1076,35 @@ wife: now therefore behold thy wife, take her, and go thy way.
 12:20 And Pharaoh commanded his men concerning him: and they sent him
 away, and his wife, and all that he had.
 
+13:1 And Abram went up out of Egypt, he, and his wife, and all that he
+had, and Lot with him, into the south.
+
+13:2 And Abram was very rich in cattle, in silver, and in gold.
+
+13:3 And he went on his Journeys from the south even to Bethel, unto
+the place where his tent had been at the beginning, between Bethel and
+Hai; 13:4 Unto the place of the altar, which he had make there at the
+first: and there Abram called on the name of the LORD.
+
+13:5 And Lot also, which went with Abram, had flocks, and herds, and
+tents.
+
+13:6 And the land was not able to bear them that they might dwell
+together: for their substance was great, so that they could not dwell
+together.
+
+13:7 And there was a strife between the herdmen of Abram's cattle and
+the herdmen of Lot's cattle: and the Canaanite and the Perizzite
+dwelled then in the land.
+
+13:8 And Abram said unto Lot, let there be no strife, I pray thee,
+between me and thee, and between my herdmen and thy herdmen; for we be
+brethren.
+
+13:9 Is not the whole land before thee? seperate thyself, I pray thee,
+from me: if thou wilt take the left hand, then I will go to the right;
+or if thou depart to the right hand, then I will go to the left.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
