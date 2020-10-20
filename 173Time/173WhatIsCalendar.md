@@ -892,3 +892,114 @@ Time
 
 ### September 16
 Time
+
+### September 17
+Time
+
+### September 18
+Time
+
+### September 19
+Time
+
+### September 20
+Time
+
+### September 21
+Time
+
+### September 22
+Time
+
+### September 23
+Time
+
+### September 24
+Time
+
+### September 25
+Time
+
+### September 26
+Time
+
+### September 27
+Time
+
+### September 28
+Time
+
+### September 29
+Time
+
+### September 30
+Time
+
+### October 01
+Time
+
+### October 02
+Time
+
+### October 03
+Time
+
+### October 04
+Time
+
+### October 05
+Time
+
+### October 06
+Time
+
+### October 07
+Time
+
+### October 08
+Time
+
+### October 09
+Time
+
+### October 10
+Time
+
+### October 11
+Time
+
+### October 12
+Time
+
+### October 13
+Time
+
+### October 14
+Time
+
+### October 15
+Time
+
+### October 16
+Time
+
+### October 17
+Time
+
+### October 18
+Time
+
+### October 19
+Time
+
+Monday
+
+DJ 8 = 20 min
+DJ 7 = 5 min
+
+### October 20
+Time
+
+Tuesday
+
+DJ 8 = 10 min

@@ -1105,6 +1105,14 @@ brethren.
 from me: if thou wilt take the left hand, then I will go to the right;
 or if thou depart to the right hand, then I will go to the left.
 
+13:10 And Lot lifted up his eyes, and beheld all the plain of Jordan,
+that it was well watered every where, before the LORD destroyed Sodom
+and Gomorrah, even as the garden of the LORD, like the land of Egypt,
+as thou comest unto Zoar.
+
+13:11 Then Lot chose him all the plain of Jordan; and Lot journeyed
+east: and they seperated themselves the one from the other.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
