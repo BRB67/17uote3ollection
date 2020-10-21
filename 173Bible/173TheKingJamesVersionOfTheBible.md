@@ -1113,6 +1113,22 @@ as thou comest unto Zoar.
 13:11 Then Lot chose him all the plain of Jordan; and Lot journeyed
 east: and they seperated themselves the one from the other.
 
+13:12 Abram dwelled in the land of Cannan, and Lot dwelled in the 
+cities of the plain, and pitched his tent toward Sodom.
+
+13:13 But the men of Sodom were wicked and sinners before the LORD
+exceedingly.
+
+13:14 And the LORD said unto Abram, affter that Lot was seperated from
+him, Lift uo now thine eyes, and look from the place where thou art
+northward, and southward, and eastward, and westward: 13:15 For all
+the land which thou seest, to the will I give it, and to thy seed for
+ever.
+
+13:16 And I will make thy seed as the dust of the earth: so that if a
+man can number the dust of the earth, then shall thy seed also be
+numbered.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 

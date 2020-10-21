@@ -1002,4 +1002,10 @@ Time
 
 Tuesday
 
+DJ 8 = 10 + 5 min
+
+### October 21
+Time
+Wednesday
+
 DJ 8 = 10 min
