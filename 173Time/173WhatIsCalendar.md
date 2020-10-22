@@ -1008,4 +1008,5 @@ DJ 8 = 10 + 5 min
 Time
 Wednesday
 
-DJ 8 = 10 min
+DJ 8 = 10 + 45 + 30 min
+DJ 7 = 30 + 45 min

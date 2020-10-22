@@ -1129,6 +1129,51 @@ ever.
 man can number the dust of the earth, then shall thy seed also be
 numbered.
 
+13:17 Arise, walk through the land in the length of it and in the
+breadth of it; for I will give it unto thee.
+
+13:18 Then Abram removed his tent, and came and dwelt in the plain of
+Mamre, which is in Hebron, and built there an altar unto the LORD.
+
+14:1 And it came to pass in the days of Amraphel king of Shinar,
+Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal King of
+nations; 14:2 That these made war with Bera king of Sodom, and with 
+Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of
+Zeboiim, and the king of Bela, which is Zoar.
+
+14:3 All these were joined together in the vale of Siddim, which is
+the salt sea.
+
+14:4 Twelve years they served Chedorlaomer, and in the thirteenth year
+they rebelled.
+
+14:5 And in the fourteenth year came Chedorlaomer, and the kings that
+were with him, and smote the Rephaims in Ashteroth Karnaim, and the
+Zuzims in Ham, and the Emins in Shaveh Kiriathaim, 14:6 And the
+Horites in their mount Seir, unto Elparan, which is by the wilderness.
+
+14:7 And they returned, and came to Enmishpat, which is Kadesh, and
+smote all the country of the Amalekites, and also the Amorites, that
+dwelt in Hazezontamar.
+
+14:8 And there went out the king of Sodom, and the king of Gomorrah,
+and the king of Admah, and the king of Zeboiim, and the king of Bela
+(the same is Zoar;) and they joined battle with them in the vale of
+Siddim; 14:9 With Chedorlaomer the king of Elam, and with Tidal king
+of nations, and Amraphel king of Shinar, and Arioch king of Ellasar;
+four kings with five.
+
+14:10 And the vale of Siddim was full of slimepits; and the kings of
+Sodom and Gomorrah fled, and fell there; and they that remained fled
+to the mountain.
+
+14:11 And they took all the goods of Sodom and Gomorrah, and all their
+victurals, and went their way.
+
+14:12 And they took Lot, Abram's brother's son, who dwelt in Sodom,
+and his goods, and departed.
+
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
