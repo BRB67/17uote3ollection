@@ -1173,6 +1173,14 @@ victurals, and went their way.
 14:12 And they took Lot, Abram's brother's son, who dwelt in Sodom,
 and his goods, and departed.
 
+14:13 And there came one that had escaped, and told Abram the Hebrew;
+for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and
+brother of Aner: and these were confederate with Abram.
+
+14:14 And when Abram heard that his brother was taken captive, he
+armed his trained servants, born in his own house, three hundred and
+eighteen, and  pursued them unto Dan.
+
 
 ## The Book of Psalms
 	

@@ -1010,3 +1010,16 @@ Wednesday
 
 DJ 8 = 10 + 45 + 30 min
 DJ 7 = 30 + 45 min
+
+### October 22
+Time
+Thursday
+
+DJ 8 = 5 + 50 min
+DJ 3 = 5 min
+
+### October 23
+Time
+Friday
+
+DJ 8 =
