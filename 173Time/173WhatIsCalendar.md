@@ -1020,6 +1020,27 @@ DJ 3 = 5 min
 
 ### October 23
 Time
+8.4. Birthday
 Friday
 
-DJ 8 =
+DJ 8 = 30 min
+DJ 2 = 30 min
+
+### October 24
+Time
+Saturday
+
+### October 25
+
+### October 26
+
+### October 27
+
+### October 28
+
+### October 29
+
+### October 30
+61208518 7. Birthday
+
+### October 31

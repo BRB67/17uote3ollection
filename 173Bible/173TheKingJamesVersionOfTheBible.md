@@ -1181,6 +1181,20 @@ brother of Aner: and these were confederate with Abram.
 armed his trained servants, born in his own house, three hundred and
 eighteen, and  pursued them unto Dan.
 
+14:15 And he divided himself against them, he and his servants, by
+night, and smote them, and pursued them unto Hobah, which is on the
+left hand of Damascus.
+
+14:16 And he brought back all the goods, and also brought again his
+brother Lot, and his goods, and the women also, and the people.
+
+14:17 And the king of Sodom went out to meet him after his return from
+the slaughter of Chedorlaomer, and of the kings that were with him, at
+the valley of Shaveh, which is the king's dale.
+
+14:18 And Melchizedek king of Salem brought forth bread and wine: and
+he was the priest of the most high God.
+
 
 ## The Book of Psalms
 	
