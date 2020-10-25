@@ -1200,6 +1200,17 @@ God, posessor of heaven and earth: 14:20 And blessed be the most high
 God, which hath delivereed thine enemies into thy hand. And he gave him
 tithes of all.
 
+14:21 And the king of Sodom said unto Abram, Give me the persons, and
+take the goods to thyself.
+
+14:22 And Abram said to the king of Sodom, I have lift up mine hand
+unto the LORD, the most high God, the posessor of heaven and earth,
+14:23 That I will not take from a thread even to a shoelatchet, and
+that I will not take any thing that is thine, lest thou shouldest say,
+I have made Abram rich: 14:24 Save only that which the young men have
+eaten, and the portion of the men which went with me, Aner, Eshcol,
+and Mamre; let them take their portion.
+
 
 ## The Book of Psalms
 	
