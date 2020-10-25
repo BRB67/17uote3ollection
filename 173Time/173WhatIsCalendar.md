@@ -1030,7 +1030,12 @@ DJ 2 = 30 min
 Time
 Saturday
 
+DJ 8 = 5 min
+
 ### October 25
+20i13e
+
+Sunday
 
 ### October 26
 

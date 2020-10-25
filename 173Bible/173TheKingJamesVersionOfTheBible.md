@@ -1195,6 +1195,11 @@ the valley of Shaveh, which is the king's dale.
 14:18 And Melchizedek king of Salem brought forth bread and wine: and
 he was the priest of the most high God.
 
+14:19 And he blessed him, and said, Blessed be Abram of the most high
+God, posessor of heaven and earth: 14:20 And blessed be the most high
+God, which hath delivereed thine enemies into thy hand. And he gave him
+tithes of all.
+
 
 ## The Book of Psalms
 	
