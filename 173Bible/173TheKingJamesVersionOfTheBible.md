@@ -1211,6 +1211,15 @@ I have made Abram rich: 14:24 Save only that which the young men have
 eaten, and the portion of the men which went with me, Aner, Eshcol,
 and Mamre; let them take their portion.
 
+15:1 After these things the word of the LORD came unto Abram in a
+vision, saying, Fear not, Abram: I am thy shield, and thy exceeding
+great reward.
+
+15:2 And Abram said, LORD God, what wilt thou give me, seeing I go
+childless, and the steward of my house is this Eliezer of Damascus?
+15:3 And Abram said, Behold, to me thou hast given no seed: and, lo,
+one born in my house is mine heir.
+
 
 ## The Book of Psalms
 	
