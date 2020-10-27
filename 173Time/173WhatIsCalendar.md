@@ -1038,8 +1038,15 @@ DJ 8 = 5 min
 Sunday
 
 ### October 26
+Time
+4. 2. Birthday
+10. 13. Birthday
+Monday
 
 ### October 27
+Time
+
+Tuesday
 
 ### October 28
 

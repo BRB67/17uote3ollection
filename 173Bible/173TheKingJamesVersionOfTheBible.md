@@ -1220,6 +1220,25 @@ childless, and the steward of my house is this Eliezer of Damascus?
 15:3 And Abram said, Behold, to me thou hast given no seed: and, lo,
 one born in my house is mine heir.
 
+15:4 And, behold, the word of the LORD came unto him, saying, This
+shall not be thine heir; but he that shall come forth out of thine own
+bowels shall be thine heir.
+
+15:5 And he brought him forth abroad, and said, Look now toward
+heaven, and tell the stars, if thou be able to number them: and he
+said unto him, So shall thy seed be.
+
+15:6 And he believed in the LORD; and he counted it to him for
+righteousness.
+
+15:7 And he said unto him, I am the LORD that brought thee out of Ur
+of the Chaldees, to give thee this land to inherit it.
+
+15:8 And he said, LORD God, whereby shall I know that I shall ineherit
+it? 15:9 And he said unto him, Take me an heifer of three years old,;
+and a she goat of three years old, and a ram of three years old, and a
+turtledove, and a young pigeon.
+
 
 ## The Book of Psalms
 	
