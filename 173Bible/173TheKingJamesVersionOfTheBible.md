@@ -1239,6 +1239,23 @@ it? 15:9 And he said unto him, Take me an heifer of three years old,;
 and a she goat of three years old, and a ram of three years old, and a
 turtledove, and a young pigeon.
 
+15:10 And he took unto him all these, and divided them in the midst,
+and laid each piece one against another: but the birds divided he not.
+
+15:11 And when the fowls came down upon the carcases, Abram drove them
+away.
+
+15:12 And when the sun was going down, a deep sleep fell upon Abram;
+and, lo, an horror of great darkness fell upon him.
+
+15:13 And he said unto Abram, Know of a surety that thy seed shall be
+a stranger in a land that is not their's, and shall serve theml; and
+they shall afflict them four hundred years; 15:14 And also that
+nation, whom they shall serve, will I judge: and afterward shall they
+come out with great substance.
+
+15:15 And thou shalt go to thy fathers in peace; thou shalt be buried
+in a good old age.
 
 ## The Book of Psalms
 	
