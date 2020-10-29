@@ -1271,6 +1271,9 @@ Kenizzites, and the Kadmonites, 15:20 And the Hittites, and the
 Perizzites, and the Rephaims, 15:21 And the Amorites, and the 
 Canaanites, and the Girgashites, and the Jebusites.
 
+16:1 Now Sarai Abram's wife bare him no children: and she had an
+handmaid, an Egyptian, whose name was Hagar.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
