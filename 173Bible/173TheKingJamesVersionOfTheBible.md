@@ -1257,6 +1257,20 @@ come out with great substance.
 15:15 And thou shalt go to thy fathers in peace; thou shalt be buried
 in a good old age.
 
+15:16 But in the fourth generation they shall come hither again: for
+the iniquity of the Amorites is not yet full.
+
+15:17 And it came to pass, that, when the sun went down, and it was
+dark, behold a smoling furnace, and a burning lamp that passed between
+those pieces.
+
+15:18 In the same day the LORD made a covenant with Abram, saying,
+Unto thy seed have I given this land, from the river of Egypt unto the
+great river, the river Euphrates: 15:19 The Kenites, and the 
+Kenizzites, and the Kadmonites, 15:20 And the Hittites, and the 
+Perizzites, and the Rephaims, 15:21 And the Amorites, and the 
+Canaanites, and the Girgashites, and the Jebusites.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
