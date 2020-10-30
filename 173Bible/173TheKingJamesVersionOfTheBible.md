@@ -1274,6 +1274,31 @@ Canaanites, and the Girgashites, and the Jebusites.
 16:1 Now Sarai Abram's wife bare him no children: and she had an
 handmaid, an Egyptian, whose name was Hagar.
 
+16:2 And Sarai said unto Abram, Behold now, the LORD hath restrained 
+me from bearing: I pray thee, go in unto my maid; it may be that I may
+obtain children by her. And Abram hearkened to the voice of Sarai.
+
+16:3 And Sarai Abram's wife took Hagar her maid the Egyptian, after
+Abram and dwelt ten years in the land of Canaan, and gave her to her
+husband Abram to be his wife.
+
+16:4 And he went in unto Hagar, and she conceived: and when she saw
+that she had conceived, her mistress was despised in her eyes.
+
+16:5 And Sarai said unto Abram, My wrong be upon thee: I have given my
+maid into thy bosom; and when she saw that she had conceived, I was
+despised in her eyes: the LORD judge between me and thee.
+
+16:6 But Abram said unto Sarai, Behold, thy maid is in thine hand; do
+to her as it pleaseth thee. And when Sarai dealt hardly with her, she
+fled from her face.
+
+16:7 And the angel of the LORD found her by a fountain of water in the
+wilderness, by the fountain in the way to Shur.
+
+16:8 And he said, Hagar, Sarai's maid, whence camest thou? amd whither
+wilt thou go? And she said, I flee from the face of my mistress Sarai.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
