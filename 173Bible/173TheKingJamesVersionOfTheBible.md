@@ -1299,6 +1299,14 @@ wilderness, by the fountain in the way to Shur.
 16:8 And he said, Hagar, Sarai's maid, whence camest thou? amd whither
 wilt thou go? And she said, I flee from the face of my mistress Sarai.
 
+16:9 And the angel of the LORD said unto her, Return to thy mistress,
+and submit thyself under her hands.
+
+16:10 And the angel of the LORD said unto her, I will multiply thy
+seed exceedingly, that it shall not be numbered for multitude.
+
+16:11 And the angel of the LORD said unto her, Behold
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 

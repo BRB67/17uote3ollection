@@ -845,6 +845,10 @@ Time
 
 DJ 4 = 1 minute
 
+## September
+
+### September Floating Holidays
+
 ### September 01
 Time
 
@@ -934,6 +938,10 @@ Time
 
 ### September 30
 Time
+
+## October
+
+### October Floating Holidays
 
 ### October 01
 Time
@@ -1059,6 +1067,11 @@ Time
 Thursday
 
 ### October 30
+Time
 61208518 7. Birthday
+Friday
 
 ### October 31
+Time
+
+Saturday
