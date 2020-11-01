@@ -370,8 +370,8 @@ DJ 7 = 17 + 23 min
 
 ### July 04
 Time
-
 Independence Day (USA) https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence
+18.16.12 Birthday
 
 DJ 4 = 1 min
 DJ 7 =  23 + 45
@@ -437,8 +437,8 @@ DJ 7 = 31 + 43 min
 
 ### July 14
 20i13e
-
 Bastille Day / Le Quatorze Juillet  https://en.wikipedia.org/wiki/Bastille_Day
+18.16.12. 23. Birthday
 
 DJ 4 = 1 min
 DJ 7 = 30 min

@@ -1305,7 +1305,21 @@ and submit thyself under her hands.
 16:10 And the angel of the LORD said unto her, I will multiply thy
 seed exceedingly, that it shall not be numbered for multitude.
 
-16:11 And the angel of the LORD said unto her, Behold
+16:11 And the angel of the LORD said unto her, Behold, thou art whith
+child and shalt bear a son, and shalt call his name Ishmael; because
+the LORD hath heard thy affliction.
+
+16:12 And he will be a wild man; his hand will be against every man,
+and every man's hand against him; and he shall dwell in the presence
+of all his brethren.
+
+16:13 And she called the name of the LORD that spake unto her, Thou
+God seest me: for she said, Have I also here looked after him that
+seeth me? 16:14 Wherefore the well was called Beerlahairoi; behold,
+it is between Kadesh and Bered.
+
+16:15 And Hagar bare Abram a son: and Abram called his son's name,
+which Hagar bare, Ishmael.
 
 ## The Book of Psalms
 	
