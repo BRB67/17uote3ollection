@@ -1321,6 +1321,70 @@ it is between Kadesh and Bered.
 16:15 And Hagar bare Abram a son: and Abram called his son's name,
 which Hagar bare, Ishmael.
 
+16:16 And Abram was fourscore and six years old, when Hagar bare
+Ishmael to Abram.
+
+17:1 Ans when Abram was ninety years old and nine, the LORD appeared
+to Abram, and said unto him, I am the Almighty God; walk before me,
+and be thou perfect.
+
+17:2 And I will make my covenant between me and thee, and will 
+multiply thee exceedingly.
+
+17:3 And Abram feel on his face: and God talked with him, saying 17:4
+As for me, behold, my covenant is with thee, and thou shalt be a 
+father of many nations.
+
+17:5 Neither shall thy name any more be called Abram, but thy name
+shall be Abraham; for a father of many nations have I made thee.
+
+17:6 And I will make thee exceeding fruitful, and I will make nations
+of thee, and kings shall come out of thee.
+
+17:7 And I will establish my covenant between me and thee and thy seed
+after thee in their generaions for an everlasting covenant, to be a
+God unto thee, and to thy seed after thee.
+
+17:8 And I will give unto thee, and to thy seed after thee, the land
+wherein thou art a stranger, all the land of Canaan, for an 
+everlasting possession; and I will be their God.
+
+17:9 And God said unto Abraham, Thou shalt keep my covenant therefore,
+thou, and thy seed after thee in their generations.
+
+17:10 This is my covenant, which ye shall keep, between me and you and
+thy seed after thee; Every man child among you shall be circumcised.
+
+17:11 And ye shall circumcise the flesh of your foreskin; and it shall 
+be a token of the covenant betwixt me and you.
+
+17:12 And he that is eight days old shall be circumcised among you,
+every man child in your generations, he that is born in the house, or
+bought with money of any strangerm which is not of thy seed.
+
+17:13 He that is born in thy house, and he that is bought with thy
+money, must needs be circumcised: and my covenant shall be in your
+flesh for an everlasting covenant.
+
+17:14 And the uncircumcised man child whose flesh of his foreskin is
+not circumcised, that soul shall be cut off from his people; he hath
+broken my covenant.
+
+17:15 And God said unto Abraham, As for Sarai thy wife, thou shalt not
+call her name Sarai, but Sarah shall her name be.
+
+17:16 And I will bless her, and give the a son also of her: yea, I
+will bless heer, and she shall be a mother of nations; kings of people
+shall be of her.
+
+17:17 Then Abraham fell upon his face, and laughed, and said in his
+heart, Shall a child be born unto him that is an hundred years old?
+and shall Sarah, that is ninety years old, bear? 17:18 And Abraham
+said unto God, O that Ishmael might live before thee! 17:19 And God
+said, Sarah thy wife shall bear thee a son indeed; and thou shalt call
+his name Isaac: and I will establish my covenant with him for an 
+everlasting covenant, and with his seed after him.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
