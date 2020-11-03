@@ -1087,9 +1087,14 @@ Time
 Sunday
 
 ### November 2
+Ti13e
+
+Monday
 
 ### November 3
+Time
 
+Tuesday
 ### November 4
 
 ### November 5

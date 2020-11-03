@@ -1385,6 +1385,50 @@ said, Sarah thy wife shall bear thee a son indeed; and thou shalt call
 his name Isaac: and I will establish my covenant with him for an 
 everlasting covenant, and with his seed after him.
 
+17:20 And as for Ishmael, I have heard thee: Behold, I have blessed
+him, and will make him fruitful, and will multiply him exceedingly;
+twelve princes shall he beget, and I will make him a great nation.
+
+17:21 But my covenant will I establish with Isaac, which Sarah shall
+bear unto thee at this set time in the next year.
+
+17:22 And he left off talking with him, and God went up from Abraham.
+
+17:23 And Abraham took Ishmael his son, and all that were born in his 
+house, and all that were bought with his money, every male among the
+men of Abraham's house; and circumcised the flesh of their foreskin in
+the selfsame day, as God had said unto him.
+
+17:24 And Abraham was ninety years old and nine, when he was
+circumcised in the flesh of his foreskin.
+
+17:25 And Ishmael his son was thirteen years old, when he was
+circumcised in the flesh of his foreskin.
+
+17:26 In the selfsame day was Abraham circumcised, and Ishmael his
+son.
+
+17:27 And all the men of his house, born in the house, and bought with
+money of the stranger, were circumcised with him.
+
+18:1 And the LORD appeared unto him in the plains of Mamre: and he sat
+in the tent door in the heat of the day; 18:2 And he lift up his eyes
+and looked, and, lo, three men stood by him: and when he saw them, he
+ran to meet them from the tent door, and bowed himself toward the
+ground, 18:3 And said, My LORD, if now I have found favour in thy
+sight, pass not away, I pray thee, from thy servant: 18:4 Let a little
+water, I pray you, be fetched, and wash your feet, and rest yourselves
+under the tree: 18:5 And I will fetch a morsel of bread, and comfort
+ye your hearts; after that ye shall pass on: for therefore are ye come
+to your servant. And they said, So do, as thou hast said.
+
+18:6 And Abraham hastened into the tent unto Sarah, and said, Make
+ready quickly three measures of fine meal, knead it, and make cakes
+upon the hearth.
+
+18:7 And Abraham ran unto the herd, and fetcht a calf tender and good,
+and gave it unto a young man; and he hasted to dress it.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
