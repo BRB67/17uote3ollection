@@ -1092,7 +1092,7 @@ Ti13e
 Monday
 
 ### November 3
-Time
+Ti13e
 
 Tuesday
 ### November 4

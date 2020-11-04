@@ -1429,6 +1429,17 @@ upon the hearth.
 18:7 And Abraham ran unto the herd, and fetcht a calf tender and good,
 and gave it unto a young man; and he hasted to dress it.
 
+18:8 And he took butter, and milk, and the calf which he had dressed,
+and set it before them; and he stood by them under the tree, and they
+did eat.
+
+18:9 And they said unto him, Where is Sarah thy wife? And he said,
+Behold, in the tent.
+
+18:10 And he said, I will certainly return unto thee according to the
+time of life; and, lo, Sarah thy wife shall have a son. And Sarah
+heard it in the tent door, which was behind him.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
