@@ -1440,6 +1440,25 @@ Behold, in the tent.
 time of life; and, lo, Sarah thy wife shall have a son. And Sarah
 heard it in the tent door, which was behind him.
 
+18:11 Now Abraham and Sarah were old and well stricken in age; and it
+ceased to be with Sarah after the manner of women.
+
+18:12 Therefore Sarah laughed within herself, saying, After I am waxed
+old shall I have pleasure, my lord being old also?  18:13 And the LORD
+said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a
+surety bear a child, which am old?  18:14 Is any thing too hard for
+the LORD? At the time appointed I will return unto thee, according to
+the time of life, and Sarah shall have a son.
+
+18:15 Then Sarah denied, saying, I laughed not; for she was afraid.
+And he said, Nay; but thou didst laugh.
+
+18:16 And the men rose up from thence, and looked toward Sodom: and
+Abraham went with them to bring them on the way.
+
+18:17 And the LORD said, Shall I hide from Abraham that thing which I
+do: 18:18
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 

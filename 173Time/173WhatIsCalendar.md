@@ -1087,17 +1087,23 @@ Time
 Sunday
 
 ### November 2
-Ti13e
+20i13e
 
 Monday
 
 ### November 3
-Ti13e
+20i13e
 
 Tuesday
 ### November 4
+20i13e
+
+Wednesday
 
 ### November 5
+Time
+
+Thursday
 
 ### November 6
 
