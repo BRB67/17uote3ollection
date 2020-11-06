@@ -1457,7 +1457,19 @@ And he said, Nay; but thou didst laugh.
 Abraham went with them to bring them on the way.
 
 18:17 And the LORD said, Shall I hide from Abraham that thing which I
-do: 18:18
+do: 18:18 Seeing that Abraham shall surely become a great and mighty
+nation, and all the nations of the earth shall be blessed in him?
+18:19 For I know him, that he will command his children and his
+justice and judgment; that the LORD may bring upon Abraham that which
+he hath spoken of him.
+
+18:20 And the LORD said, Because the cry of Sodom and Gomorrah is
+great, and because their sin is very grievous; 18:21 I will go down
+now, and see whether they have done altogether according to the cry of
+it, which is come unto me; and if not, I will know.
+
+18:22 And the men turned their faces from thence, and went toward
+Sodom: but Abraham stood yet before the LORD.
 
 ## The Book of Psalms
 	
