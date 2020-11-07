@@ -43,6 +43,7 @@ Calendar Websites
 			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
 			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
 			Yogha For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
+			Yoga for Mental Health https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
@@ -118,7 +119,7 @@ z = ⠵ = U+2835
 
 4 = Prayer
 
-5 = Meditation
+5 = Meditation (or TaiChi)
 
 6 = Charity
 
@@ -1106,6 +1107,19 @@ Time
 Thursday
 
 ### November 6
+20i13e
 
+Friday
+
+DJ 04 = 1 min
+DJ 07 = 15 + 26 min
+DJ 05 = 5 min
+End: = 21:32
 ### November 7
+Time
 
+Saturday
+Start: 4:14
+
+DJ 04 = 1 min
+DJ 08 = 2 min

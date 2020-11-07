@@ -1471,6 +1471,22 @@ it, which is come unto me; and if not, I will know.
 18:22 And the men turned their faces from thence, and went toward
 Sodom: but Abraham stood yet before the LORD.
 
+18:23 And Abraham drew near, and said, Wilt thou also destroy the
+righteous with the wicked?  18:24 Peradventure there be fifty
+righteous within the city: wilt thou also destroy and not spare the
+place for the fifty righteous that are therein?  18:25 That be far
+from thee to do after this manner, to slay the righteous with the
+wicked: and that the righteous should be as the wicked, that be far
+from thee: Shall not the Judge of all the earth do right?  18:26 And
+the LORD said, If I find in Sodom fifty righteous within the city,
+then I will spare all the place for their sakes.
+
+18:27 And Abraham answered and said, Behold now, I have taken upon me
+to speak unto the LORD, which am but dust and ashes: 18:28
+Peradventure there shall lack five of the fifty righteous: wilt thou
+destroy all the city for lack of five? And he said, If I find there
+forty and five, I will not destroy it.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
