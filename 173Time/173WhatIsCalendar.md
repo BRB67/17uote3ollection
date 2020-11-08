@@ -16,6 +16,11 @@ Calendar Websites
 
 ### Daily Journal (DJ) Resources
 
+00 First Aid = Safety First:
+	https://en.wikipedia.org/wiki/First_aid 
+	Kmart First Aid Kits: https://www.kmart.com/search=first%20aid
+	Amazon First Aid Kits: https://www.amazon.com/s?k=first+aid&ref=nb_sb_noss_1
+	Walmart First Aid Kits: https://www.walmart.com/search/?query=first%20aid
 01 Nutrition:
 	https://www.nutrition.gov/
 	https://nutritionfacts.org/
@@ -111,6 +116,8 @@ z = ⠵ = U+2835
 	
 	
 ## Daily Journal (DJ) Checklist:
+00 = First Aid / Safety First
+
 1 = Nutrition
 
 2 = Exercise
