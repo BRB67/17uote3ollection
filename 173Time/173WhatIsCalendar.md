@@ -1116,10 +1116,25 @@ DJ 07 = 15 + 26 min
 DJ 05 = 5 min
 End: = 21:32
 ### November 7
-Time
+20913e
 
 Saturday
 Start: 4:14
 
+
 DJ 04 = 1 min
 DJ 08 = 2 min
+DJ 07 = 29 + 43 min
+DJ 8 = 20 min
+
+End = < 22:00
+
+### November 8
+Time
+
+Sunday
+Start: 5:23
+
+DJ 04 = 1 min
+DJ 08 = 2 min
+DJ 17 =  2 min

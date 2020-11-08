@@ -1487,6 +1487,74 @@ Peradventure there shall lack five of the fifty righteous: wilt thou
 destroy all the city for lack of five? And he said, If I find there
 forty and five, I will not destroy it.
 
+18:29 And he spake unto him yet again, and said, Peradventure there
+shall be forty found there. And he said, I will not do it for forty's
+sake.
+
+18:30 And he said unto him, Oh let not the LORD be angry, and I will
+speak: Peradventure there shall thirty be found there. And he said, I
+will not do it, if I find thirty there.
+
+18:31 And he said, Behold now, I have taken upon me to speak unto the
+LORD: Peradventure there shall be twenty found there. And he said, I
+will not destory it for twenty's sake.
+
+18:32 And he said, Oh let not the LORD be angry, and I will speak yet
+but this once: Peradventure ten shall be found there. And he said, I
+will not destroy it for ten's sake.
+
+18:33 And the LORD went his way, as soon as he had left communing with 
+Abraham: and Abraham returned unto his place.
+
+19:1 And there came two angels to Sodom at even; and Lot sat in the 
+gate of Sodom: and Lot seeing them rose up to meet them; and he bowed
+himself with his face toward the ground; 19:2 And he said, Behold now,
+my lords, turn in, I pray you, into your servant's house, and tarry
+all night, and wash your feet, and ye shall rise up early, and go on
+your ways. And they said, Nay; but we will abide in the street all
+night.
+
+19:3 And he pressed upon them greatly; and they turned in unto him,
+and entered unto his house; and he made them a feast, and did bake
+unleavened bread, and they did eat.
+
+19:4 But before they lay down, the men of the city, even the men of
+Sodom, compassed the house round, both old and young, all the people
+from every quarter: 19:5 And they called unto Lot, and said unto him,
+Where are the men which came in to thee this night? bring them out
+unto us, that we may know them.
+
+19:6 And Lot went out at the door unto them, and shut the door after
+him, 19:7 And said, I pray you, brethren, do not so wickedly.
+
+19:8 Behold now, I have two daughters which have not known man; let
+me, I pray you, bring them out unto you, and do ye to them as is good
+in your eyes: only unto these men do nothing; for therefore came they 
+under the shadow of my roof.
+
+19:9 And they said, Stand back. And they said again, This one fellow
+came in to sojourn, and he will needs be a judge: now will we deal
+worse with thee, than with them. And they pressed sore upon the man,
+even Lot, and came near to break the door.
+
+19:10 But the men put forth their hand, and pulled Lot into the house
+to them, and shut to the door.
+
+19:11 And they smote the men that were at the door of the house with
+blindness, both small and great: so that they wearied themselves to
+find the door.
+
+19:12 And the men said unto Lot, Hast thou here any besides? son in
+law, and thy sons, and thy daughters, and whatsoever thou hast in the
+city, bring them out of this place: 19:13 For we will destroy this
+place, because the cry of them is waxen great before the face of the
+LORD; and the LORD hath sent us to destroy it.
+
+19:14 And Lot went out, and spake unto his sons in law, which married
+his daughters, and said, Up, get you out of this place; for the LORD
+will destroy this city. But he seemed as one that mocked unto his sons
+in law.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
