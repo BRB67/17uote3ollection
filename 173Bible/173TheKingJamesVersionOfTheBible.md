@@ -1555,6 +1555,27 @@ his daughters, and said, Up, get you out of this place; for the LORD
 will destroy this city. But he seemed as one that mocked unto his sons
 in law.
 
+19:15 And when the morning arose, then the angels hastened Lot,
+saying, Arise, take thy wife, and thy two daughters, which are here;
+lest thou be consumed in the iniquity of the city.
+
+19:16 And while he lingered, the men laid hold upon his hand, and upon
+the hand of his wife, and upon the hand of his two daughters; the LORD
+being merciful unto him: and they brought him forth, and set him
+without the city.
+
+19:17 And it came to pass, when they had brought them forth abroad,
+that he said, Escape for thy life; look not behind thee, neither stay
+thou in all the plain; escape to the mountain, lest thou be consumed.
+
+19:18 And Lot said unto them, Oh, not so, my LORD: 19:19 Behold now, 
+thy servant hath found grace in thy sight, and thou hast magnified thy
+mercy, which thou hast shewed unto me in saving my life; and I cannot
+escape to the mountain, lest some evil take me, and I die: 19:20
+Behold now, this city is near to flee unto, and it is a little one:
+Oh, let me escape thither, (is it not a little one?) and my soul shall
+live.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 

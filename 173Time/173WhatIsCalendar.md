@@ -1145,3 +1145,12 @@ Start: 5:23
 DJ 04 = 1 min
 DJ 08 = 2 min
 DJ 17 =  2 min
+DJ 07 = 28 + 14 min
+
+End: > 22:00
+
+### November 9
+Time
+
+Monday
+Start = 8:31
