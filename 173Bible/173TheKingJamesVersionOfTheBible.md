@@ -1633,6 +1633,12 @@ same is the father of the Moabites unto this day.
 Benammi: the same is the father of the children of Ammon unto this
 day.
 
+20:1 And Abraham journeyed from thence toward the south country, and
+dwelled between Kadesh and Shur, and sojourned in Gerar.
+
+20:2 And Abraham said of Sarah his wife, She is my sister: and
+Abimelech king of Gerar sent, and took Sarah.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 

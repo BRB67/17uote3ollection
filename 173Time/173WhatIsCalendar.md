@@ -1151,7 +1151,7 @@ DJ 07 = 28 + 14 min
 End: > 22:00
 
 ### November 9
-Time
+20913e
 
 Monday
 Start = 8:31
@@ -1162,3 +1162,36 @@ DJ 17 = 5 + 10 + 5 min
 DJ 07 = 50 + 44 min
 DJ 12 = 30 min
 DJ 27 = 30 min
+
+End = < 22:00
+
+### November 10
+20913e
+
+Tuesday
+Start = 8:33
+
+
+### November 11
+### November 12
+### November 13
+### November 14
+### November 15
+### November 16
+### November 17
+### November 18
+### November 19
+### November 20
+
+
+### November
+### November
+### November
+### November
+### November
+### November
+### November
+### November
+### November
+### November
+### November
