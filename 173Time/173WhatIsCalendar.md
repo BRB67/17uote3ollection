@@ -49,6 +49,7 @@ Calendar Websites
 			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
 			Yogha For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
 			Yoga for Mental Health https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
+			Yoga Full Practices https://www.youtube.com/watch?v=GLy2rYHwUqY&list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf
 	https://www.youtube.com/user/doyogawithme 
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
@@ -1154,3 +1155,10 @@ Time
 
 Monday
 Start = 8:31
+
+DJ 04 = 1 min
+DJ 08 = 5 + 10 +5 min
+DJ 17 = 5 + 10 + 5 min
+DJ 07 = 50 + 44 min
+DJ 12 = 30 min
+DJ 27 = 30 min
