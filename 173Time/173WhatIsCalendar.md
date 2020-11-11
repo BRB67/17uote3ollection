@@ -1170,9 +1170,16 @@ End = < 22:00
 
 Tuesday
 Start = 8:33
-
+End = 21:00
 
 ### November 11
+Time
+
+Wednesday
+Start = 6:57
+
+DJ 4 = 1 min
+
 ### November 12
 ### November 13
 ### November 14

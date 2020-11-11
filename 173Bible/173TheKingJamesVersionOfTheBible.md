@@ -1639,6 +1639,19 @@ dwelled between Kadesh and Shur, and sojourned in Gerar.
 20:2 And Abraham said of Sarah his wife, She is my sister: and
 Abimelech king of Gerar sent, and took Sarah.
 
+20:3 But God came to Abimelech in a dream by night, and said to him,
+Behold, thou art but a dead man, for the woman which thou hast taken;
+for she is a man's wife.
+
+20:4 But Abimelech had not come near her: and he said, LORD, wilt thou
+slay also a righteous nation?  20:5 Said he not unto me, She is my
+sister? and she, even she herself said, He is my brother: in the
+integrity of my heart and innocency of my hands have I done this.
+
+20:6 And God said unto him in a dream, Yea, I know that thou didst
+this in the integrity of thy heart; for I also withheld thee from
+sinning against me: therefore suffered I thee not to touch her.
+
 ## The Book of Psalms
 	
 	1:1 Blessed is the man that walketh not in the counsel of the 
