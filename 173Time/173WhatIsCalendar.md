@@ -155,11 +155,11 @@ z = ⠵ = U+2835
 
 18 = Card Creation:
 
-19 = Dance Choreography:
+19 = Communication (ASL, Braille, Dance, etc):
 
-20 = Play Memory Cards:
+20 = Test Memory:
 
-21 = Indoor Gardening: ???
+21 = Gardening: ???
 
 22 = Organize Space:
 
@@ -189,7 +189,7 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = Try to Treat people and creations with respect ??? 
+36 = Try Respecting people and creations ??? 
 
 ## May
 
@@ -1179,6 +1179,10 @@ Wednesday
 Start = 6:57
 
 DJ 4 = 1 min
+DJ 8 = 2 min
+DJ 17 = 2 min
+DJ 5 = 5 min
+DJ 6 = 5 min
 
 ### November 12
 ### November 13

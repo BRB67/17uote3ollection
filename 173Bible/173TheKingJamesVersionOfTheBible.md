@@ -1652,10 +1652,53 @@ integrity of my heart and innocency of my hands have I done this.
 this in the integrity of thy heart; for I also withheld thee from
 sinning against me: therefore suffered I thee not to touch her.
 
+20:7 Now therefore restore the man his wife; for he is a prophet, and
+he shall pray for thee, and thou shalt live: and if thou restore her
+not, know thou that thou shalt surely die, thou, and all that are
+thine.
+
+20:8 Therefore Abimelech rose early in the morning, and called all his
+servants, and told all these things in their ears: and the men were 
+sore afraid.
+
+20:9 Then Abimelech called Abraham, and said unto him, What hast thou
+done unto us? and what have I offended thee, that thou hast brought on
+me and on my kingdom a great sin? thou hast done deeds unto me that
+ought not to be done.
+
+20:10 And Abimelech said unto Abraham, What sawest thou, that thou
+hast done this thing?  20:11 And Abraham said, Because I thought,
+Surely the fear of God is not in this place; and they will slay me for
+my wife's sake.
+
 ## The Book of Psalms
 	
+	Psalm 01
+	
 	1:1 Blessed is the man that walketh not in the counsel of the 
-		ungodly, no		r standeth in the way of sinners, nor sitteth in the 
+		ungodly, nor standeth in the way of sinners, nor sitteth in the 
+		seat of the scornful.
+
+	1:2 But his delight is in the law of the LORD; and in his law doth 
+		he meditate day and night.
+		
+	1:3 And he shall be like a tree planted by the rivers of water, that
+		bringeth forth his fruit in his season; his leaf also shall not 
+		wither; and whatsoever he doeth shall prosper.
+		
+	1:4 The ungodly are not so; but are like the chaff which the wind
+		driveth away.
+		
+	1:5 Therefore the ungodly shall not stand in the judgment, nor 
+		sinners in the congregation of the righteous.
+		
+	1:6 For the LORD knoweth the way of the righteous: but the way of 
+		the ungodly shall perish.
+		
+	Psalm 01 Numeric Translation:
+	
+	1:1 Blessed is the man that walketh not in the counsel of the 
+		ungodly, nor standeth in the way of sinners, nor sitteth in the 
 		seat of the scornful.
 		
 		Numeric Translation:
@@ -1707,7 +1750,8 @@ sinning against me: therefore suffered I thee not to touch her.
 			61518 2085 1215184 111415235208 2085 23125 156 2085 
 			18978205152119: 22120 2085 23125 156 2085 211471541225 
 			19811212 165189198.
-			
+	Psalm 02
+	
 	2:1 Why do the heathen rage, and the people imagine a vain thing?
 	2:2 The Kings of earth set themselves, and the rulers take counsel 
 	together, against the LORD, and against his anointed, saying,
