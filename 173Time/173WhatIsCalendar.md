@@ -1184,13 +1184,35 @@ DJ 17 = 2 min
 DJ 5 = 5 min
 DJ 6 = 5 min
 
+End < 21:00
+
 ### November 12
+Time
+
+Thursday
+Start = 4:50
+
+DJ 4 = 1 min
+DJ 8 = 5 min
+DJ 17 = 5 min
+DJ 5 = 5 min
+
+End < 21:00
+
 ### November 13
+Time
+
+Friday
+Start = 9:11
+
+DJ 4 = 1 min
+
 ### November 14
 ### November 15
 ### November 16
 ### November 17
 ### November 18
+	Schedule Appointment on Wednesday
 ### November 19
 ### November 20
 

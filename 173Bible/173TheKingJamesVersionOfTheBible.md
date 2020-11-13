@@ -1671,6 +1671,26 @@ hast done this thing?  20:11 And Abraham said, Because I thought,
 Surely the fear of God is not in this place; and they will slay me for
 my wife's sake.
 
+20:12 And yet indeed she is my sister; she is the daughter of my
+father, but not the daughter of my mother; and she became my wife.
+
+20:13 And it came to pass, when God caused me to wander from my
+father's house, that I said unto her, This is thy kindness which thou
+shalt shew unto me; at every place whither we shall come, say of me,
+He is my brother.
+
+20:14 And Abimelech took sheep, and oxen, and menservants, and
+womenservants, and gave them unto Abraham, and restored him Sarah his
+wife.
+
+20:15 And Abimelech said, Behold, my land is before thee: dwell where
+it pleaseth thee.
+
+20:16 And unto Sarah he said, Behold, I have given thy brother a
+thousand pieces of silver: behold, he is to thee a covering of the
+eyes, unto all that are with thee, and with all other: thus she was
+reproved.
+
 ## The Book of Psalms
 	
 	Psalm 01
