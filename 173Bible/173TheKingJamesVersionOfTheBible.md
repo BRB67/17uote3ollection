@@ -1691,6 +1691,15 @@ thousand pieces of silver: behold, he is to thee a covering of the
 eyes, unto all that are with thee, and with all other: thus she was
 reproved.
 
+20:17 So Abraham prayed unto God: and God healed Abimelech, and his
+wife, and his maidservants; and they bare children.
+
+20:18 For the LORD had fast closed up all the wombs of the house of
+Abimelech, because of Sarah Abraham's wife.
+
+21:1 And the LORD visited Sarah as he had said, and the LORD did unto
+Sarah as he had spoken.
+
 ## The Book of Psalms
 	
 	Psalm 01
