@@ -1700,6 +1700,42 @@ Abimelech, because of Sarah Abraham's wife.
 21:1 And the LORD visited Sarah as he had said, and the LORD did unto
 Sarah as he had spoken.
 
+21:2 For Sarah conceived, and bare Abraham a son in his old age, at
+the set time of which God had spoken to him.
+
+21:3 And Abraham called the name of his son that was born unto him,
+whom Sarah bare to him, Isaac.
+
+21:4 And Abraham circumcised his son Isaac being eight days old, as
+God had commanded him.
+
+21:5 And Abraham was an hundred years old, when his son Isaac was born
+unto him.
+
+21:6 And Sarah said, God hath made me to laugh, so that all that hear
+will laugh with me.
+
+21:7 And she said, Who would have said unto Abraham, that Sarah should
+have given children suck? for I have born him a son in his old age.
+
+21:8 And the child grew, and was weaned: and Abraham made a great
+feast the same day that Isaac was weaned.
+
+21:9 And Sarah saw the son of Hagar the Egyptian, which she had born
+unto Abraham, mocking.
+
+21:10 Wherefore she said unto Abraham, Cast out this bondwoman and her
+son: for the son of this bondwoman shall not be heir with my son, even
+with Isaac.
+
+21:11 And the thing was very grievous in Abraham's sight because of
+his son.
+
+21:12 And God said unto Abraham, Let it not be grievous in thy sight
+because of the lad, and because of thy bondwoman; in all that Sarah
+hath said unto thee, hearken unto her voice; for in Isaac shall thy 
+seed be called.
+
 ## The Book of Psalms
 	
 	Psalm 01
