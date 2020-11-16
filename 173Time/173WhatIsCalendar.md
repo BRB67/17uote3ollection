@@ -1208,8 +1208,23 @@ Start = 9:11
 DJ 4 = 1 min
 
 ### November 14
+Time
+
 ### November 15
+Time
+
 ### November 16
+Time
+
+Monday
+Start < 11:30
+
+DJ 4 = 1 min
+DJ 7 = 10 min
+DJ 8 = 10 min
+DJ 17 = 5 min
+
+
 ### November 17
 ### November 18
 	Schedule Appointment on Wednesday

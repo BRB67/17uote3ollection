@@ -1736,6 +1736,25 @@ because of the lad, and because of thy bondwoman; in all that Sarah
 hath said unto thee, hearken unto her voice; for in Isaac shall thy 
 seed be called.
 
+21:13 And also of the son of the bondwoman will I make a nation,
+because he is thy seed.
+
+21:14 And Abraham rose up early in the morning, and took bread, and a
+bottle of water, and gave it unto Hagar, putting it on her shoulder,
+and the child, and sent her away: and she departed, and wandered in
+the wilderness of Beersheba.
+
+21:15 And the water was spent in the bottle, and she cast the child
+under one of the shrubs.
+
+21:16 And she went, and sat her down over against him a good way off.
+as it were a bow shot: for she said, Let me not see the death of the 
+child. And she sat over against him, and lift up her voice, and wept.
+
+21:17 And God heard the voice of the lad; and the angel of God called
+to Hagar out of heaven, and said unto her, What aileth thee, Hagar?
+fear not; for God hath heard the voice of the lad where he is.
+
 ## The Book of Psalms
 	
 	Psalm 01
