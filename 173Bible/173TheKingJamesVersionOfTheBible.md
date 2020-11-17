@@ -1755,6 +1755,25 @@ child. And she sat over against him, and lift up her voice, and wept.
 to Hagar out of heaven, and said unto her, What aileth thee, Hagar?
 fear not; for God hath heard the voice of the lad where he is.
 
+21:18 Arise, lift up the lad, and hold him in thine hand; for I will
+make him a great nation.
+
+21:19 And God opened her eyes, and she saw a well of water; and she
+went, and filled the bottle with water, and gave the lad drink.
+
+21:20 And God was with the lad; and he grew, and dwelt in the
+wilderness, and became an archer.
+
+21:21 And he dwelt in the wilderness of Paran: and his mother took him
+a wife out of the land of Egypt.
+
+21:22 And it came to pass at that time, that Abimelech and Phichol the
+chief captain of his host spake unto Abraham, saying, God is with thee
+in all that thou doest: 21:23 Now therefore swear unto me here by God
+that thou wilt not deal falsely with me, nor with my son, nor with my
+son's son: but according to the kindness that I have done unto thee,
+thou shalt do unto me, and to the land wherein thou hast sojourned.
+
 ## The Book of Psalms
 	
 	Psalm 01

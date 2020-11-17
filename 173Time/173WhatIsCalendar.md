@@ -1226,6 +1226,16 @@ DJ 17 = 5 min
 
 
 ### November 17
+Time
+
+Tuesday
+Start = 9:30
+
+DJ 4 = 1 min
+DJ 2 = 1 min
+DJ 8 = 5 min
+DJ 21 = 2 min
+
 ### November 18
 	Schedule Appointment on Wednesday
 ### November 19
