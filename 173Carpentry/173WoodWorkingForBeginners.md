@@ -53,4 +53,8 @@ THE aim of this book is to suggest to amateurs of all ages many things which the
     harmonious all-round development.
     
     It is not an attempt to teach the arts of architecture, carpentry, cabinet-making or
-    boat building.
+    boat building. Although not intended primarily to impart skill in the use of tools
+    (something which can only be acquired from experience and observation and cannot be
+    taught by any book), still no one can go through the process indicated without gaining
+    at least some slight degree of manual skill as well as a fund of practical information and
+    experience.

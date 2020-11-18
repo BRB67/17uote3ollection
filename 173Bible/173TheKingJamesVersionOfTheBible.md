@@ -1774,6 +1774,11 @@ that thou wilt not deal falsely with me, nor with my son, nor with my
 son's son: but according to the kindness that I have done unto thee,
 thou shalt do unto me, and to the land wherein thou hast sojourned.
 
+21:24 And Abraham said, I will swear.
+
+21:25 And Abraham reproved Abimelech because of a well of water, which
+Abimelech's servants had violently taken away.
+
 ## The Book of Psalms
 	
 	Psalm 01

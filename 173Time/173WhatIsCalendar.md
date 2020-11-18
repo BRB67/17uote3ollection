@@ -28,9 +28,9 @@ Calendar Websites
 	https://www.cdc.gov/nutrition/index.html 
 
 02 Exercise:
-	https://www.youtube.com/user/TBLwithRobinLong
-	https://www.youtube.com/user/PaulChekLive/about
-		https://www.youtube.com/watch?v=Jdn8gK2LDYQ
+	Pilates   https://www.youtube.com/user/TBLwithRobinLong
+	Paul Chek https://www.youtube.com/user/PaulChekLive/about
+			https://www.youtube.com/watch?v=Jdn8gK2LDYQ
 	https://www.youtube.com/user/FitnessFAQs
 	https://www.youtube.com/user/Calisthenicmovement/featured
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
@@ -47,7 +47,7 @@ Calendar Websites
 			Foundations of Yoga https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
 			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
 			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
-			Yogha For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
+			Yoga For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
 			Yoga for Mental Health https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
 			Yoga Full Practices https://www.youtube.com/watch?v=GLy2rYHwUqY&list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf
 	https://www.youtube.com/user/doyogawithme 
@@ -1233,8 +1233,10 @@ Start = 9:30
 
 DJ 4 = 1 min
 DJ 2 = 1 min
-DJ 8 = 5 min
+DJ 8 = 5 + 10 min
 DJ 21 = 2 min
+DJ 17 = 10 + 10 min
+DJ 7 = 28 min
 
 ### November 18
 	Schedule Appointment on Wednesday
