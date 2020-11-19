@@ -1239,8 +1239,24 @@ DJ 17 = 10 + 10 min
 DJ 7 = 28 min
 
 ### November 18
-	Schedule Appointment on Wednesday
+Time
+
+DJ 4 = 1 min
+DJ 8 = 5 min
+DJ 17 = 5 min
+DJ 7 = 35 min
+
+End = 21:11
+
 ### November 19
+Time
+
+DJ 4 = 1 min
+DJ 8 = 2 min
+DJ 17 = 2 min
+	Schedule Appointment on Thursday
+	Turn In Paperwork on Thursday
+	Call for Schedule on Thursday
 ### November 20
 
 

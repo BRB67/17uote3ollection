@@ -1779,6 +1779,12 @@ thou shalt do unto me, and to the land wherein thou hast sojourned.
 21:25 And Abraham reproved Abimelech because of a well of water, which
 Abimelech's servants had violently taken away.
 
+21:26 And Abimelech said, I wot not who hath done this thing; neither
+didst thou tell me, neither yet heard I of it, but to day.
+
+21:27 And Abraham took sheep and oxen, and gave them unto Abimelech;
+and both of them made a covenant.
+
 ## The Book of Psalms
 	
 	Psalm 01
