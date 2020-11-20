@@ -1785,6 +1785,10 @@ didst thou tell me, neither yet heard I of it, but to day.
 21:27 And Abraham took sheep and oxen, and gave them unto Abimelech;
 and both of them made a covenant.
 
+21:28 And Abraham set seven ewe lambs of the flock by themselves.
+
+21:29 And Abimelech said unto Abraham, What mean these seven ewe lambs
+which thou hast set by themselves?  21:30
 ## The Book of Psalms
 	
 	Psalm 01

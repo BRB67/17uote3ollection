@@ -47,6 +47,7 @@ Calendar Websites
 			Foundations of Yoga https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
 			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
 			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
+			Yoga for Mornings  https://www.youtube.com/watch?v=Is8tMCpv4F8&list=PLui6Eyny-UzxMFVoPmxcPX1MOeLyV5uKQ
 			Yoga For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
 			Yoga for Mental Health https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
 			Yoga Full Practices https://www.youtube.com/watch?v=GLy2rYHwUqY&list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf
@@ -178,6 +179,83 @@ z = ⠵ = U+2835
 29 = Music
 
 30 = Astronomy
+
+31 = Sunlight:
+
+32 = Temperance:
+
+33 = Air:
+
+34 = Rest: 
+
+35 = Trust:
+
+36 = Try Respecting people and creations ??? 
+
+### Daily Journal (DJ) Results
+00 = First Aid / Safety First
+
+1 = Nutrition
+
+2 = Exercise
+
+3 = W⠁⠞⠑r
+
+4 = Prayer
+
+5 = Meditation (or TaiChi)
+
+6 = Charity
+
+7 = Stretching (Inspired by various traditions including Yoga)
+
+8 = Read Bible (and other written works)
+
+9 = Clean
+
+10 = Meal Preparation ?
+
+11 = Body Movement: ?
+
+12 = Practice Play: ???
+
+13 = Core Moves:
+
+14 = Creative Code:
+
+15 = Foot Work:
+
+16 = Art:
+
+17 = Hand Dexterity:
+
+18 = Card Creation:
+
+19 = Communication (ASL, Braille, Dance, etc):
+
+20 = Test Memory:
+
+21 = Gardening: ???
+
+22 = Organize Space:
+
+23 = Massage Body:
+
+24 = Grammar:
+
+25 = Logic:
+
+26 = Rhetoric:
+
+27 = Arithmetic:
+	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
+
+28 = Geometry:
+	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
+
+29 = Music:
+
+30 = Astronomy:
 
 31 = Sunlight:
 
@@ -1241,6 +1319,8 @@ DJ 7 = 28 min
 ### November 18
 Time
 
+Wednesday
+
 DJ 4 = 1 min
 DJ 8 = 5 min
 DJ 17 = 5 min
@@ -1251,23 +1331,30 @@ End = 21:11
 ### November 19
 Time
 
+Thursday
+
 DJ 4 = 1 min
 DJ 8 = 2 min
 DJ 17 = 2 min
-	Schedule Appointment on Thursday
-	Turn In Paperwork on Thursday
-	Call for Schedule on Thursday
+	
+	
+	
 ### November 20
+20i13e
 
+Friday
+	Work at 11am
 
-### November
-### November
-### November
-### November
-### November
-### November
-### November
-### November
-### November
-### November
+### November 21
+### November 22
+	Schedule Appointment on Monday
+### November 23
+	Work at 10am
+### November 24
+### November 25
+### November 26
+### November 27
+### November 28
+### November 29
+### November 30
 ### November
