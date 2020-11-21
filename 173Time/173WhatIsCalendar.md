@@ -1343,9 +1343,14 @@ DJ 17 = 2 min
 20i13e
 
 Friday
-	Work at 11am
+	Work at 11am (to 2:45)
 
 ### November 21
+20i13e
+
+Saturday
+
+DJ 4 = 1 min
 ### November 22
 	Schedule Appointment on Monday
 ### November 23

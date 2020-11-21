@@ -1788,7 +1788,12 @@ and both of them made a covenant.
 21:28 And Abraham set seven ewe lambs of the flock by themselves.
 
 21:29 And Abimelech said unto Abraham, What mean these seven ewe lambs
-which thou hast set by themselves?  21:30
+which thou hast set by themselves?  21:30 And he said, For these seven
+ewe lambs shalt thou take of my hand, that they may be a witness unto
+me, that I have digged this well.
+
+21:31 Wherefore he called that place Beersheba; because there they
+sware both of them.
 ## The Book of Psalms
 	
 	Psalm 01
