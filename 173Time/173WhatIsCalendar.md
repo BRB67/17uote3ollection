@@ -1352,11 +1352,19 @@ Saturday
 
 DJ 4 = 1 min
 ### November 22
-	Schedule Appointment on Monday
+Time
+
+Sunday
+
+DJ 4 = 1 min
+
 ### November 23
+	??DMV?? b4 work
 	Work at 10am
+	Schedule Appointment on Monday
 ### November 24
 ### November 25
+	Trivia at 7pm
 ### November 26
 ### November 27
 ### November 28

@@ -1794,6 +1794,13 @@ me, that I have digged this well.
 
 21:31 Wherefore he called that place Beersheba; because there they
 sware both of them.
+
+21:32 Thus they made a covenant at Beersheba: then Abimelech rose up,
+and Phichol the chief captain of his host, and they returned into the
+land of the Philistines.
+
+21:33 And Abraham planted a grove in Beersheba, and called there on
+the name of the LORD, the everlasting God.
 ## The Book of Psalms
 	
 	Psalm 01
