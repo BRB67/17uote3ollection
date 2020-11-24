@@ -1357,6 +1357,11 @@ Time
 Sunday
 
 DJ 4 = 1 min
+DJ 8 = 2 min
+DJ 17 = 2 min
+DJ 7 = 21 min
+DJ 27 = 30 + 16 + 6 + 11 = problems
+DJ 16 = 2 images
 
 ### November 23
 	??DMV?? b4 work

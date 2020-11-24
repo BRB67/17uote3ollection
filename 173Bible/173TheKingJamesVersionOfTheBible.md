@@ -1801,6 +1801,11 @@ land of the Philistines.
 
 21:33 And Abraham planted a grove in Beersheba, and called there on
 the name of the LORD, the everlasting God.
+
+21:34 And Abraham sojourned in the Philistines' land many days.
+
+22:1 And it came to pass after these things, that God did tempt
+Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 ## The Book of Psalms
 	
 	Psalm 01
