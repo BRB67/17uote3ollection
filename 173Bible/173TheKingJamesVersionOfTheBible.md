@@ -1806,6 +1806,15 @@ the name of the LORD, the everlasting God.
 
 22:1 And it came to pass after these things, that God did tempt
 Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+
+22:2 And he said, Take now thy son, thine only son Isaac, whom thou
+lovest, and get thee into the land of Moriah; and offer him there for
+a burnt offering upon one of the mountains which I will tell thee of.
+
+22:3 And Abraham rose up early in the morning, and saddled his ass,
+and tool two of his young men with him, and Isaac his son, and clave
+the wood for the burnt offering, and rose up, and went unto the place
+of which God had told him.
 ## The Book of Psalms
 	
 	Psalm 01
