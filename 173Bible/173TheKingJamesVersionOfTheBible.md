@@ -1815,6 +1815,12 @@ a burnt offering upon one of the mountains which I will tell thee of.
 and tool two of his young men with him, and Isaac his son, and clave
 the wood for the burnt offering, and rose up, and went unto the place
 of which God had told him.
+
+22:4 Then on the third day Abraham lifted up his eyes, and saw the
+place afar off.
+
+22:5 And Abraham said unto his young men, Abide ye here with the ass;
+and I and the lad will go yonder and worship, and come again to you.
 ## The Book of Psalms
 	
 	Psalm 01
