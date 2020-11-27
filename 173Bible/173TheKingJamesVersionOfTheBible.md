@@ -1821,6 +1821,17 @@ place afar off.
 
 22:5 And Abraham said unto his young men, Abide ye here with the ass;
 and I and the lad will go yonder and worship, and come again to you.
+
+22:6 And Abraham took the wood of the burnt offering, and laid it upon
+Isaac his son; and he took the fire in his hand, and a knife; and they
+went both of them together.
+
+22:7 And Isaac spake unto Abraham his father, and said, My father: and
+he said, Here am I, my son. And he said, Behold the fire and the wood:
+but where is the lamb for a burnt offering? 22:8 And Abraham said, My
+son, God will provide himself a lamb for a burnt offering: so they
+went both of them together.
+
 ## The Book of Psalms
 	
 	Psalm 01
