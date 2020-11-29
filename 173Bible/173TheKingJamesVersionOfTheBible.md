@@ -1828,10 +1828,16 @@ went both of them together.
 
 22:7 And Isaac spake unto Abraham his father, and said, My father: and
 he said, Here am I, my son. And he said, Behold the fire and the wood:
-but where is the lamb for a burnt offering? 22:8 And Abraham said, My
+but where is the lamb for a burnt offering?  22:8 And Abraham said, My
 son, God will provide himself a lamb for a burnt offering: so they
 went both of them together.
 
+22:9 And they came to the place which God had told him of; and Abraham
+built an altar there, and laid the wood in order, and bound Isaac his
+son, and laid him on the altar upon the wood.
+
+22:10 And Abraham stretched forth his hand, and took the knife to slay
+his son.
 ## The Book of Psalms
 	
 	Psalm 01
