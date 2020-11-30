@@ -1390,4 +1390,41 @@ Time
 
 Sunday
 ### November 30
-### November
+Time
+
+Monday
+
+
+
+## December
+
+### December Floating Holidays
+
+### December 01
+### December 02
+	Work at 6
+### December 03
+	Work at 6
+### December 04
+	Work at 6
+	Appointment on Friday
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
+### December
