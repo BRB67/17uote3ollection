@@ -1364,15 +1364,30 @@ DJ 27 = 30 + 16 + 6 + 11 = problems
 DJ 16 = 2 images
 
 ### November 23
+Monday
+
 	??DMV?? b4 work
 	Work at 10am
 	Schedule Appointment on Monday
 ### November 24
+Tuesday
 ### November 25
+Wednesday
 	Trivia at 7pm
 ### November 26
+Thursday
+
 ### November 27
+Friday
+
 ### November 28
+Time
+
+Saturday
+
 ### November 29
+Time
+
+Sunday
 ### November 30
 ### November

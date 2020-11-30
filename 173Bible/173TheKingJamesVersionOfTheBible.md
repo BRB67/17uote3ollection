@@ -1838,6 +1838,21 @@ son, and laid him on the altar upon the wood.
 
 22:10 And Abraham stretched forth his hand, and took the knife to slay
 his son.
+
+22:11 And the angel of the LORD called unto him out of heaven, and
+said, Abraham, Abraham: and he said, Here am I.
+
+22:12 And he said, Lay not thine hand upon the lad, neither do thou
+any thing unto him: for now I know that thou fearest God, seeing thou
+hast not withheld thy son, thine only son from me.
+
+22:13 And Abraham lifted up his eyes, and looked, and behold behind
+him a ram caught in a thicket by his horns: and Abraham went and took
+the ram, and offered him up for a burnt offering in the stead of his
+son.
+
+22:14 And Abraham called the name of the place Jehovahjireh: as it is
+said to this day, In the mount of the LORD it shall be seen.
 ## The Book of Psalms
 	
 	Psalm 01
