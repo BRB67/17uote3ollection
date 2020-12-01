@@ -1853,6 +1853,24 @@ son.
 
 22:14 And Abraham called the name of the place Jehovahjireh: as it is
 said to this day, In the mount of the LORD it shall be seen.
+
+22:15 And the angel of the LORD called unto Abraham out of heaven the
+second time, 22:16 And said, By myself have I sworn, saith the LORD,
+for because thou hast done this thing, and hast not withheld thy son,
+thine only son: 22:17 That in blessing I will bless thee, and in
+multiplying I will multiply thy seed as the stars of the heaven, and
+as the sand which is upon the sea shore; and thy seed shall possess
+the gate of his enemies; 22:18 And in thy seed shall all the nations
+of the earth be blessed; because thou hast obeyed my voice.
+
+22:19 So Abraham returned unto his young men, and they rose up and
+went together to Beersheba; and Abraham dwelt at Beersheba.
+
+22:20 And it came to pass after these things, that it was told
+Abraham, saying, Behold, Milcah, she hath also born children unto thy
+brother Nahor; 22:21 Huz his firstborn, and Buz his brother, and
+Kemuel the father of Aram, 22:22 And Chesed, and Hazo, and Pildash,
+and Jidlaph, and Bethuel.
 ## The Book of Psalms
 	
 	Psalm 01
