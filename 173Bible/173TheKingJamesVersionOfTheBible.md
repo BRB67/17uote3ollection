@@ -1871,6 +1871,12 @@ Abraham, saying, Behold, Milcah, she hath also born children unto thy
 brother Nahor; 22:21 Huz his firstborn, and Buz his brother, and
 Kemuel the father of Aram, 22:22 And Chesed, and Hazo, and Pildash,
 and Jidlaph, and Bethuel.
+
+22:23 And Bethuel begat Rebekah: these eight Milcah did bear to Nahor,
+Abraham's brother.
+
+22:24 And his concubine, whose name was Reumah, she bare also Tebah,
+and Gaham, and Thahash, and Maachah.
 ## The Book of Psalms
 	
 	Psalm 01

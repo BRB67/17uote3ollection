@@ -1401,15 +1401,22 @@ Monday
 ### December Floating Holidays
 
 ### December 01
+20913e
+
+Tuesday
 ### December 02
+Time
+
+Wednesday
 	Work at 6
 ### December 03
 	Work at 6
 ### December 04
 	Work at 6
 	Appointment on Friday
-### December
-### December
+### December 05
+### December 06
+	Work at 6
 ### December
 ### December
 ### December
