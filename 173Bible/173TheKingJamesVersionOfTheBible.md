@@ -1877,6 +1877,14 @@ Abraham's brother.
 
 22:24 And his concubine, whose name was Reumah, she bare also Tebah,
 and Gaham, and Thahash, and Maachah.
+
+23:1 And Sarah was an hundred and seven and twenty years old: these
+were the years of the life of Sarah.
+
+23:2 And Sarah died in Kirjatharba; the same is Hebron in the land of
+Canaan: and Abraham came to mourn for Sarah, and to weep for her.
+
+23:3 
 ## The Book of Psalms
 	
 	Psalm 01
