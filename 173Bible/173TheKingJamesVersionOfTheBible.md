@@ -1884,7 +1884,12 @@ were the years of the life of Sarah.
 23:2 And Sarah died in Kirjatharba; the same is Hebron in the land of
 Canaan: and Abraham came to mourn for Sarah, and to weep for her.
 
-23:3 
+23:3 And Abraham stood up from before his dead, and spake unto the
+sons of Heth, saying, 23:4 I am a stranger and a sojourner with you:
+give me a possession of a buryingplace with you, that I may bury my 
+dead out of my sight.
+
+
 ## The Book of Psalms
 	
 	Psalm 01
