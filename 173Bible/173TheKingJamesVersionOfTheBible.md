@@ -1889,6 +1889,20 @@ sons of Heth, saying, 23:4 I am a stranger and a sojourner with you:
 give me a possession of a buryingplace with you, that I may bury my 
 dead out of my sight.
 
+23:5 And the children of Heth answered Abraham, saying unto him, 23:6
+Hear us, my lord: thou art a mighty prince among us: in the choice of
+our sepulchres bury thy dead; none of us shall withhold from thee his
+sepulchre, but that thou mayest bury thy dead.
+
+23:7 And Abraham stood up, and bowed himself to the people of the
+land, even to the children of Heth.
+
+23:8 And he communed with them, saying, If it be your mind that I
+should bury my dead out of my sight; hear me, and intreat for me to
+Ephron the son of Zohar, 23:9 That he may give me the cave of 
+Machpelah, which he hath, which is in the end of his field; for as
+much money as it is worth he shall give it me for a possession of a
+buryingplace amongst you.
 
 ## The Book of Psalms
 	
