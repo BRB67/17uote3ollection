@@ -117,7 +117,9 @@ z = ⠵ = U+2835
 	
 	
 	
+	
 ## Daily Journal (DJ) Checklist:
+
 00 = First Aid / Safety First
 
 1 = Nutrition
@@ -192,7 +194,12 @@ z = ⠵ = U+2835
 
 36 = Try Respecting people and creations ??? 
 
+37 = Save Time
+
+
+
 ### Daily Journal (DJ) Results
+
 00 = First Aid / Safety First
 
 1 = Nutrition
@@ -268,6 +275,8 @@ z = ⠵ = U+2835
 35 = Trust:
 
 36 = Try Respecting people and creations ??? 
+
+37 = Save Time
 
 ## May
 

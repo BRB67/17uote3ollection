@@ -1904,6 +1904,13 @@ Machpelah, which he hath, which is in the end of his field; for as
 much money as it is worth he shall give it me for a possession of a
 buryingplace amongst you.
 
+23:10 And Ephron dwelt among the children of Heth: and Ephron the
+Hittite answered Abraham in the audience of the children of Heth, even
+of all that went in at the gate of his city, saying, 23:11 Nay, my
+lord, hear me: the field give I thee, and the cave that is therein, I 
+give it thee; in the presence of the sons of my people give I it thee:
+bury thy dead.
+
 ## The Book of Psalms
 	
 	Psalm 01

@@ -132,6 +132,7 @@ inspiring each other to turn the visions in our head into reality. Onward!
 
 Spin-off of "Making drawings with code"
 Khan Academy Code:
+https://www.khanacademy.org/computer-programming/spin-off-of-making-drawings-with-code/5574775330521088
 
 	ellipse(200, 200, 360, 360); // Head
 
@@ -142,6 +143,8 @@ Khan Academy Code:
 	ellipse(250, 150, 33, 33); // right Eye
 
 OpenProcessing Code:
+https://www.openprocessing.org/sketch/1036211
+
 	// Khan Academy Spin-off of "Making drawings with code"
 
 	function setup() {
