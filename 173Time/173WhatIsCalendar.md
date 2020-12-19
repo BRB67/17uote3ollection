@@ -67,6 +67,9 @@ Calendar Websites
 17 Hand Dexterity 
 	https://www.youtube.com/user/billvicars
 	
+29 Music:
+	MP3 and Sheet music files https://www.mfiles.co.uk/classical-mp3.htm 
+	
 35 Trust:
 	https://blog.jostle.me/blog/ways-to-build-trust-at-work
 	
@@ -1428,20 +1431,33 @@ Time
 
 Saturday
 ### December 06
-	Work at 6
-### December
 20913e
+	Work at 6
 
 Sunday
-### December
-### December
-### December
-### December
-### December
-### December
-### December
-### December
-### December
+### December 07
+
+### December 08
+
+### December 09
+
+### December 10
+
+### December 11
+
+### December 12
+
+### December 13
+
+### December 14
+
+### December 15
+Time
+Tuesday
+
+DJ 4 = 1 min
+DJ 7 = 8 min
+
 ### December
 ### December
 ### December
