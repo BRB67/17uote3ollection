@@ -56,7 +56,7 @@ z = ⠵ = U+2835
 	Say “Hello.”
 		Diga: Hola | Di “Bonjou” oubyen “Bonswa.”
 		
-### Meeting and Greeting
+### Meeting and Greeting / Rankont ak salitasyon
 
 00a Meeting and Greeting
 00b
