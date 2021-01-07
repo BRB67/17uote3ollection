@@ -55,6 +55,23 @@ z = ⠵ = U+2835
 #### Entry 2:
 	Say “Hello.”
 		Diga: Hola | Di “Bonjou” oubyen “Bonswa.”
+		
+### Meeting and Greeting
+
+00a Meeting and Greeting
+00b
+A. Say, "Hello"
+B. Ask, "How are you"
+C. Introduce yourself
+D. Smile
+E. Hug
+F. Wave
+G. Greet people
+H. Bow
+I. Introduce a friend
+J. Shake hands
+K. Kiss
+L. Say, "Goodbye"
 
 
 
