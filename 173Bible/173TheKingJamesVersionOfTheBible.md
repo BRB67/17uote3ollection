@@ -1911,6 +1911,33 @@ lord, hear me: the field give I thee, and the cave that is therein, I
 give it thee; in the presence of the sons of my people give I it thee:
 bury thy dead.
 
+23:12 And Abraham bowed down himself before the people of the land.
+
+23:13 And he spake unto Ephron in the audience of the people of the
+land, saying, But if thou wilt give it, I pray thee, hear me: I will
+give thee money for the field; take it of me, and I will bury my dead
+there.
+
+23:14 And Ephron answered Abraham, saying unto him, 23:15 My lord,
+hearken unto me: the land is worth four hundred shekels of silver;
+what is that betwixt me and thee? bury therefore thy dead.
+
+23:16 And Abraham hearkened unto Ephron; and Abraham weighed to Ephron
+the silver, which he had named in the audience of the sons of Heth,
+four hundred shekels of silver, current money with the merchant.
+
+23:17 And the field of Ephron which was in Machpelah, which was before
+Mamre, the field, and the cave which was therein, and all the trees
+that were in the field, that were in all the borders round about, were
+made sure 23:18 Unto Abraham for a possession in the presence of the
+children of Heth, before all that went in at the gate of his city.
+
+23:19 And after this, Abraham buried Sarah his wife in the cave of the
+field of Machpelah before Mamre: the same is Hebron in the land of
+Canaan.
+
+
+
 ## The Book of Psalms
 	
 	Psalm 01
