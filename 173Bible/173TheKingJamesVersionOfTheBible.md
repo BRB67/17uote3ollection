@@ -1936,7 +1936,8 @@ children of Heth, before all that went in at the gate of his city.
 field of Machpelah before Mamre: the same is Hebron in the land of
 Canaan.
 
-
+23:20 And the field, and the cave that is therein, were made sure unto
+Abraham for a possession of a buryingplace by the sons of Heth.
 
 ## The Book of Psalms
 	

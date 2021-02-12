@@ -259,12 +259,12 @@ z = ⠵ = U+2835
 
 27 = Arithmetic:
 	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
-
+	https://openstax.org/subjects/view-all
 28 = Geometry:
 	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
-
+	https://openstax.org/subjects/view-all
 29 = Music:
-
+	
 30 = Astronomy:
 
 31 = Sunlight:
