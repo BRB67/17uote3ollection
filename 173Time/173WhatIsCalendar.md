@@ -121,9 +121,9 @@ z = ⠵ = U+2835
 	
 	
 	
-## Daily Journal (DJ) Checklist:
+## Daily Journal (DJ) Checklist of Attempts:
 
-00 = First Aid / Safety First
+00 = Try First Aid / Safety First
 
 1 = Nutrition
 
@@ -197,7 +197,7 @@ z = ⠵ = U+2835
 
 36 = Try Respecting people and creations ??? 
 
-37 = Save Time
+37 = Try Save Time
 
 
 
@@ -217,7 +217,7 @@ z = ⠵ = U+2835
 
 6 = Charity
 
-7 = Stretching (Inspired by various traditions including Yoga)
+7 = Stretching (Inspired by various traditions especially Yoga)
 
 8 = Read Bible (and other written works)
 
@@ -280,6 +280,24 @@ z = ⠵ = U+2835
 36 = Try Respecting people and creations ??? 
 
 37 = Save Time
+
+## February
+
+### February Floating Holidays
+
+## March
+
+### Macrh Floating Holidays
+
+## April
+
+### April Floating Holidays
+
+#### April 16
+
+
+
+
 
 ## May
 
