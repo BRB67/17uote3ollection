@@ -217,7 +217,7 @@ z = ⠵ = U+2835
 
 6 = Charity
 
-7 = Stretching (Inspired by various traditions especially Yoga)
+7 = Stretching (Inspired by various traditions particularly Yoga)
 
 8 = Read Bible (and other written works)
 
@@ -289,14 +289,30 @@ z = ⠵ = U+2835
 
 ### Macrh Floating Holidays
 
+
+
+
+
 ## April
 
 ### April Floating Holidays
 
 #### April 16
 
+	DJ 7 
 
 
+#### April 17
+
+
+
+#### April 18
+
+
+#### April 19
+	
+	DJ 7
+	DJ 8 + 17
 
 
 ## May

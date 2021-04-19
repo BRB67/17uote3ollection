@@ -1939,6 +1939,9 @@ Canaan.
 23:20 And the field, and the cave that is therein, were made sure unto
 Abraham for a possession of a buryingplace by the sons of Heth.
 
+24:1 And Abraham was old, and well stricken in age: and the LORD had blessed
+Abraham in all things.
+
 ## The Book of Psalms
 	
 	Psalm 01
