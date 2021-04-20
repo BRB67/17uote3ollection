@@ -195,9 +195,9 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = Try Respecting people and creations ??? 
+36 = Try Respecting people and creations
 
-37 = Try Save Time
+37 = ¿Try Save Time?
 
 
 
@@ -217,7 +217,7 @@ z = ⠵ = U+2835
 
 6 = Charity
 
-7 = Stretching (Inspired by various traditions particularly Yoga)
+7 = Stretching (Inspired by various traditions particularly Dance And Yoga)
 
 8 = Read Bible (and other written works)
 
@@ -241,7 +241,7 @@ z = ⠵ = U+2835
 
 18 = Card Creation:
 
-19 = Communication (ASL, Braille, Dance, etc):
+19 = Communication (ASL, Braille. ¿Dance?, etc):
 
 20 = Test Memory:
 
@@ -277,9 +277,9 @@ z = ⠵ = U+2835
 
 35 = Trust:
 
-36 = Try Respecting people and creations ??? 
+36 = Try Respecting people and creations 
 
-37 = Save Time
+37 = ¿Try Save Time?
 
 ## February
 
@@ -293,7 +293,7 @@ z = ⠵ = U+2835
 
 
 
-## April
+## April 2021
 
 ### April Floating Holidays
 
@@ -314,6 +314,10 @@ z = ⠵ = U+2835
 	DJ 7
 	DJ 8 + 17
 
+### April 20
+
+	DJ 7 
+	DJ 8 + 17
 
 ## May
 
@@ -321,7 +325,7 @@ z = ⠵ = U+2835
 
 	
 
-#### May 01
+#### May 01 2020
 	Law Day (United States) https://en.wikipedia.org/wiki/Law_Day_(United_States) 
 
 #### May 29

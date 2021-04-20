@@ -1942,6 +1942,26 @@ Abraham for a possession of a buryingplace by the sons of Heth.
 24:1 And Abraham was old, and well stricken in age: and the LORD had blessed
 Abraham in all things.
 
+24:2 And Abraham said unto his eldest servant of his house, that
+ruled over all that he had. Put, I pray thee, thy hand under my 
+thigh: 24:3 And I will make thee swear by the LORD, the God of
+heaven, and the God of the earth, that though shalt not take a wife
+unto my son of the daughters of the Canaanites, among whom I
+dwell: 24:4 But thou shalt go unto my country, and to my kindred,
+and take a wife unto my son Isaac.
+
+24:5 And the servant said unto him, Peradventure the woman
+will not be willing to follow me unto this land: must I needs bring
+thy son again unto the land from whence thou camest? 24:6 And
+Abraham said unto him, Beware thou that thou bring not my son 
+thither again.
+
+24:7 The LORD God of heaven, which took me from my father's
+house, and from the land of my kindred, and which spake unto me,
+and that sware unto me, saying, Unto thy seed will I give this land;
+he shall send his angel before thee, and thou shalt take a wife unto my son
+from thence.
+
 ## The Book of Psalms
 	
 	Psalm 01
