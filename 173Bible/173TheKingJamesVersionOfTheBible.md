@@ -1962,6 +1962,26 @@ and that sware unto me, saying, Unto thy seed will I give this land;
 he shall send his angel before thee, and thou shalt take a wife unto my son
 from thence.
 
+24:8 And if the woman will not be willing to follow thee, then
+thou shalt be clear from this my oath: only bring not my son
+thither again.
+
+24:9 And the servant put his hand under the thigh of Abraham
+his master, and sware to him concerning that matter.
+
+24:10 And the servant took ten camels of the camels of his master,
+and departed; for all the goods of his master were in his
+hand: and he arose, and went to Mesopotamia, unto the city of
+Nahor.
+
+24:11 And he made his camels to kneel down without the city by
+a well of water at the time of the evening, even the time that
+women go out to draw water.
+
+24:12 And he said O LORD God of my master Abrahahm, I pray
+thee, send me good speed this day, and shew kindness unto my
+master Abraham.
+
 ## The Book of Psalms
 	
 	Psalm 01

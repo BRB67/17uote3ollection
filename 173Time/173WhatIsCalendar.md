@@ -29,11 +29,20 @@ Calendar Websites
 
 02 Exercise:
 	Pilates   https://www.youtube.com/user/TBLwithRobinLong
+	
 	Paul Chek https://www.youtube.com/user/PaulChekLive/about
 			https://www.youtube.com/watch?v=Jdn8gK2LDYQ
-	https://www.youtube.com/user/FitnessFAQs
-	https://www.youtube.com/user/Calisthenicmovement/featured
-	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
+			
+	Calisthenicmovement
+	
+		https://www.youtube.com/user/Calisthenicmovement/featured
+		https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
+		¿(^_^)? want to try https://www.youtube.com/watch?v=KzuUs3c-Ajg&t=257s
+			
+	FitnessFAQs https://www.youtube.com/user/FitnessFAQs
+
+	Advanced Human Performance https://www.advancedhumanperformance.com/
+		\(^_^)/  https://www.advancedhumanperformance.com/blog/master-the-single-leg-rdl-hip-hinge
 	
 03 W⠁t⠑r:
 	https://www.youtube.com/watch?v=vkbn499wsWc&list=RDQMO2yPfc9Ab_M&index=2
@@ -42,16 +51,31 @@ Calendar Websites
 	https://www.gutenberg.org/ebooks/10
 	
 07 Stretching:
-	https://www.youtube.com/c/yogawithadriene/featured 
-		https://www.youtube.com/c/yogawithadriene/playlists?view=1&sort=dd&shelf_id=0
-			Foundations of Yoga https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
-			Yoga For Beginners https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
-			Yoga For Your Core  https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
-			Yoga for Mornings  https://www.youtube.com/watch?v=Is8tMCpv4F8&list=PLui6Eyny-UzxMFVoPmxcPX1MOeLyV5uKQ
-			Yoga For Bedtime https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
-			Yoga for Mental Health https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
-			Yoga Full Practices https://www.youtube.com/watch?v=GLy2rYHwUqY&list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf
-	https://www.youtube.com/user/doyogawithme 
+	YogaWithAdriene
+		https://www.youtube.com/c/yogawithadriene
+		
+		https://yogawithadriene.com/
+		 
+			Foundations of Yoga 
+				https://www.youtube.com/watch?v=zLvJD7iKVhw&list=PLui6Eyny-UzyugJTu3l1YFL0k3nGIlaz9
+			Yoga For Beginners 
+				https://www.youtube.com/playlist?list=PLui6Eyny-UzzWwB4h9y7jAzLbeuCUczAl 
+			Yoga For Your Core  
+				https://www.youtube.com/playlist?list=PLui6Eyny-UzzrFSsKAzMbmFMAChWKQm5x
+			Yoga for Mornings  
+				https://www.youtube.com/watch?v=Is8tMCpv4F8&list=PLui6Eyny-UzxMFVoPmxcPX1MOeLyV5uKQ
+			Yoga For Bedtime 
+				https://www.youtube.com/playlist?list=PLui6Eyny-UzxlcWgUFYAcnNInS3SNe6Fs
+			Yoga for Mental Health 
+				https://www.youtube.com/watch?v=Sxddnugwu-8&list=PLui6Eyny-UzwDdFPVSeYN3aTG_B1qtHtz
+			Yoga Full Practices 
+				https://www.youtube.com/watch?v=GLy2rYHwUqY&list=PLui6Eyny-Uzwzd-9fi_cmhz3UW9gS1raf
+	
+	DoYogaWithMe
+		https://www.youtube.com/user/doyogawithme 
+		
+		https://www.doyogawithme.com/
+	
 	https://www.youtube.com/c/SaturnoMovement/featured 
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 	
@@ -65,13 +89,29 @@ Calendar Websites
 		
 	
 17 Hand Dexterity 
-	https://www.youtube.com/user/billvicars
+	American Sign Language 
+		Bill Vicars 
+			https://www.youtube.com/watch?v=eeAq4gkOEUY
+			http://lifeprint.com
 	
+	Hula Hooping
+		Hoop Smiles 
+			https://www.youtube.com/watch?v=W0vleVd2GSE
+			https://www.hoopsmiles.com/
+		 
 29 Music:
 	MP3 and Sheet music files https://www.mfiles.co.uk/classical-mp3.htm 
 	
 35 Trust:
 	https://blog.jostle.me/blog/ways-to-build-trust-at-work
+	
+
+36 Respect:
+
+	https://en.wikipedia.org/wiki/Respect
+
+	https://getpocket.com/explore/item/33-smart-habits-that-will-train-other-people-to-treat-you-with-respect?utm_source=pocket-newtab
+	
 	
 ## Braille Patterns
         0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
@@ -137,7 +177,7 @@ z = ⠵ = U+2835
 
 6 = Charity
 
-7 = Stretching (Inspired by various traditions including Yoga)
+7 = Stretching (Inspired by various traditions particularly Dance And Yoga)
 
 8 = Read Bible (and other written works)
 
@@ -161,7 +201,7 @@ z = ⠵ = U+2835
 
 18 = Card Creation:
 
-19 = Communication (ASL, Braille, Dance, etc):
+19 = 19 = Communication (Alphanumeric, Braille, Nonverbal Communication/Body Language, ASL, DanceChoreography etc):
 
 20 = Test Memory:
 
@@ -197,7 +237,7 @@ z = ⠵ = U+2835
 
 36 = Try Respecting people and creations
 
-37 = ¿Try Save Time?
+37 = ¿Try to Save Time?
 
 
 
@@ -241,7 +281,7 @@ z = ⠵ = U+2835
 
 18 = Card Creation:
 
-19 = Communication (ASL, Braille. ¿Dance?, etc):
+19 = Communication (Alphanumeric, Braille, Nonverbal Communication/Body Language, ASL, DanceChoreography etc):
 
 20 = Test Memory:
 
@@ -279,7 +319,7 @@ z = ⠵ = U+2835
 
 36 = Try Respecting people and creations 
 
-37 = ¿Try Save Time?
+37 = ¿Try to Save Time?
 
 ## February
 
@@ -318,6 +358,23 @@ z = ⠵ = U+2835
 
 	DJ 7 
 	DJ 8 + 17
+	
+### April 21
+
+### April 22
+
+	DJ 8 + 17
+	
+### April 23
+
+	DJ 8 + 17
+	DJ 21
+	
+### April 24
+
+	DJ 8 + 17
+	DJ 21
+	
 
 ## May
 
