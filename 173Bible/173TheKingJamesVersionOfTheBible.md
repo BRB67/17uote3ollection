@@ -1982,6 +1982,19 @@ women go out to draw water.
 thee, send me good speed this day, and shew kindness unto my
 master Abraham.
 
+24:13 Behold, I stand here by the well of water; and the 
+daughters of the men of the city come out to draw water: 24:14
+And let it come to pass, that the damsel to whom I shall say, Let
+down thy pitcher, I pray thee, that I may drink; and she shall say,
+Drink, and I will give thy camels drink also: let the same be she
+that thou hast appointed for thy servant Isaac; and thereby shall I
+know that thou hast shewed kindness unto my master.
+
+24:15 And it came to pass, before he had done speaking, that,
+behold, Rebekah came out, who was born to Bethuel, son of
+Milcah, the wife of Nahor, Abraham's brother, with her pitcher
+upon her shoulder.
+
 ## The Book of Psalms
 	
 	Psalm 01
