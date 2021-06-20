@@ -47,6 +47,16 @@ Calendar Websites
 03 W⠁t⠑r:
 	https://www.youtube.com/watch?v=vkbn499wsWc&list=RDQMO2yPfc9Ab_M&index=2
 	
+05 Meditation:
+	
+	Yoga Breathing
+		https://www.youtube.com/playlist?list=PLui6Eyny-UzwZcCkyW3Oc4PjkqJSOtbWh
+	
+	Pranayama
+	
+		https://www.youtube.com/playlist?list=PLui6Eyny-UzyAMjCXIAq0IJ3NaI4PIieT
+	
+
 08 Read Bible:
 	https://www.gutenberg.org/ebooks/10
 	
@@ -384,6 +394,36 @@ z = ⠵ = U+2835
 
 	DJ 8 + 17
 	
+### April 28
+
+### April 29
+
+	DJ 8
+	DJ 5
+
+
+## May 2021
+
+### May Floating Holidays
+
+	
+
+### May 01 
+	Law Day (United States) https://en.wikipedia.org/wiki/Law_Day_(United_States) 
+
+
+### May 06
+
+	DJ 8 + 17
+
+### May 29
+	16891212 3. 29182084125
+	
+????
+	114425 8. 29182084125
+	
+### 
+
 
 ## May
 

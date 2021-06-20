@@ -1995,6 +1995,62 @@ behold, Rebekah came out, who was born to Bethuel, son of
 Milcah, the wife of Nahor, Abraham's brother, with her pitcher
 upon her shoulder.
 
+24:16 And the damsel was very fair to look upon, a virgin,
+neither had any man known her: and she went down to the well,
+and filled her pitcher, and came up.
+
+24:17 And the servant ran to meet her, and said, Let me, I pray
+thee, drink a little water of thy pitcher.
+
+24:18 And she said, Drink, my lord: and she hasted, and let down
+her pitcher upon her hand, and gave him drink.
+
+24:19 And when she had done giving him drink, she said, I will
+draw water for thy camels also, until they have done drinking.
+
+24:20 And she hasted, and emptied her pitcher into the trough,
+and ran again unto the well to draw water, and drew for all his camels.
+
+24:21 And the man wondering at her held his peace, to wit
+whether the LORD had made his journey prosperous or not.
+
+24:22 And it came to pass, as the camels had done drinking, that
+the man took a golden earring of half a shekel weight, and two
+bracelets for her hands of ten shekels weight of gold; 24:23 And
+said, Whose daughter art thou? tell me, I pray thee: is there room
+in thy father's house for us to lodge in? 24:24 And she said unto
+him, I am the daughter of Bethuel the son of Milcah, which she
+bare unto Nahor.
+
+24:25 She said moreover unto him, We have both straw and
+provender enough, and room to lodge in.
+
+24:26 And the man bowed down his head, and worshipped the 
+LORD.
+
+24:27 And he said, Blessed be the LORD God of my master
+Abraham, who hath not left destitute my master of his mercy and
+his truth: I being in the way, the LORD led me to the house of my
+master's brethren.
+
+24:28 And the damsel ran, and told them of her mother's house
+these things.
+
+24:29 And Rebekah had a brother, and his name was Laban: and
+Laban ran out unto the man, unto the well.
+
+24:30 And it came to pass, when he saw the earring and
+bracelets upon his sister's hands, and when he heard the words of
+Rebekah his sister, saying, Thus spake the man unto me; that he 
+came unto the man; and, behold, he stood by the camels at the well.
+
+24:31 And he said, Come in, thou blessed of the LORD;
+wherefore standest thou without? for I have prepared the house,
+and room for the camels.
+
+
+
+
 ## The Book of Psalms
 	
 	Psalm 01
