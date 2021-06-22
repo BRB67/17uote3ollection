@@ -2048,6 +2048,9 @@ came unto the man; and, behold, he stood by the camels at the well.
 wherefore standest thou without? for I have prepared the house,
 and room for the camels.
 
+24:32 And the man came  into the house; and he ungirded his
+camels, and gave straw and provender for the camels, and water
+to wash his feet, and the men's feet that were with him.
 
 
 
