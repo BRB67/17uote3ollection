@@ -2052,6 +2052,13 @@ and room for the camels.
 camels, and gave straw and provender for the camels, and water
 to wash his feet, and the men's feet that were with him.
 
+24:35 And the LORD hath blessed my master greatly; and he is
+become great: and he hath given him flocks, and herds, and silver;
+and gold, and menservants, and maidservants, and camels, and
+asses.
+
+24:36 And Sarah my master's wife bare a son to my master when
+she was old: and unto him hath he given all that he hath.
 
 
 ## The Book of Psalms
