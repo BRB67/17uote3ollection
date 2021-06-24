@@ -2060,6 +2060,14 @@ asses.
 24:36 And Sarah my master's wife bare a son to my master when
 she was old: and unto him hath he given all that he hath.
 
+24:37 And my master made me swear, saying, Thou shalt not
+take a wife to my son of the daughters of the Canaanites, in whose
+land I dwell: 24:38 But thou shalt go unto my father's house, and
+to my kindred, and take a wife unto my son.
+
+24:39  And I said unto my master, Peradventure the woman will
+not follow me.
+
 
 ## The Book of Psalms
 	
