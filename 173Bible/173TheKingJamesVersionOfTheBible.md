@@ -2068,6 +2068,15 @@ to my kindred, and take a wife unto my son.
 24:39  And I said unto my master, Peradventure the woman will
 not follow me.
 
+24:40 And he said unto me, The LORD, before whom I walk, will
+send his angel with thee, and prosper thy way; and thou shalt take
+a wife for my son of my kindred, and of my father's house: 24:41
+Then shalt thou be clear from this my oath, when thou comest to
+my kindred; and if they give not thee one, thou shalt be clear from
+my oath.
+
+24:
+
 
 ## The Book of Psalms
 	
