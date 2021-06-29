@@ -2075,7 +2075,16 @@ Then shalt thou be clear from this my oath, when thou comest to
 my kindred; and if they give not thee one, thou shalt be clear from
 my oath.
 
-24:
+24:42 And I came this day unto the well, and said O LORD God
+of my master Abraham, if now thou do prosper my way which I go:
+
+24:43 Behold, I stand by the well of water; and it shall come to
+pass, that when the virgin cometh forth to draw water, and I say to
+her, Give me, I pray thee, a little water of thy pitcher to drink;
+24:44 And she say to me, Both drink thou, and I will also draw for 
+thy camels: let the same be the woman whom the LORD hath 
+appointed out for my master's son.
+
 
 
 ## The Book of Psalms
