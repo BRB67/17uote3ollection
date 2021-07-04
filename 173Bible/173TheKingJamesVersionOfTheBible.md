@@ -2085,6 +2085,25 @@ her, Give me, I pray thee, a little water of thy pitcher to drink;
 thy camels: let the same be the woman whom the LORD hath 
 appointed out for my master's son.
 
+24:45 And before I had done speaking in mine heart, behold, 
+Rebekah came forth with her pitcher on her shoulder; and she
+went down unto the well, and drew water: and I said unto her, Let
+me drink, I pray thee.
+
+24:46 And she made haste, and let down her pitcher from her
+shoulder, and said, Drink, and I will give thy camels drink also: so I
+drank, and she made the camels drink also.
+
+24:47 And I asked her; and said, Whose daughter art thou? And
+she said, the daughter of Bethuel, Nahor's son, whom Milcah bare
+unto him: and I put the earring upon her face, and the bracelets
+upon her hands.
+
+24:48 And I bowed down my head, and worshipped the LORD.
+and blessed the LORD God of my master Abraham, which had led
+me in the right way to take my master's brother's daughter unto
+his son.
+
 
 
 ## The Book of Psalms
