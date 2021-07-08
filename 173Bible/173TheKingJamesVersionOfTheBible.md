@@ -2104,6 +2104,13 @@ and blessed the LORD God of my master Abraham, which had led
 me in the right way to take my master's brother's daughter unto
 his son.
 
+24:49 And now if ye will deal kindly and truly with my master;
+tell me: and if not, tell me; that I may turn to the right hand, or to 
+the left.
+
+24:50 Then Laban and Bethuel answered and said, The thing
+proceedeth from the LORD we cannot speak unto thee bad or
+good.
 
 
 ## The Book of Psalms
