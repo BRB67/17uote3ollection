@@ -2119,6 +2119,20 @@ her be thy master's son's wife, as the LORD hath spoken.
 their words, he worshipped the LORD, bowing himself to the
 earth.
 
+24:53 And the servant brought forth jewels of silver, and jewels
+of gold, and rainment, and gave them to Rebekah: he gave also to
+her brother and to her mother precious things.
+
+24:54 And they did eat and drink, he and the men that were with
+him, and tarried all night; and they rose up in the morning, and he
+said, Send me away unto my master.
+
+24:55 And her brother and her mother said, Let the damsel
+abide with us a few days, at least ten; after that she shall go.
+
+24:56 And he said unto them, Hinder me not, seeing the LORD
+hath prospered my way; send  me away that I may go to my master.
+
 ## The Book of Psalms
 	
 	Psalm 01
