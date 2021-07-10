@@ -2112,6 +2112,12 @@ the left.
 proceedeth from the LORD we cannot speak unto thee bad or
 good.
 
+24:51 Behold, Rebekah is before thee, take her, and go, and let
+her be thy master's son's wife, as the LORD hath spoken.
+
+24:52 And it came to pass, that, when Abraham's servant heard
+their words, he worshipped the LORD, bowing himself to the
+earth.
 
 ## The Book of Psalms
 	
