@@ -2133,6 +2133,19 @@ abide with us a few days, at least ten; after that she shall go.
 24:56 And he said unto them, Hinder me not, seeing the LORD
 hath prospered my way; send  me away that I may go to my master.
 
+24:57 And they said, We will call the damsel, and enquire at her
+mouth.
+
+24:58 And they called Rebekah, and said unto her, Wilt thou go
+with this man? And she said, I will go.
+
+24:59 And they sent away Rebekah their sister, and her nurse,
+and Abraham's servant, and his men.
+
+24:60 And they blessed Rebekah, and said unto her, Thou art our
+sister, be thou the mother of thousands of millions, and let thy
+seed possess the gate of those which hate them.
+
 ## The Book of Psalms
 	
 	Psalm 01
@@ -2163,13 +2176,18 @@ hath prospered my way; send  me away that I may go to my master.
 		ungodly, nor standeth in the way of sinners, nor sitteth in the 
 		seat of the scornful.
 		
+	1:1 <Numeric Sum>:
+		(Blessed){2+12+5+19+19+5+4 = 66)
+		(is){9+19 = 28}
+					
+		
 		Numeric Translation:
 			2125191954 919 2085 1314 208120 23112115208 141520 914 2085
 			315211419512 156 2085 211471541225, 141518 192011445208 914
 			2085 23125 156 199141451819, 141518 19920205208 914 2085 
 			195120 156 2085 19315181462112.
 			
-		Brail Translation ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞⠊⠕⠝ :
+		Brail Translation (¿Perhaps this should be done programically given readability of this digital text?) ⠃⠗ ⠁⠊⠇  ⠞⠗⠁⠝⠎⠇⠁⠞⠊⠕⠝ :
 			⠃⠇⠑⠎  ⠊⠎ 
 			
 		
