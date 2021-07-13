@@ -2146,6 +2146,13 @@ and Abraham's servant, and his men.
 sister, be thou the mother of thousands of millions, and let thy
 seed possess the gate of those which hate them.
 
+24:61 And Rebekah arose, and her damsels, and they rode upon
+the camels, and followed the man: and the servant took Rebekah.
+and went his way.
+
+24:62 And Isaac came from the way of the well Lahairoi; for he
+dwelt in the south country.
+
 ## The Book of Psalms
 	
 	Psalm 01
