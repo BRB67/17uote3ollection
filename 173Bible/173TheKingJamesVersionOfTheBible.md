@@ -2153,6 +2153,25 @@ and went his way.
 24:62 And Isaac came from the way of the well Lahairoi; for he
 dwelt in the south country.
 
+24:63 And Isaac went out to meditate in the field at the eventide:
+and he lifted up his eyes, and saw, and, behold, the camels were
+coming.
+
+24:64 And Rebekah lifted up her eyes, and when she saw Isaac,
+she lifghted off the camel.
+
+24:65 For she had said unto the servant, What man is this that
+walketh in the field to meet us? And the servant had said, It is my
+master: therefore she took a vail, and covered herself.
+
+24:66 And the servant told Isaac all things that he had done.
+
+24:67 And Isaac brought her into his mother Sarah's tent, and
+took Rebekah, and she became his wife; and he loved her: and 
+Isaac was comforted after his mother's death.
+
+25:1 Then again Abraham took a wife, and her name was Keturah.
+
 ## The Book of Psalms
 	
 	Psalm 01
