@@ -2172,6 +2172,27 @@ Isaac was comforted after his mother's death.
 
 25:1 Then again Abraham took a wife, and her name was Keturah.
 
+25:2 And she bare him Zimran, and Jokshan, and Medan, and 
+Midian, and Ishbak, and Shuah.
+
+25:3 And Jokshan begat Sheba, and Dedan. And the sons of
+Dedan were Asshurim, and Letushim, and Leummim.
+
+25:4 And the sons of Midian; Ephah, and Epher, and Hanoch,
+and Abidah, and Eldaah. All these were the children of Keturah.
+
+25:5 And Abraham gave all that he had unto Isaac.
+
+25:6 But unto the sons of the concubines, which Abraham had,
+Abraham gave gifts, and sent them away from Isaac his son, while
+he yet lived, eastward, unto the east country.
+
+25:7 And these are the days of the years of Abraham's life which
+he lived, an hundred threescore and fifteen years.
+
+25:8 Then Abraham gave up the ghost, and died in a good old 
+age, an old man, and full of years; and was gathered to his people.
+
 ## The Book of Psalms
 	
 	Psalm 01
