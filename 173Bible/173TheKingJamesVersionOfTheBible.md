@@ -2193,6 +2193,13 @@ he lived, an hundred threescore and fifteen years.
 25:8 Then Abraham gave up the ghost, and died in a good old 
 age, an old man, and full of years; and was gathered to his people.
 
+25:9 And his sons Isaac and Ishmael buried him in the cave of
+Machpelah, in the field of Ephron the son of Zohar the Hittite,
+which is before Mamre; 25:10 The field which Abraham purchased
+of the sons of Heth: there was Abraham buried, and Sarah his
+wife.
+
+
 ## The Book of Psalms
 	
 	Psalm 01
