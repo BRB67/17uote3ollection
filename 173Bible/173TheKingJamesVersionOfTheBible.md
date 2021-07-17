@@ -2199,6 +2199,11 @@ which is before Mamre; 25:10 The field which Abraham purchased
 of the sons of Heth: there was Abraham buried, and Sarah his
 wife.
 
+25:11 And it came to pass after the death of Abraham, that God
+blessed his son Isaac; and Isaac dwelt by the well Lahairoi
+
+25:12 Now these are the generations of Ishmael, Abraham's son,
+whom Hagar the Egyptian, Sarah's handmaid bare unto Abraham:
 
 ## The Book of Psalms
 	
