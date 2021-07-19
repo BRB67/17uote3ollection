@@ -2205,6 +2205,16 @@ blessed his son Isaac; and Isaac dwelt by the well Lahairoi
 25:12 Now these are the generations of Ishmael, Abraham's son,
 whom Hagar the Egyptian, Sarah's handmaid bare unto Abraham:
 
+25:13 And these are the names of the sons of Ishmael, by their
+names, according to their generations: the firstborn of Ishmael,
+Nebajoth; and Kedar, and Adbeel, and Mibsam, 25:14 And Mishma,
+and Dumah, and Massa, 25:15 Hadar, and Tema, Jetur, Naphish,
+and Kedemah: 25:16 These are the sons of Ishmael, and these are
+their names, by their towns, and by their castles; twelve princes
+according to their nations.
+
+
+
 ## The Book of Psalms
 	
 	Psalm 01
