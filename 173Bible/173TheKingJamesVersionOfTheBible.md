@@ -2213,6 +2213,26 @@ and Kedemah: 25:16 These are the sons of Ishmael, and these are
 their names, by their towns, and by their castles; twelve princes
 according to their nations.
 
+25:17 And these are the years of the life of Ishmael, an hundred
+and thirty and seven years: and he gave up the ghost and died;
+and was gathered unto his people.
+
+25:18 And they dwelt from Havilah unto Shur, that is before
+Egypt, as thou goest toward Assyria: and he died in the presence
+of all his brethren.
+
+25:19 And these are the generations of Isaac, Abraham's son:
+Abraham begat Isaac: 25:20 And Isaac was forty years old when he
+took Rebekah to wife, the daughter of Bethuel the Syrian of
+Padanaram, the sister to Laban the Syrian.
+
+25:21 And Isaac intreated the LORD for his wife, because she
+was barren: and the LORD was intreated of him, and Rebekah his
+wife conceived.
+
+25:22 And the children struggled together within her and she 
+said, if it be so, why am I thus? And she went to enquire of the 
+LORD.
 
 
 ## The Book of Psalms
