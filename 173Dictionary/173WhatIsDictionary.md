@@ -61,7 +61,9 @@ z = ⠵ = U+2835
 00a Meeting and Greeting
 00b
 A. Say, "Hello"
+	Di "Bonjou" oubyen "Bonswa"
 B. Ask, "How are you"
+	Mande "Kouman ou ye?"
 C. Introduce yourself
 D. Smile
 E. Hug
