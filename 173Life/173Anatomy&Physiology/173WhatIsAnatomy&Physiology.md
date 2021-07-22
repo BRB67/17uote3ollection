@@ -3,10 +3,27 @@
 ## ¿114120151325 1144 16825199151215725?
 
 ### Souces:
+https://openstax.org/details/books/biology-2e
+Senior Contributing Authors
+	Mary Ann Clark, Texas Wesleyan University
+	Matthew Douglas, Grand Rapids Community College
+	Jung Choi, Georgia Institute of Technology
+
+
 Openstax.org https://openstax.org/details/anatomy-and-physiology  
-J. G. B., Young, K., Wise, J., Johnson, E., Poe, B., 
-	Kruse, D. H. ... Elf, P.(2017). Anatomy and Physiology.
-	Houston Tx: Open Stax
+Senior Contributing Authors
+	J. Gordon Betts, Tyler Junior College
+	Kelly A. Young, California State University, Long Beach
+	James A. Wise, Hampton University
+	Eddie Johnson, Central Oregon Community College
+	Brandon Poe, Springfield Technical Community College
+	Dean H. Kruse, Portland Community College
+	Oksana Korol, Aims Community College
+	Jody E. Johnson, Arapahoe Community College
+	Mark Womble, Youngstown State University
+	Peter DeSaix, University of North Carolina at Chapel Hill
+		
+	
 
 ##### Quote 1. 
 

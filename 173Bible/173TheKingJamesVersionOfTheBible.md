@@ -2234,6 +2234,44 @@ wife conceived.
 said, if it be so, why am I thus? And she went to enquire of the 
 LORD.
 
+25:23 And the LORD said unto her, Two nations are in thy womb,
+and two manner of people shall be separated from thy bowels; and
+the one people shall be stronger than the other people; and the 
+elder shall serve the younger.
+
+25:24 And when her days to be delivered were fulfilled, behold,
+there were twins in her womb.
+
+25:25 And the first came out red, all over like an hairy garment;
+and they called his name Esau.
+
+25:26 And after that came his brother out, and his hand took
+hold on Esau's heel; and his name was called Jacob: and Isaac was
+threescore years old when she bare them.
+
+25:27 And the boys grew: and Esau was a cunning hunter, a man
+of the field; and Jacob was a plain man, dwelling in tents.
+
+25:28 And Isaac loved Esau, because he did eat of his vension:
+but Rebekah loved Jacob.
+
+25:29 And Jacob sod pottage: and Esau came from the field, and
+he was faint: 25:30 And Esau said to Jacob, Feed me, I pray thee,
+with the same red pottage; for I am faint: therefore was his name
+called Edom.
+
+25:31 And Jacob said, Sell me this day thy birthright.
+
+25:32 And Esau said Behold I am at the point to die: and what
+profit shall this birthright do to me? 25:33 And Jacob said, Swear
+to me this day; and he sware unto him: and he sold his birthright
+unto Jacob.
+
+25:34 Then Jacob gave Esau bread and pottage of lentiles; and 
+he did eat and drink, and rose up, and went his way: thus Esau
+despised his birthright.
+
+
 
 ## The Book of Psalms
 	
