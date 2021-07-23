@@ -1,6 +1,6 @@
 # Purpose: The Purpose of this document (cmputer mediated communication) is two fold.
-# Purpose one is to LEARN (bring form to the thoughts) using the King James Version of the Bible.
-#Purpose two is to create a bridge of empathy by creatively copying Bible translations from other languages.
+# Part one is to try to LEARN (bring form to thought) using the King James Version of the Bible.
+#Part two is to try to CREATE (bring ideas to reality) an empathy bridge by copying Bible translations from various languages.
  
 # Quotes Collection (173)
 ## The King James Version of the Bible (KJB) ( ¿2085 119147 10113519 225181991514 156 2085 292125?)
@@ -2274,6 +2274,12 @@ unto Jacob.
 25:34 Then Jacob gave Esau bread and pottage of lentiles; and 
 he did eat and drink, and rose up, and went his way: thus Esau
 despised his birthright.
+
+26:1 And there was a famine in the land, beside the first famine
+that was in the days of Abraham. And Isaac went unto Abimelech
+king of the Philistines unto Gerar.
+
+26:2
 
 
 
