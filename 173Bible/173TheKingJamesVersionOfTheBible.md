@@ -2279,7 +2279,20 @@ despised his birthright.
 that was in the days of Abraham. And Isaac went unto Abimelech
 king of the Philistines unto Gerar.
 
-26:2
+26:2 And the LORD appeared unto him, and said, Go not down
+into Egypt; dwell in the land which I shall tell thee of: 26:3 Sojourn
+in this land, and I will be with thee, and will bless thee; for unto
+thee, and unto thy seed, I will give all these countries, and I will
+perform the oath which I sware unto Abraham thy father; 26:4 And 
+I will make thy seed all these countries; and in thy seed shall all the
+nations of the earth be blessed; 26:5 Because that Abraham
+obeyed my voice, and kept my charge, my commandments, my 
+statutes, and my laws.
+
+26:6 And Isaac dwelt in Gerar: 26:7 And the men of the place
+asked him of his wife; and he said, She is my sisteer: for he feared
+to say, She is my wife; lest, said he, the men of the place should
+kill me for Rebekah; because she was fair to look upon.
 
 
 
