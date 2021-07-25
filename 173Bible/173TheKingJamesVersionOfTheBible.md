@@ -2294,6 +2294,18 @@ asked him of his wife; and he said, She is my sisteer: for he feared
 to say, She is my wife; lest, said he, the men of the place should
 kill me for Rebekah; because she was fair to look upon.
 
+26:8 And it came to  pass, when he had been there a long time,
+that Abimelech king of the Philistines looked out at a window, and
+saw, and, behold, Isaac was sporting with Rebekah his wife.
+
+26:9 And Abimelech called Isaac, and said, Behold, of a surety
+she is thy wife; and how saidst thou, She is my sister? And Isaac
+said unto him, Because I said, Lest I die for her.
+
+
+
+
+
 
 
 ## The Book of Psalms
