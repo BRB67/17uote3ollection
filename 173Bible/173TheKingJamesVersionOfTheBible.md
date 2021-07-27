@@ -2302,6 +2302,21 @@ saw, and, behold, Isaac was sporting with Rebekah his wife.
 she is thy wife; and how saidst thou, She is my sister? And Isaac
 said unto him, Because I said, Lest I die for her.
 
+26:10 And Abimelech said, What is this thou hast done unto us?
+one of the people might lightly have lien with thy wife, and thou
+shouldest have brought guiltiness upon us.
+
+26:11 And Abimelech charged all his people, saying, He that
+toucheth this man or his wife shall surely be put to death.
+
+26:12 Then Isaac sowed in that land, and received in the same 
+year an hundredfold: and the LORD blessed him.
+
+26:13 And the man waxed great, and went forward, and grew
+until he became very great: 26:14 For he had possession of flocks,
+and possession of herds, and great store of servants: and the
+Philistines envied him.
+
 
 
 
