@@ -2317,6 +2317,21 @@ until he became very great: 26:14 For he had possession of flocks,
 and possession of herds, and great store of servants: and the
 Philistines envied him.
 
+26:15 For all the wells which his father's servants had digged in
+the days of Abraham his father, the Philistines had stopped them,
+and filled them with earth.
+
+26:16 And Abimelech said unto Isaac, Go from us; for thou art
+much mightier than we.
+
+26:17 And Isaac departed thence, and pitched his tent in the
+valley of Gerar, and dwelt there.
+
+26:18 And Isaac digged again the wells of water, which they had
+digged in the days of Abraham his father; for the Philistines had
+stopped them after the death of Abraham: and he called their 
+names after the names by which his father had called them.
+
 
 
 
