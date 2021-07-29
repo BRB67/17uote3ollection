@@ -2332,6 +2332,14 @@ digged in the days of Abraham his father; for the Philistines had
 stopped them after the death of Abraham: and he called their 
 names after the names by which his father had called them.
 
+26:20 And the herdmen of Gerar did strive with Isaac's herdmen,
+saying, The water is ours: and he called the name of the well Esek;
+because they strove with him.
+
+26:21 And they digged another well, and strove for that also: and
+he called the name of it Sitnah.
+
+
 
 
 
