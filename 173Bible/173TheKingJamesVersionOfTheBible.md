@@ -2346,6 +2346,45 @@ and we shall be fruitful in the land.
 
 26:23 And he went up from thence to Beersheba.
 
+26:24 And the LORD appeared unto him the same night, and
+said, I am the God of Abraham thy father: fear not, for I am with
+thee, and will bless thee, and multiply thy seed for my servant
+Abraham's sake.
+
+26:25 And he builded an altar there, and called upon the name
+of the LORD, and pitched his tent there: and there Isaac's servants
+digged a well.
+
+26:26 Then Abimelech went to him from Gerar, and Ahuzzath
+one of his friends, and Phichol the chief captain of his army.
+
+26:27 And Isaac said unto them, Wherefore come ye to me,
+seeing ye hate me, and have sent me away from you? 26:28 And
+they said, We saw certainly that the LORD was with thee: and we
+said, Let there be now an oath betwixt us, even betwixt us and
+thee, and let us make a covenant with thee; 26:29 That thou wilt
+do us no hurt, as we have not touched thee, and as we have done 
+unto thee nothing but good, and have sent thee away in peace:
+thou art now the blessed of the LORD.
+
+26:30 And he made them a feast, and they did eat and drink.
+
+26:31 And they rose up betimes in the morning, and sware one
+to another: and Isaac sent them away, and they departed from him
+in peace.
+
+26:32 And it came to pass the same day, that Isaac's servants
+came, and told him concerning the well which they had digged,
+and said unto him, We have found water.
+
+26:33 And he called it Shebah: therefore the name of the city is
+Beersheba unto this day.
+
+26:34 And Esau was forty years old when he took to wife Judith
+the daughter of Beeri the Hittite, and Bashemath the daughter of
+Elon the Hittite: 26:35 Which were a grief of mind unto Isaac and
+Rebekah.
+
 
 
 
