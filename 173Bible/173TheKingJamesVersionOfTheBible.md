@@ -2339,6 +2339,13 @@ because they strove with him.
 26:21 And they digged another well, and strove for that also: and
 he called the name of it Sitnah.
 
+26:22 And he removed from thence, and digged anothere well;
+and for that they strove not: and he called the name of it
+Rehoboth; and he said, For now the LORD hath made room for us,
+and we shall be fruitful in the land.
+
+26:23 And he went up from thence to Beersheba.
+
 
 
 
