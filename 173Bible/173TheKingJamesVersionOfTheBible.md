@@ -1,6 +1,6 @@
-# Purpose: The Purpose of this document (cmputer mediated communication) is two fold.
+# Purpose: The Purpose of this document (computer mediated communication) is two fold.
 # Part one is to try to LEARN (bring form to thought) using the King James Version of the Bible.
-#Part two is to try to CREATE (bring ideas to reality) an empathy bridge by copying Bible translations from various languages.
+# Part two is to try to CREATE (bring ideas to reality) an empathy bridge by copying Bible translations from various languages.
  
 # Quotes Collection (173)
 ## The King James Version of the Bible (KJB) ( ¿2085 119147 10113519 225181991514 156 2085 292125?)
@@ -2399,6 +2399,19 @@ die.
 
 27:5 And Rebekah heard when Isaac spake to Esau his son. And
 Esau went to the field to hunt for venison, and to bring it.
+
+27:6 And Rebekah spake unto Jacob her son, saying, Behold, I heard
+thy father speak unto Esau thy brother, saying, 27:7 Bring me venison,
+and make me savoury meat, that I may eat, and bless thee before the 
+LORD before my death.
+
+27:8 Now therefore, my son, obey my voice according to that which I
+command thee.
+
+27:9 Go now to the flock, and fetch me from thence two good kids of
+the goats; amd I will make them savoury meat for thy father, such as he
+loveth: 27:10 And thou shalt bring it to thy father, that he may eat, and
+that he may bless thee before his death.
 
 
 
