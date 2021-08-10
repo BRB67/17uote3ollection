@@ -2385,6 +2385,20 @@ the daughter of Beeri the Hittite, and Bashemath the daughter of
 Elon the Hittite: 26:35 Which were a grief of mind unto Isaac and
 Rebekah.
 
+27:1 And it came to pass, that when Isaac was old, and his eyes
+were dim, so that he could not see, he called Esau his eldest son,
+and said unto him, My son: and he said unto him, Behold, here am
+I.
+
+27:2 And he said, Behold now, I am old, I know not the day of my
+death: 27:3 Now therefore take, I pray thee, thy weapons, thy
+quiver and thy bow, and go out to the field, and take me some
+venison; 27:4 And make me savoury meat, such as I love, and
+bring it to me, that I may eat; that my soul may bless thee before I
+die.
+
+27:5 And Rebekah heard when Isaac spake to Esau his son. And
+Esau went to the field to hunt for venison, and to bring it.
 
 
 
