@@ -1,3 +1,0 @@
-#index a[href] {
-    content: prince-script(index, attr(href), target-counter(attr(href), page));
-}
