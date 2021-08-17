@@ -2413,6 +2413,25 @@ the goats; amd I will make them savoury meat for thy father, such as he
 loveth: 27:10 And thou shalt bring it to thy father, that he may eat, and
 that he may bless thee before his death.
 
+27:11 And Jacob said to Rebekah his mother, Behold, Esau my
+brother is a hairy man, and I am a smooth man: 27:12 My father
+peradventure will feel me, and I shall seem to him as a deceiver;
+and I shall bring a curse upon me, and not a blessing.
+
+27:13 And his mother said unto him, Upon me be thy curse, my 
+son: only obey my voice, and go fetch me them.
+
+27:14 And he went, and fetched, and brought them to his
+mother: and his mother made savoury meat, such as his father
+loved.
+
+27:15 And Rebekah took goodly raiment of her eldest son Esau,
+which were with her in the house, and put them upon Jacob her
+younger son: 27:16 And she put the skins of the kids of the goats
+upon  his hands, and upon the msooth of his neck: 27:17 And she
+gave the savoury meat and the bread, which she had prepared,
+into the hand of her son Jacob.
+
 
 
 
