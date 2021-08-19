@@ -2432,6 +2432,30 @@ upon  his hands, and upon the msooth of his neck: 27:17 And she
 gave the savoury meat and the bread, which she had prepared,
 into the hand of her son Jacob.
 
+27:18 And he came unto his father, and said, My father: and he
+said, Here am I; who art thou, my son? 27:19 And Jacob said unto
+his father, I am Esau thy first born; I have done according as thou
+badest me: arise, I pray thee, sit and eat of my venison, that thy
+soul may bless me.
+
+27:20 And Isaac said unto his son, How is it that thou hast found
+it so quickly, my son? And he said, Because the LORD thy God
+brought it to me.
+
+27:21 And Isaac said unto Jacob, Come near, I pray thee, that I
+may feel thee, my son, whether thou be my very son Esau or not.
+
+27:22 And Jacob went near unto Isaac his father; and he felt him,
+and said, The voice is Jacob's voice, but the hands are the hands of
+Esau.
+
+27:23 And he discerned him not, because his hands were hairy,
+as his brother Esau's hands: so he blessed him.
+
+27:24 And he said, Art thou my very son Esau? And he said, I
+am.
+
+
 
 
 
