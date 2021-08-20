@@ -2455,6 +2455,13 @@ as his brother Esau's hands: so he blessed him.
 27:24 And he said, Art thou my very son Esau? And he said, I
 am.
 
+27:25 And he said, Bring it near to me, and I will eat of my son's
+venison, that my soul may bless thee. And he brought it near to
+him, and he did eat: and he brought him wine and he drank.
+
+27:26 And his father Isaac said unto him, Come near now, and
+kiss me, my son.
+
 
 
 
