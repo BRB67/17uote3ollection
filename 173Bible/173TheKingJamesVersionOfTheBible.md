@@ -2462,6 +2462,28 @@ him, and he did eat: and he brought him wine and he drank.
 27:26 And his father Isaac said unto him, Come near now, and
 kiss me, my son.
 
+27:27 And he came near, and kissed him: and he smelled the
+smell of his raiment, and blessed him, and said, See, the smell of
+my son is as the smell of a field which the LORD hath blessed:
+27:28 Therefore God give thee of the dew of heaven, and the
+fatness of the earth, and plenty of corn and wine: 27:29 Let people
+serve thee, and nations bow down to thee: be lord over thy
+brethren, and let thy mother's sons bow down to thee: cursed be
+every one that curseth thee, and blessed be he that blesseth thee.
+
+27:30 And it came to pass, as soon as Isaac had made an end of
+blessing Jacob, and Jacob was yet scarce gone out from the
+presence of Isaac his father, that Esau his brother came in from his
+hunting.
+
+27:31 And he also had made savoury meat, and brought it unto
+his father, and said unto his father, Let my father arise, and eat of
+his son's venison, that thy soul may bless me.
+
+27:32 And Isaac his father said unto him, Who art thou? And he
+said, I am thy son, thy firstborn Esau.
+
+
 
 
 
