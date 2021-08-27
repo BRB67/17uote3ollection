@@ -2483,6 +2483,36 @@ his son's venison, that thy soul may bless me.
 27:32 And Isaac his father said unto him, Who art thou? And he
 said, I am thy son, thy firstborn Esau.
 
+27:33 And Isaac trembled very exceedingly, and said, Who?
+where is he that hath taken venison, and brought it me, and I have
+eaten of all before thou camest, and have blessed him? yea, and he
+shall be blessed.
+
+27:34 And when Esau heard the words of his father, he cried
+with a great and exceeding bitter cry, and said unto his father,
+Bless me, even me also, O my father.
+
+27:35 And he said, Thy brother came with subtilty, and hath
+taken away thy blessing.
+
+27:36 And he said, Is not he rightly named Jacob? for he hath
+supplanted me these two times: he took away my birthright; and,
+behold, now he hath taken away my blessing. And he said, Hast
+thou not reserved a blessing for me? 27:37 And Isaac answered 
+and said unto Esau, Behold, I have made him thy lord, and all his
+brethren have I given to him for servants; and with corn and wine
+have I sustained him: and what shall I do now unto thee, my son?
+27:38 And Esau said unto his father, Hast thou but one blessing,
+my father? bless me, even me also, O my father. And Esau lifted up
+his voice, and wept.
+
+27:39 And Isaac his father answered and said unto him, Behold,
+thy dwelling shall be the fatness of the earth, and of the dew of
+heaven from above; 27:40 And by thy sword shalt thou live, and
+shlat serve thy brother; and it shall come to pass when thou shalt
+have the dominion, that thou shalt break his yoke from off thy 
+neck.
+
 
 
 
