@@ -2527,6 +2527,10 @@ thee.
 27:43 Now therefore, my son, obey my voice; arise,
 flee thou to Laban my brother to Haran; 27:44 And tarry
 with him a few days, until thy brother's fury turn away;
+27:45 Until thy brother's anger turn away from thee, and
+he forget that which thou hast done to him: then I will 
+send, and fetch thee from thence: why should I be deprived
+also of you both in one day? 27:46 
 
 
 
