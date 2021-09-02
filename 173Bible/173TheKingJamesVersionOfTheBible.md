@@ -2513,6 +2513,24 @@ shlat serve thy brother; and it shall come to pass when thou shalt
 have the dominion, that thou shalt break his yoke from off thy 
 neck.
 
+27:40 And Esau hated Jacob because of the blessing
+wherewith his father blessed him: and Esau said in his
+heart, The days of mourning for my father are at hand;
+then will I slay my brother Jacob.
+
+27:42 And these words of Esau her elder son were told
+to Rebekah: and she sent and called Jacob her younger
+son, and said unto him, Behold, thy brother Esau, as
+touching thee, doth comfort himself, purposing to kill
+thee.
+
+27:43 Now therefore, my son, obey my voice; arise,
+flee thou to Laban my brother to Haran; 27:44 And tarry
+with him a few days, until thy brother's fury turn away;
+27:45 Until thy brother's anger turn away from thee, and
+he forget that which thou hast done to him: then I will 
+send, and fetch thee from thence: why should I be deprived
+also of you both in one day? 27:46 
 
 
 
