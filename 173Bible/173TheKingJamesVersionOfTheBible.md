@@ -2530,7 +2530,13 @@ with him a few days, until thy brother's fury turn away;
 27:45 Until thy brother's anger turn away from thee, and
 he forget that which thou hast done to him: then I will 
 send, and fetch thee from thence: why should I be deprived
-also of you both in one day? 27:46 
+also of you both in one day? 27:46 And Rebekah said to
+Isaac, I am weary of my life because of the daughters of Heth: if
+Jacob take a wife of the daughters of Heth, such as these which
+are of the daughters of the land, what good shall my life do me?
+28:1 And Isaac called Jacob, and blessed him, and charged him,
+and said unto him, Thou shalt not take a wife of the daughters of 
+Canaan.
 
 
 
