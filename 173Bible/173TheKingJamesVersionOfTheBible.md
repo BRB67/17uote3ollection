@@ -2538,6 +2538,13 @@ are of the daughters of the land, what good shall my life do me?
 and said unto him, Thou shalt not take a wife of the daughters of 
 Canaan.
 
+28:2 Arise, go to Padanaram, to the house of Bethuel thy
+mother's father; and take thee a wife from thence of the daughters
+of Laban thy mother's brother.
+
+28:3 And God Almighty bless thee, and make the fruitful, and
+multiply thee, that thou mayest be a multitude of people;
+
 
 
 
