@@ -2543,7 +2543,14 @@ mother's father; and take thee a wife from thence of the daughters
 of Laban thy mother's brother.
 
 28:3 And God Almighty bless thee, and make the fruitful, and
-multiply thee, that thou mayest be a multitude of people;
+multiply thee, that thou mayest be a multitude of people; 28:4 And
+give thee the blessing of Abraham, to thee, and to thy seed with
+thee; that thou mayest inherit the land wherein thou art a
+stranger, which God gave unto Abraham.
+
+28:5 And Isaac sent away Jacob: and he went to Pandanaram unto
+Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's
+and Esau's mother.
 
 
 
