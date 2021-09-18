@@ -2564,6 +2564,14 @@ sister of Nebajoth, to be his wife.
 
 28:10 And Jacob went out from Beersheba, and went toward Haran.
 
+28:11 And he lighted upon a certain place, and tarried there all
+night, because the sun was set; and he took of the stones of that
+place, and put them for his pillows, and lay down in that place to
+sleep.
+
+28:12 And he dreamed, and behold a ladder set up on the earth,
+and the top of it reached to heaven: and behold the angels of God
+ascending and descending on it.
 
 
 
