@@ -17,12 +17,14 @@ Calendar Websites
 ### Daily Journal (DJ) Resources
 
 00 First Aid = Safety First:
+
 	https://en.wikipedia.org/wiki/First_aid 
 	Kmart First Aid Kits: https://www.kmart.com/search=first%20aid
 	Amazon First Aid Kits: https://www.amazon.com/s?k=first+aid&ref=nb_sb_noss_1
 	Walmart First Aid Kits: https://www.walmart.com/search/?query=first%20aid
 
 01 Nutrition:
+
 	https://www.nutrition.gov/
 	https://nutritionfacts.org/
 	https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label
