@@ -47,6 +47,7 @@ Calendar Websites
 		\(^_^)/  https://www.advancedhumanperformance.com/blog/master-the-single-leg-rdl-hip-hinge
 	
 03 W⠁t⠑r:
+
 	https://www.youtube.com/watch?v=vkbn499wsWc&list=RDQMO2yPfc9Ab_M&index=2
 	
 05 Meditation:
@@ -60,9 +61,11 @@ Calendar Websites
 	
 
 08 Read Bible:
+
 	https://www.gutenberg.org/ebooks/10
 	
 07 Stretching:
+
 	YogaWithAdriene
 		https://www.youtube.com/c/yogawithadriene
 		
@@ -92,6 +95,7 @@ Calendar Websites
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 	
 13 Core Moves:
+
 	https://www.youtube.com/user/TBLwithRobinLong
 	https://tonygentilcore.com/2016/11/you-dont-need-core-stability-or-core-strength/
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
@@ -101,6 +105,7 @@ Calendar Websites
 		
 	
 17 Hand Dexterity 
+
 	American Sign Language 
 		Bill Vicars 
 			https://www.youtube.com/watch?v=eeAq4gkOEUY
@@ -112,9 +117,11 @@ Calendar Websites
 			https://www.hoopsmiles.com/
 		 
 29 Music:
+
 	MP3 and Sheet music files https://www.mfiles.co.uk/classical-mp3.htm 
 	
 35 Trust:
+
 	https://blog.jostle.me/blog/ways-to-build-trust-at-work
 	
 
