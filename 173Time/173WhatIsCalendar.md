@@ -29,6 +29,7 @@ Calendar Websites
 	https://www.cdc.gov/nutrition/index.html 
 
 02 Exercise:
+	
 	Pilates   https://www.youtube.com/user/TBLwithRobinLong
 	
 	Paul Chek https://www.youtube.com/user/PaulChekLive/about
