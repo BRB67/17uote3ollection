@@ -343,7 +343,22 @@ z = ⠵ = U+2835
 37 = ¿Try to Save Time?
 
 # 2021
+
+## 2021 December 31
+	
+	DJ 1 ( Sweet potatoes, eggs, water, multivitamin, greek yogurt)
+	
+	DJ 17 ( typed notes on website while listening to audio book on spanish language)
+	
+	DJ 29 (listened to classical music)
+	
+	DJ 2 (Title: START Calisthenics With This 30 DAYS Workout!) (Feelings: Fun but difficult... slowly and surely im getting back into shape)
+	
+	DJ 7 (Title: Yoga For Beginners - 40 Minute Home Yoga Workout) (Feelings: Tears of relief, tension released, \(^_^)/)
+	
+
 ## 2021 December 30
+
 	DJ 7 (Title: Yoga For Beginners - 40 Minute Home Yoga Workout) (Feelings: Yawn of relaxation, tears of peace, relieved, refreshed)
 
 ## February
