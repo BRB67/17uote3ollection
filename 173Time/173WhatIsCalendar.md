@@ -32,6 +32,8 @@ Calendar Websites
 
 02 Exercise:
 	
+	http://www.workoutposters.com/
+	
 	Pilates   https://www.youtube.com/user/TBLwithRobinLong
 	
 	Paul Chek https://www.youtube.com/user/PaulChekLive/about
@@ -67,7 +69,9 @@ Calendar Websites
 	https://www.gutenberg.org/ebooks/10
 	
 07 Stretching:
-
+	
+	http://www.workoutposters.com/
+	
 	YogaWithAdriene
 		https://www.youtube.com/c/yogawithadriene
 		
@@ -97,7 +101,9 @@ Calendar Websites
 	https://www.youtube.com/playlist?list=PLHV-0mn_0GVEGLI5b0UtfvJInV8VGKDDc
 	
 13 Core Moves:
-
+	
+	http://www.workoutposters.com/
+	
 	https://www.youtube.com/user/TBLwithRobinLong
 	https://tonygentilcore.com/2016/11/you-dont-need-core-stability-or-core-strength/
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
@@ -293,7 +299,7 @@ z = ⠵ = U+2835
 13 = Core Moves:
 
 14 = Creative Code:
-	https://www.openprocessing.org/user/187673/
+	
 15 = Foot Work:
 
 16 = Art:
@@ -319,11 +325,9 @@ z = ⠵ = U+2835
 26 = Rhetoric:
 
 27 = Arithmetic:
-	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
-	https://openstax.org/subjects/view-all
+	
 28 = Geometry:
-	Khan Academy https://www.khanacademy.org/profile/EDPBRB/ 
-	https://openstax.org/subjects/view-all
+	
 29 = Music:
 	
 30 = Astronomy:
@@ -341,6 +345,17 @@ z = ⠵ = U+2835
 36 = Try Respecting people and creations 
 
 37 = ¿Try to Save Time?
+
+
+# 2022
+
+## 2022 January 04
+
+	DJ 1 (Ate pasta with vegetables and ragu sauce using a celery strick as a spoon(^_^). )
+	DJ 2 (Did a few squats while watering plants, pushups, 
+	DJ 3 (Drank some water)
+	DJ 8 + 17 (read and handwrote Bible verses from Genesis)
+	DJ 7 (Title: Yoga For Beginners - 40 Minute Home Yoga Workout) (Feeling: Good but a bit tired)
 
 # 2021
 
