@@ -351,11 +351,18 @@ z = ⠵ = U+2835
 
 ## 2022 January 04
 
-	DJ 1 (Ate pasta with vegetables and ragu sauce using a celery strick as a spoon(^_^). )
-	DJ 2 (Did a few squats while watering plants, pushups, 
+	DJ 1 (Ate pasta with vegetables and ragu sauce using a celery stick as a spoon(^_^). ) (ate rice with meat sauce) (ate biscuit and fried chicken)(Feeling: I can try eating healthier)
+	DJ 2 (started morning with segmental rolling)(Did a few squats while watering plants, pushups, energy gained from dribbling basketball for fun cardio)
 	DJ 3 (Drank some water)
-	DJ 8 + 17 (read and handwrote Bible verses from Genesis)
-	DJ 7 (Title: Yoga For Beginners - 40 Minute Home Yoga Workout) (Feeling: Good but a bit tired)
+	DJ 8  (read Bible verses from Genesis)
+	DJ 17 (handwrote Bible verses from Genesis, dribbled basketball, used hand therapy ball, made origami)
+	DJ 16 (made origami flowers and birds)
+	DJ 7 (Title: Yoga For Beginners - 40 Minute Home Yoga Workout) (Feeling: Good but a bit tired)(Strecthing Poster with improvisation)
+	DJ 19 (six step)
+	DJ 31 (while outside in sun, played with medicine and basketball, strecthed, exercised, and made flash cards)
+	DJ 18 (Created flash cards for books of the Bible)
+	DJ 21 (Watered plants)
+	
 
 # 2021
 
