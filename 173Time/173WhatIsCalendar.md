@@ -72,6 +72,17 @@ Calendar Websites
 	
 	http://www.workoutposters.com/
 	
+	CalisthenicMovement
+		
+		3 Perfect Stretches to Start Your Day!
+			https://www.youtube.com/watch?v=34PuShtav1I
+		
+		3 Stretches You Should Do EVERY Day!
+			https://www.youtube.com/watch?v=fOIntjEACgQ
+			
+		Do These 6 Exercises to Increase Your Mobility & Flexibility
+			https://www.youtube.com/watch?v=4zBnM_uozXM
+	
 	YogaWithAdriene
 		https://www.youtube.com/c/yogawithadriene
 		
