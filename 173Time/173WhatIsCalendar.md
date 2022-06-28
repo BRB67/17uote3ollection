@@ -362,6 +362,12 @@ z = ⠵ = U+2835
 
 ## 2022 January 04
 
+	DJ 3 (Drank some water
+	DJ 4 (morning prayer)
+	DJ 7 (3 Perfect Stretches to Start Your Day!; Yoga For Beginners - The Basics - Yoga With Adriene)
+
+## 2022 January 04
+
 	DJ 1 (Ate pasta with vegetables and ragu sauce using a celery stick as a spoon(^_^). ) (ate rice with meat sauce) (ate biscuit and fried chicken)(Feeling: I can try eating healthier)
 	DJ 2 (started morning with segmental rolling)(Did a few squats while watering plants, pushups, energy gained from dribbling basketball for fun cardio)
 	DJ 3 (Drank some water)
