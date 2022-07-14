@@ -83,6 +83,11 @@ Calendar Websites
 		Do These 6 Exercises to Increase Your Mobility & Flexibility
 			https://www.youtube.com/watch?v=4zBnM_uozXM
 	
+	Madfit
+		15 min STRETCH & TRAIN GOOD MORNING WORKOUT
+			https://www.youtube.com/watch?v=zWt8VRHxxgs
+	
+	
 	YogaWithAdriene
 		https://www.youtube.com/c/yogawithadriene
 		
