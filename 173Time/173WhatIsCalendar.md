@@ -365,6 +365,13 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 July 20
+
+	DJ 3 (Drank some water
+	DJ 4 (morning prayer)
+	DJ 5 (Ujjayi Breathing | Yoga with Adriene, )
+	DJ 7 (3 Perfect Stretches to Start Your Day!; Yoga For Beginners - The Basics - Yoga With Adriene)
+
 ## 2022 January 04
 
 	DJ 3 (Drank some water
