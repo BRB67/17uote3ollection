@@ -118,9 +118,24 @@ Calendar Websites
 	
 13 Core Moves:
 	
+	Pilates
+		https://www.youtube.com/user/blogilates
+		
+	Beginner Core
+		
+		Dead Bug Exercise
+			https://www.youtube.com/watch?v=kwWZBbkXtg4
+			
+		Segmental Rolling https://www.youtube.com/watch?v=PWx1V9nVuvc
+		
+		Cat Cow https://www.youtube.com/watch?v=y39PrKY_4JM&t=190s
+		
+		Transverse Abdominis/DeepCore Workout https://www.youtube.com/watch?v=8hSw74XqMAg
+		
+		Beginner Pilates https://www.youtube.com/watch?v=m5DJMRYDSc0&list=PLh5-_EPrYSWfPWR9vZGo9_mGLKcRMTJee&index=9
+	
 	http://www.workoutposters.com/
 	
-	https://www.youtube.com/user/TBLwithRobinLong
 	https://tonygentilcore.com/2016/11/you-dont-need-core-stability-or-core-strength/
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675368/
 		https://www.functionalmovement.com/exercises/33/rolling_lower_body
@@ -364,6 +379,14 @@ z = ⠵ = U+2835
 
 
 # 2022
+
+
+## 2022 August 31
+	
+	DJ 3
+	DJ 4
+	DJ 7 (Morning Yoga - Yoga To Start Your Day!)
+	DJ 8 (Read Bible verses from Genesis)
 
 ## 2022 July 20
 
