@@ -128,9 +128,13 @@ Calendar Websites
 			
 		Segmental Rolling https://www.youtube.com/watch?v=PWx1V9nVuvc
 		
+		Segmental Rolling Variations https://www.youtube.com/watch?v=7HBzwAfLscI
+		
 		Cat Cow https://www.youtube.com/watch?v=y39PrKY_4JM&t=190s
 		
 		Transverse Abdominis/DeepCore Workout https://www.youtube.com/watch?v=8hSw74XqMAg
+		
+		4 Beginner Core Exercises https://www.youtube.com/watch?v=3XVGDYuPay4
 		
 		Beginner Pilates https://www.youtube.com/watch?v=m5DJMRYDSc0&list=PLh5-_EPrYSWfPWR9vZGo9_mGLKcRMTJee&index=9
 	
