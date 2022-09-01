@@ -385,6 +385,12 @@ z = ⠵ = U+2835
 # 2022
 
 
+	DJ 3
+	DJ 4
+	DJ 7 (Morning Yoga - Energizing Morning Sequence)
+	DJ 8
+	DJ 13 (Transverse Abdominis/DeepCore Workout)
+
 ## 2022 August 31
 	
 	DJ 3
