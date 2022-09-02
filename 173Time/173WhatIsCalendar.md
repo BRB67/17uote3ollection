@@ -383,8 +383,14 @@ z = ⠵ = U+2835
 
 
 # 2022
+	
+## 2022 September 02	
+	DJ 3
+	DJ 4
+	DJ 7 (Morning Yoga for Beginners - Gentle Morning Yoga)
+	DJ 8
 
-
+## 2022 September 01
 	DJ 3
 	DJ 4
 	DJ 7 (Morning Yoga - Energizing Morning Sequence)
