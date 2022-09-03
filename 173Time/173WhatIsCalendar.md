@@ -34,7 +34,7 @@ Calendar Websites
 	
 	http://www.workoutposters.com/
 	
-	Pilates   https://www.youtube.com/user/TBLwithRobinLong
+	Pilates   https://www.youtube.com/user/TBLwithRobinLong or https://www.youtube.com/user/blogilates 
 	
 	Paul Chek https://www.youtube.com/user/PaulChekLive/about
 			https://www.youtube.com/watch?v=Jdn8gK2LDYQ
@@ -384,6 +384,12 @@ z = ⠵ = U+2835
 
 # 2022
 	
+## 2022 September 03
+	DJ 3
+	DJ 4
+	DJ 7 (Gentle Yoga - 25 Minute Morning Yoga Sequence)
+	DJ 8
+
 ## 2022 September 02	
 	DJ 3
 	DJ 4
