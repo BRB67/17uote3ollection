@@ -387,6 +387,12 @@ z = ⠵ = U+2835
 ## 2022 September 03
 	DJ 3
 	DJ 4
+	DJ 7 (Morning Yoga On The Road - Yoga for Travel)
+	DJ 8
+
+## 2022 September 03
+	DJ 3
+	DJ 4
 	DJ 7 (Gentle Yoga - 25 Minute Morning Yoga Sequence)
 	DJ 8
 
