@@ -384,7 +384,16 @@ z = ⠵ = U+2835
 
 # 2022
 	
-## 2022 September 03
+
+## 2022 September 05
+	DJ 3
+	DJ 4
+	DJ 7 (Yoga To Get The Juices Flowing - Morning Yoga)
+	DJ 8
+	DJ 13 (4 Best core exercises for beginners)
+	
+
+## 2022 September 04
 	DJ 3
 	DJ 4
 	DJ 7 (Morning Yoga On The Road - Yoga for Travel)
