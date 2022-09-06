@@ -383,7 +383,15 @@ z = ⠵ = U+2835
 
 
 # 2022
-	
+
+
+## 2022 September 05
+	DJ 3
+	DJ 4
+	DJ 7 (Greet the Day Yoga - Yoga With Adriene)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Butterfly Bridge)
+
 
 ## 2022 September 05
 	DJ 3
