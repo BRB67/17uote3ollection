@@ -384,6 +384,10 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 05
+	DJ 3
+	DJ 4
+	DJ 8 (Bible Reading Genesis)
 
 ## 2022 September 05
 	DJ 3
