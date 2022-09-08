@@ -384,12 +384,20 @@ z = ⠵ = U+2835
 
 # 2022
 
-## 2022 September 05
+
+## 2022 September 08
+	DJ 3
+	DJ 4
+	DJ 7 (Morning Yoga - Yoga To Start Your Day!)
+	DJ 8 (Bible Reading Genesis)
+
+
+## 2022 September 07
 	DJ 3
 	DJ 4
 	DJ 8 (Bible Reading Genesis)
 
-## 2022 September 05
+## 2022 September 06
 	DJ 3
 	DJ 4
 	DJ 7 (Greet the Day Yoga - Yoga With Adriene)
