@@ -308,6 +308,12 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 09
+	DJ 3
+	DJ 4
+	DJ 7 (Yoga Morning Fresh | 35-Minute Morning Yoga )
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Segmental Rolling)
 
 ## 2022 September 08
 	DJ 3
