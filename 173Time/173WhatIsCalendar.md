@@ -308,6 +308,13 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 10
+	DJ 3
+	DJ 4
+	DJ 7 (Yoga For Hips, Hamstrings and Lower Back with David Procyshyn | DoYogaWithMe.com)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Plank Pose, Segmental Rolling)
+
 
 ## 2022 September 10
 	DJ 3
