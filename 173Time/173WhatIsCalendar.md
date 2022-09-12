@@ -308,7 +308,14 @@ z = ⠵ = U+2835
 
 # 2022
 
-## 2022 September 10
+## 2022 September 12
+	DJ 3
+	DJ 4
+	DJ 7 (Compassion Yoga - Core Strength Vinyasa)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Plank Pose, Segmental Rolling)
+
+## 2022 September 11
 	DJ 3
 	DJ 4
 	DJ 7 (Yoga For Hips, Hamstrings and Lower Back with David Procyshyn | DoYogaWithMe.com)
