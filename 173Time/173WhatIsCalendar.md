@@ -308,6 +308,14 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 13
+	DJ 3
+	DJ 4
+	DJ 7 (Day 1 - Ease Into It - 30 Days of Yoga)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Plank Pose, Segmental Rolling)
+
+
 ## 2022 September 12
 	DJ 3
 	DJ 4
