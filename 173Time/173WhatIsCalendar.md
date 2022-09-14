@@ -49,6 +49,10 @@ Calendar Websites
 
 	Advanced Human Performance https://www.advancedhumanperformance.com/
 		\(^_^)/  https://www.advancedhumanperformance.com/blog/master-the-single-leg-rdl-hip-hinge
+		
+	Challenges:
+		
+		1000 Squats https://www.youtube.com/watch?v=fF71IJUXGOk&t=136s
 	
 03 W⠁t⠑r:
 
@@ -308,6 +312,13 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 14
+	DJ 3
+	DJ 4
+	DJ 7 (Day 2 - Stretch & Soothe - 30 Days of Yoga)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Plank Pose, Segmental Rolling, Squats)
+
 ## 2022 September 13
 	DJ 3
 	DJ 4
@@ -328,7 +339,7 @@ z = ⠵ = U+2835
 	DJ 4
 	DJ 7 (Yoga For Hips, Hamstrings and Lower Back with David Procyshyn | DoYogaWithMe.com)
 	DJ 8 (Bible Reading Genesis)
-	DJ 13 (Plank Pose, Segmental Rolling)
+	DJ 13 (Plank Pose, Segmental Rolling, Squats{Tried Challenge: https://youtu.be/fF71IJUXGOk })
 
 
 ## 2022 September 10
