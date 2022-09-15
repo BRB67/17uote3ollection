@@ -16,7 +16,7 @@ Calendar Websites
 
 ### Daily Journal (DJ) Resources
 
-00 First Aid = Safety First:
+00 FREE SPACE (First Aid = Safety First):
 
 	https://en.wikipedia.org/wiki/First_aid 
 	Kmart First Aid Kits: https://www.kmart.com/search=first%20aid
@@ -140,7 +140,7 @@ Calendar Websites
 		
 		4 Beginner Core Exercises https://www.youtube.com/watch?v=3XVGDYuPay4
 		
-		Beginner Pilates https://www.youtube.com/watch?v=m5DJMRYDSc0&list=PLh5-_EPrYSWfPWR9vZGo9_mGLKcRMTJee&index=9
+		Beginner Pilates https://www.youtube.com/user/blogilates/search?query=beginner
 	
 	http://www.workoutposters.com/
 	
@@ -229,7 +229,7 @@ z = ⠵ = U+2835
 	
 ## Daily Journal (DJ) Checklist of Attempts:
 
-00 = Try First Aid / Safety First
+00 = FREE SPACE (Try First Aid / Safety First)
 
 1 = Nutrition
 
@@ -312,12 +312,19 @@ z = ⠵ = U+2835
 
 # 2022
 
+## 2022 September 15
+	DJ 3
+	DJ 4
+	DJ 7 (Day 3 - Forget What You Know - 30 Days of Yoga)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 ("Ab Blast | BEGINNER PILATES ABS WORKOUT", Segmental Rolling, Plank Pose, Squats)
+
 ## 2022 September 14
 	DJ 3
 	DJ 4
 	DJ 7 (Day 2 - Stretch & Soothe - 30 Days of Yoga)
 	DJ 8 (Bible Reading Genesis)
-	DJ 13 (Plank Pose, Segmental Rolling, Squats)
+	DJ 13 ( Segmental Rolling, Plsnk Pose, Squats)
 
 ## 2022 September 13
 	DJ 3
