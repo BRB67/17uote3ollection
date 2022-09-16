@@ -312,6 +312,14 @@ z = ⠵ = U+2835
 
 # 2022
 
+
+## 2022 September 16
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 7 (Morning Yoga for Beginners - Gentle Morning Yoga)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 ("Accessing Your Deep Core Without Crunches FULL WORKOUT", Segmental Rolling, ButterflyBridges, Plank Pose)
+
 ## 2022 September 15
 	DJ 3
 	DJ 4
