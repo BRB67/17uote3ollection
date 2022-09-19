@@ -317,6 +317,12 @@ z = ⠵ = U+2835
 	DJ 3 (Water with Vitamins)
 	DJ 4
 	DJ 8 (Bible Reading Genesis)
+	DJ 34 (slept instead of doing morning stretching and exercises)
+
+## 2022 September 17
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 8 (Bible Reading Genesis)
 	DJ 34 (naped, and activley rested with a walk)
 
 ## 2022 September 16
