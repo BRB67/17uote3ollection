@@ -313,19 +313,28 @@ z = ⠵ = U+2835
 # 2022
 
 
-## 2022 September 17
+
+## 2022 September 20
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 7 (Gentle Yoga - 25 Minute Morning Yoga Sequence)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 ( Segmental Rolling, ButterflyBridges, Plank Pose)
+
+
+## 2022 September 19
 	DJ 3 (Water with Vitamins)
 	DJ 4
 	DJ 8 (Bible Reading Genesis)
 	DJ 34 (slept instead of doing morning stretching and exercises)
 
-## 2022 September 17
+## 2022 September 18
 	DJ 3 (Water with Vitamins)
 	DJ 4
 	DJ 8 (Bible Reading Genesis)
 	DJ 34 (naped, and activley rested with a walk)
 
-## 2022 September 16
+## 2022 September 17
 	DJ 3 (Water with Vitamins)
 	DJ 4
 	DJ 7 (Fundamentals of Ease | 35-Minute Home Yoga | Yoga With Adriene)
