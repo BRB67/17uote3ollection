@@ -150,6 +150,14 @@ Calendar Websites
 		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953329/ 
 	https://www.youtube.com/channel/UC2hs0Q-Zwhn_kb06neNSvTA
 		
+		
+		
+		
+15 Foot Work
+	
+	Romanian Deadlift Single Leg
+		https://www.advancedhumanperformance.com/blog/master-the-single-leg-rdl-hip-hinge 
+	
 	
 17 Hand Dexterity 
 
@@ -312,6 +320,14 @@ z = ⠵ = U+2835
 
 # 2022
 
+
+## 2022 September 22
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 7 (Yoga For Sensitive Knees | Yoga With Adriene)
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 (Segmental Rolling, ButterflyBridges, Plank Pose)
+	DJ 15 (Single Leg Romanian Deadlift)
 
 
 ## 2022 September 20
