@@ -320,7 +320,12 @@ z = ⠵ = U+2835
 
 # 2022
 
-
+## 2022 September 24
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 ("Ab Blast | BEGINNER PILATES ABS WORKOUT", Segmental Rolling, ButterflyBridges, Plank Pose)
+	DJ 15 (Single Leg Assisted Squats)
 
 ## 2022 September 24
 	DJ 3 (Water with Vitamins)
@@ -328,8 +333,6 @@ z = ⠵ = U+2835
 	DJ 8 (Bible Reading Genesis)
 	DJ 13 (Beginners Abs & Butt Workout,Segmental Rolling, ButterflyBridges, Plank Pose)
 	DJ 15 (Single Leg Assisted Squats)
-
-
 
 
 ## 2022 September 22
