@@ -160,6 +160,12 @@ Calendar Websites
 	
 	Foot & Ankle Strengthening & Stretch Exercise Program For Intrinsics, Arch, Athletes and Runners
 		https://www.youtube.com/watch?v=6WF4KHZBriA 
+		
+	Wrist Pain | Strain | Sprain | TFCC Rehab (Hand | Forearm Strength & Mobility Exercises)
+		https://youtu.be/QKAiNAhlXac
+		
+	Storm´s Footwork fundamentals #01 Intro
+		https://youtu.be/D319k5qarNk
 	
 17 Hand Dexterity 
 
@@ -321,6 +327,15 @@ z = ⠵ = U+2835
 
 
 # 2022
+
+
+## 2022 October 4
+	DJ 3 (Water with Vitamins)
+	DJ 4
+	DJ 7 ("Yoga For Beginners - The Basics - Yoga With Adriene")
+	DJ 8 (Bible Reading Genesis)
+	DJ 13 ("Ab Blast | BEGINNER PILATES ABS WORKOUT", Dead Bug, Segmental Rolling, ButterflyBridges, Plank Pose)
+	DJ 15 (Single Leg RDL, "Foot & Ankle Strengthening & Stretch Exercise Program For Intrinsics, Arch, Athletes and Runners"{1-6})
 
 
 ## 2022 September 30
