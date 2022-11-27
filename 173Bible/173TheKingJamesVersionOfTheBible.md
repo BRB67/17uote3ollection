@@ -1,6 +1,6 @@
 # Purpose: The Purpose of this document (computer mediated communication) is two fold.
-# Part one is to try to LEARN (bring form to thought) using the King James Version of the Bible.
-# Part two is to try to CREATE (bring ideas to reality) an empathy bridge by copying Bible translations from various languages.
+# Part one is to try to LEARN (....?bring form to thought?) using the King James Version of the Bible.
+# Part two is to try to CREATE (...?bring ideas to reality?) an empathy bridge by copying Bible translations from various languages.
  
 # Quotes Collection (173)
 ## The King James Version of the Bible (KJB) ( ¿2085 119147 10113519 225181991514 156 2085 292125?)
@@ -2573,6 +2573,11 @@ sleep.
 and the top of it reached to heaven: and behold the angels of God
 ascending and descending on it.
 
+28:13 And, behold, the LORD stood above it, and said, I am the LORD God of
+Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I
+give it, and to thy seed; 28:14 And thy seed shall be as the dust of the earth, and
+thou shalt spread abroad to the west, and to the east, and to the north, and to the
+south: and in thee and in thy seed shall all the families of the earth be blessed.
 
 
 
