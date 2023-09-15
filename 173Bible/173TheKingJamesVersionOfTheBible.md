@@ -2581,7 +2581,10 @@ give it, and to thy seed; 28:14 And thy seed shall be as the dust of the earth, 
 thou shalt spread abroad to the west, and to the east, and to the north, and to the
 south: and in thee and in thy seed shall all the families of the earth be blessed.
 
-
+28:15 And, behold, I am with thee, and will keep 
+thee in all places whither thou goest, and will bring
+thee again into this land; for I will not leave thee,
+until I have done that which I have spoken to thee of.
 
 
 
