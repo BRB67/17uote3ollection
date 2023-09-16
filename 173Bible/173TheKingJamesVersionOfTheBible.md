@@ -2586,6 +2586,12 @@ thee in all places whither thou goest, and will bring
 thee again into this land; for I will not leave thee,
 until I have done that which I have spoken to thee of.
 
+28:16 And Jacob awaked out of his sleep, and he
+said, Surely the LORD is in this place; and I knew it
+not.
+
+28:17 And 
+
 
 
 
