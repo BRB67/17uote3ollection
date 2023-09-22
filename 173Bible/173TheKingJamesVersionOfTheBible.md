@@ -2590,7 +2590,11 @@ until I have done that which I have spoken to thee of.
 said, Surely the LORD is in this place; and I knew it
 not.
 
-28:17 And 
+28:17 And he was afraid, and said, How dreadful is 
+this place! this is none other but the house of God,
+and this is the gate of heaven.
+
+28:18
 
 
 
