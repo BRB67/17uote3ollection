@@ -2594,12 +2594,13 @@ not.
 this place! this is none other but the house of God,
 and this is the gate of heaven.
 
-28:18 And Jkacob rose up early in the morning, and
+28:18 And Jacob rose up early in the morning, and
 took the stone that he had put for his pillows, and set
 it up for a pillar, and poured oil upon the top of it.
 
-28:19
+28:19 And he called the name of that place Bethel: but the name of that city was called Luz at first.
 
+28.20
 
 
 
