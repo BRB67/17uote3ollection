@@ -2600,7 +2600,10 @@ it up for a pillar, and poured oil upon the top of it.
 
 28:19 And he called the name of that place Bethel: but the name of that city was called Luz at first.
 
-28.20
+28.20 And Jacob vowed a vow, saying, If God will
+be withme, and will keep me in this way that I go,
+and will give me bread to eat, and rainment to put on,
+28:21 
 
 
 
