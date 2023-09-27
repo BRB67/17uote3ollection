@@ -2603,7 +2603,13 @@ it up for a pillar, and poured oil upon the top of it.
 28.20 And Jacob vowed a vow, saying, If God will
 be withme, and will keep me in this way that I go,
 and will give me bread to eat, and rainment to put on,
-28:21 
+28:21 So that I cone again to my father's house in
+peace; then shall the LORD be my God; 28:22 And
+this stone, which I have set for a pillar, shall be God's
+house: and of all that thou shalt give me I will surely
+give the tenth unto thee.
+
+  29:1 
 
 
 
