@@ -2609,7 +2609,22 @@ this stone, which I have set for a pillar, shall be God's
 house: and of all that thou shalt give me I will surely
 give the tenth unto thee.
 
-  29:1 
+  29:1 Then Jacob went on his journey, and came
+into the land of the people of the east.
+
+29:2 And he looked, and behold a well in the field,
+and, lo, there were three flocks of sheep lying by it;
+for out of that well they watered the flocks: and a great stone was upon the well's mouth.
+
+29:3 And thither were all the flocks gathered: and 
+they rolled the stone from the well's mouth, and 
+watered the sheep, and put the stone again upon the 
+well's mouth in his place.
+
+  29:4 And Jacob said unto them, My brethren,
+whence be ye? And they said, Of Haran are we.
+
+29:5 
 
 
 
