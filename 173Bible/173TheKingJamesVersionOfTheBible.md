@@ -7,6 +7,8 @@
 ## Assumptions: A = 1, B = 2, C =3 , D = 4, E = 5, F = 6 , G = 7, H = 8, I = 9, J = 10, K = 11, L = 12, M = ??
 ## Assumptiopns: N = 14, O = 15, P = 16, Q = 17, R = 18, S = 19, T = 20, U = 21, V = 22, W = 23, X = 24, Y = 25, Z = 26
 ## [Book Source](http://www.gutenberg.org/ebooks/10)
+## [Additional Book Source](https://www.jw.org/en/) 
+## [Additional Book Source](https://www.jw.org/en/library/bible/study-bible/books/genesis/1/) 
 
 
 ##							Braille Patterns
@@ -46,8 +48,6 @@ x = ⠭ = U+282d
 y = ⠽ = U+283d
 z = ⠵ = U+2835
 
-
-### [Book Source](http://www.gutenberg.org/ebooks/10)
 
 ### The old Testament of the King James Version of the Bible
 ### ¿2084 15124 205192011351420 156 2085 119147 10113519 225181991514
@@ -127,13 +127,20 @@ z = ⠵ = U+2835
 # The Old Testament of the King James Version of the Bible
 
 ## The First Book of Moses: Called Genesis
+### Adding quotes from: https://www.jw.org/en/library/bible/study-bible/books/genesis/1/ 
+
 
 1:1 In the beginning God created the heavewn and the earth.
+1:1 In the beginning God created the heavens and the earth.
 
+1:2 Now the earth was formless and desolate, and there was
+darkness upon the surface of the watery deep, and God's active
+force was moving about over the surface of the waters.
 1:2 And the earth was without form, and void; and darkness was
 upon the face of the deep. And the Spirit of God moved upon the
 face of the waters.
 
+1:3 And God said: "Let there be light." Then there was light.
 1:3 And God said, Let there be light; and there was light.
 
 1:4 And God saw the light, that it was good: and God divided the light
