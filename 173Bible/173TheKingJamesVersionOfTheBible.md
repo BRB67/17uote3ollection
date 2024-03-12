@@ -132,6 +132,7 @@ z = ⠵ = U+2835
 
 1:1 In the beginning God created the heavewn and the earth.
 1:1 In the beginning God created the heavens and the earth.
+GENESIS 1:1 In the beginning God created the heavens and the earth.
 
 1:2 Now the earth was formless and desolate, and there was
 darkness upon the surface of the watery deep, and God's active
