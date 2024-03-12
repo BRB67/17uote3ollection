@@ -127,7 +127,7 @@ z = ⠵ = U+2835
 # The Old Testament of the King James Version of the Bible
 
 ## The First Book of Moses: Called Genesis
-### Adding quotes from: https://www.jw.org/en/library/bible/study-bible/books/genesis/1/ 
+### Adding quotes from various sources including: https://www.jw.org/en/library/bible/study-bible/books/genesis/1/ 
 
 
 1:1 In the beginning God created the heavewn and the earth.
