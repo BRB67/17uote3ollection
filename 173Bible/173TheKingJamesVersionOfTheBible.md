@@ -140,6 +140,7 @@ force was moving about over the surface of the waters.
 1:2 And the earth was without form, and void; and darkness was
 upon the face of the deep. And the Spirit of God moved upon the
 face of the waters.
+GENESIS 1:2 The earth was without form and void; and darkness was on the face of the deep. And the spirit of God was hovering over the face of the waters.
 
 1:3 And God said: "Let there be light." Then there was light.
 1:3 And God said, Let there be light; and there was light.
