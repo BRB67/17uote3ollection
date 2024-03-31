@@ -144,6 +144,8 @@ GENESIS 1:2 The earth was without form and void; and darkness was on the face of
 
 1:3 And God said: "Let there be light." Then there was light.
 1:3 And God said, Let there be light; and there was light.
+1:3 And God said, Let there be light:
+and there was light.
 
 1:4 And God saw the light, that it was good: and God divided the light
 from the darkness.
