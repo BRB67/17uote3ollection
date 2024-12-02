@@ -2635,7 +2635,17 @@ well's mouth in his place.
   29:4 And Jacob said unto them, My brethren,
 whence be ye? And they said, Of Haran are we.
 
-29:5 
+29:5 And he said untpo them, Know ye Laban the son of Nahor? And they said, We know him.
+
+29:6 And he said unto them, Is he well? And they said, He is well; and, behold, Rachel his daughter cometh with the sheep.
+
+29:7 And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them.
+
+29:8 And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the vwell's mouth; then we water the sheep.
+
+29:9 And while he yet spake with them, Rachel came with her father's sheep; for she kept them.
+
+
 
 
 
