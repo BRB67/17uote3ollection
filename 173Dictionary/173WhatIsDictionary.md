@@ -1,7 +1,50 @@
 # Quotes Collection (173)
 
-## Dictionary
-## 493209151411825
+## Definitions  Recorded(Dictionary)
+## Purpose
+UnderstandGodLovesY’all (<3 or 23)  UnderstandNumbersIncreaseThoughtEchos 
+
+Always thank you fOrEver...
+Slowly Organizing Words…
+God is sow, so, sew GoOD GOoD GO<3D grEaT...
+
+God Bless All
+America, and
+Beings Universal.
+
+The purpose of this document is to learn through the practice of recording, using writing and maybe other communication techniques, definitions of words found in various books (dictionaries).  
+
+This list does not intend to be a resource for others to find definitions of words, for that I would recommend acquiring a book of definitions (dictionary). 
+
+These notes intend to be an example of the process in which one person tries to learn new words for Peaceful Language Art Communication Efforts.. 
+
+Assumptions for Alphanumeric Arithmetic: 
+A = 1, B = 2, C = 3
+D = 4
+E = 5
+F = 6
+G = 7
+H = 8
+I = 9
+J = 10
+K = 11
+L = 12
+M = 13
+N = 14
+O = 15
+P = 16
+Q = 17
+R = 18 
+S = 19
+T = 20
+U = 21
+V = 22
+W = 23, X = 24, Y = 25, Z = 26
+
+
+
+
+
 
 ### Sources:
 
