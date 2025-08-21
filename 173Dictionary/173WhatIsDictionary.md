@@ -4,9 +4,9 @@
 ## Purpose
 UnderstandGodLovesY’all (<3 or 23)  UnderstandNumbersIncreaseThoughtEchos 
 
-Always thank you fOrEver...
-Slowly Organizing Words…
-God is sow, so, sew GoOD GOoD GO<3D grEaT...
+Always thank you fOrEver.
+Slowly Organizing Words.
+God is sow, so, sew GoOD GOoD GO<3D grEaT.
 
 God Bless All
 America, and
@@ -20,25 +20,25 @@ These notes intend to be an example of the process in which one person tries to 
 
 Assumptions for Alphanumeric Arithmetic: 
 A = 1, B = 2, C = 3
-D = 4
-E = 5
-F = 6
-G = 7
-H = 8
-I = 9
-J = 10
-K = 11
-L = 12
-M = 13
-N = 14
-O = 15
-P = 16
-Q = 17
-R = 18 
-S = 19
-T = 20
-U = 21
-V = 22
+D = 4,
+E = 5,
+F = 6,
+G = 7,
+H = 8,
+I = 9,
+J = 10,
+K = 11,
+L = 12,
+M = 13,
+N = 14,
+O = 15,
+P = 16,
+Q = 17,
+R = 18,
+S = 19,
+T = 20,
+U = 21,
+V = 22,
 W = 23, X = 24, Y = 25, Z = 26
 
 
@@ -52,6 +52,19 @@ W = 23, X = 24, Y = 25, Z = 26
 [ https://elt.oup.com/catalogue/items/global/dictionaries/oxford_picture_dictionary/9780194740142?cc=global&selLanguage=en&mode=hub]
 
 (Oxford Picture Dictionary English/Spanish Dictionary)[ https://elt.oup.com/catalogue/items/global/dictionaries/oxford_picture_dictionary_third_edition/9780194505284?cc=global&selLanguage=en&mode=hub]
+
+## WORDS
+a (1 noun often capitalized){
+	1: the first letter of the English alphabet
+ 	2: a grade rating a student's work as superior
+  }
+
+a (2 indefinite article){
+	ONE, SOME --- used to indicate an
+ 	unspecified or unidentified individual
+  	<there's ~ man outside>
+	}
+
 
 
 ##							Braille Patterns
