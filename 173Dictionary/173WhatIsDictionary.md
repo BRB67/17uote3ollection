@@ -57,14 +57,32 @@ W = 23, X = 24, Y = 25, Z = 26
 a (1 noun often capitalized){
 	1: the first letter of the English alphabet
  	2: a grade rating a student's work as superior
-  }
+	(a = 1)  
+}
 
 a (2 indefinite article){
 	ONE, SOME --- used to indicate an
  	unspecified or unidentified individual
   	<there's ~ man outside>
-	}
+	(a = 1)	
+ }
 
+ a (abbreviation, often capitalized){
+ 	1 absent
+	2 acre
+ 	3 alto
+  	4 answer
+   	5 are
+	6 area
+ 	(a = 1)
+  }
+
+AA (abbreviation){
+	1 Alcoholics Anonymous
+ 	2 antiaircraft
+  	3 associate in arts
+   (AA = 1+1 = 2)
+}
 
 
 ##							Braille Patterns
