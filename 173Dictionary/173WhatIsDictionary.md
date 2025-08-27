@@ -84,6 +84,42 @@ AA (abbreviation){
    (AA = 1+1 = 2)
 }
 
+AAA (abbreviation){
+	 American Automobile Association
+  	(AAA = 1+1+1 = 3)
+}
+
+A and M (abbreviation){
+	agricultural and mechanical
+ 		(A and M = 1+ 1+14+4 + 13 = 33)
+}
+
+A and R (abbreviation){
+	artists and repertory
+}
+
+AAPI (abbreviation){
+	Asian American and Pacific Islander
+}
+
+aardvark (noun){
+	a large burrowing African mammal that feeds on
+ 	ants and termites  with its long sticky tongue
+}
+
+ab (noun){
+	an abdominal muscle
+}
+
+ab (abbreviation){
+	about
+}
+
+AB (abbreviation){
+	1 able-bodied seaman
+ 	2 airman baic
+  	3 bachelor of arts
+}
 
 ##							Braille Patterns
         0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F
