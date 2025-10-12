@@ -117,8 +117,13 @@ ab (abbreviation){
 
 AB (abbreviation){
 	1 able-bodied seaman
- 	2 airman baic
+ 	2 airman basic
   	3 bachelor of arts
+}
+
+Abstract (){  
+	opening section of a scientific paper that summarizes the research and conclusions
+		(Abstract = 84) 
 }
 
 ##							Braille Patterns
